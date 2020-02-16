@@ -1247,9 +1247,3 @@ Script Stack (0 frames):
 [2020.02.16-17.37.11:451][772]LogOutputDevice: Error: [Callstack] 0x00007ff82894ced1 ntdll.dll!UnknownFunction []
 [2020.02.16-17.37.11:451][772]LogOutputDevice: Error: 
 [2020.02.16-17.37.11:461][772]LogStats:                SubmitErrorReport -  0.000 s
-[2020.02.16-17.37.12:009][772]LogStats:                    SendNewReport -  0.548 s
-[2020.02.16-17.37.12:009][772]LogStats:             FDebug::EnsureFailed -  0.563 s
-[2020.02.16-17.37.12:705][852]LogEditorTransaction: Undo Clicking on Actors
-[2020.02.16-17.37.13:408][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.02.16-17.37.24:912][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.02.16-17.37.25:004][303]BlueprintLog: New page: Compile CollectibleBP
