@@ -1,0 +1,1254 @@
+﻿Log file open, 03/01/20 21:25:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.552744
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.140s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: Radeon RX Vega
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.01-21.25.38:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:506][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.01-21.25.38:519][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.01-21.25.38:520][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.01-21.25.38:521][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.01-21.25.38:521][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.01-21.25.38:549][  0]LogHAL: Display: Platform has ~ 32 GB [34305310720 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.01-21.25.38:549][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.01-21.25.38:549][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.01-21.25.38:549][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.01-21.25.38:549][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.01-21.25.38:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.01-21.25.38:550][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.01-21.25.38:551][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.01-21.25.38:551][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.01-21.25.38:551][  0]LogInit: Computer: DESKTOP-8E1FM7S
+[2020.03.01-21.25.38:551][  0]LogInit: User: khreb
+[2020.03.01-21.25.38:551][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.03.01-21.25.38:551][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.01-21.25.38:552][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.01-21.25.38:552][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.01-21.25.38:552][  0]LogMemory: Process Physical Memory: 106.33 MB used, 106.33 MB peak
+[2020.03.01-21.25.38:552][  0]LogMemory: Process Virtual Memory: 89.04 MB used, 89.04 MB peak
+[2020.03.01-21.25.38:552][  0]LogMemory: Physical Memory: 7294.16 MB used,  25421.93 MB free, 32716.09 MB total
+[2020.03.01-21.25.38:552][  0]LogMemory: Virtual Memory: 4666.63 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.03.01-21.25.38:909][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.01-21.25.38:909][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.01-21.25.38:910][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.01-21.25.39:380][  0]LogStreaming: Display: Took  0.471s to InitEngineTextLocalization.
+[2020.03.01-21.25.39:381][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.01-21.25.39:446][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.01-21.25.39:446][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.01-21.25.39:705][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.01-21.25.39:705][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.01-21.25.39:734][  0]LogD3D11RHI:    0. 'Radeon RX Vega' (Feature Level 11_0)
+[2020.03.01-21.25.39:734][  0]LogD3D11RHI:       8120/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.03.01-21.25.39:738][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.01-21.25.39:739][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.01-21.25.39:739][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.01-21.25.39:750][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.01-21.25.39:750][  0]LogD3D11RHI:     GPU DeviceId: 0x687f (for the marketing name, search the web for "GPU Device Id")
+[2020.03.01-21.25.39:750][  0]LogWindows: EnumDisplayDevices:
+[2020.03.01-21.25.39:751][  0]LogWindows:    0. 'Radeon RX Vega' (P:1 D:1)
+[2020.03.01-21.25.39:751][  0]LogWindows:    1. 'Radeon RX Vega' (P:0 D:1)
+[2020.03.01-21.25.39:751][  0]LogWindows:    2. 'Radeon RX Vega' (P:0 D:0)
+[2020.03.01-21.25.39:752][  0]LogWindows:    3. 'Radeon RX Vega' (P:0 D:0)
+[2020.03.01-21.25.39:752][  0]LogWindows:    4. 'Radeon RX Vega' (P:0 D:0)
+[2020.03.01-21.25.39:753][  0]LogWindows:    5. 'Radeon RX Vega' (P:0 D:0)
+[2020.03.01-21.25.39:753][  0]LogWindows:    6. 'Radeon RX Vega' (P:0 D:0)
+[2020.03.01-21.25.39:754][  0]LogWindows:    7. 'Radeon RX Vega' (P:0 D:0)
+[2020.03.01-21.25.39:754][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.03.01-21.25.39:754][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega
+[2020.03.01-21.25.39:754][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.9.2 (internal:26.20.13003.1007, unified:26.20.13003.1007)
+[2020.03.01-21.25.39:754][  0]LogD3D11RHI:      Driver Date: 9-10-2019
+[2020.03.01-21.25.39:754][  0]LogRHI: Texture pool is 5684 MB (70% of 8120 MB)
+[2020.03.01-21.25.39:821][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.01-21.25.39:835][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.03.01-21.25.40:197][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.01-21.25.40:214][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.01-21.25.40:231][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.01-21.25.40:247][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.01-21.25.40:266][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.01-21.25.40:284][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.01-21.25.40:302][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.01-21.25.40:320][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.01-21.25.40:328][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.01-21.25.40:435][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.01-21.25.40:503][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.01-21.25.40:503][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.01-21.25.40:534][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.01-21.25.40:534][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.01-21.25.40:552][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.01-21.25.40:567][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.01-21.25.40:582][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.01-21.25.40:598][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.01-21.25.40:655][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.01-21.25.40:655][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.01-21.25.40:655][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.01-21.25.40:727][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Intermediate/Shaders/WorkingDirectory/3592/).
+[2020.03.01-21.25.40:727][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/khreb/AppData/Local/Temp/UnrealShaderWorkingDir/19FACB3B480178096AC0B591396C61E8/'.
+[2020.03.01-21.25.40:729][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.01-21.25.40:730][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.01-21.25.40:730][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.01-21.25.41:330][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.01-21.25.41:378][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/khreb/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.01-21.25.41:378][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/khreb/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.01-21.25.41:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.01-21.25.41:378][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.01-21.25.41:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.01-21.25.41:378][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.01-21.25.41:395][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.01-21.25.41:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.01-21.25.41:396][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.01-21.25.41:408][  0]LogDerivedDataCache: Using Local data cache path C:/Users/khreb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.01-21.25.41:408][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.01-21.25.41:408][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.01-21.25.41:440][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.01-21.25.41:442][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.01-21.25.41:442][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.01-21.25.41:540][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2020.03.01-21.25.42:022][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.01-21.25.42:192][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.01-21.25.42:197][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.01-21.25.42:197][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.01-21.25.42:197][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.01-21.25.42:197][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.01-21.25.42:212][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2020.03.01-21.25.42:884][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.180531 seconds
+[2020.03.01-21.25.42:895][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.01-21.25.42:895][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.01-21.25.42:895][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.01-21.25.43:866][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.01-21.25.43:881][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.01-21.25.44:603][  0]SourceControl: Source control is disabled
+[2020.03.01-21.25.44:603][  0]SourceControl: Source control is disabled
+[2020.03.01-21.25.44:605][  0]SourceControl: Source control is disabled
+[2020.03.01-21.25.44:606][  0]SourceControl: Source control is disabled
+[2020.03.01-21.25.44:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.01-21.25.45:269][  0]LogOcInput: OculusInput pre-init called
+[2020.03.01-21.25.45:415][  0]LogEngine: Initializing Engine...
+[2020.03.01-21.25.45:416][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.01-21.25.45:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.01-21.25.45:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.01-21.25.45:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.01-21.25.45:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.01-21.25.45:662][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.01-21.25.45:679][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.01-21.25.45:721][  0]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-21.25.45:790][  0]LogInit: FAudioDevice initialized.
+[2020.03.01-21.25.45:790][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.01-21.25.45:853][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/khreb/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.01-21.25.45:863][  0]LogInit: Texture streaming: Enabled
+[2020.03.01-21.25.45:888][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.01-21.25.45:907][  0]LogInit: Transaction tracking system initialized
+[2020.03.01-21.25.45:935][  0]BlueprintLog: New page: Editor Load
+[2020.03.01-21.25.46:035][  0]LocalizationService: Localization service is disabled
+[2020.03.01-21.25.46:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/' took 0.02s
+[2020.03.01-21.25.46:587][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.01-21.25.46:587][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.01-21.25.46:587][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.01-21.25.46:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.01-21.25.46:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.01-21.25.46:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.01-21.25.46:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.01-21.25.46:764][  0]SourceControl: Source control is disabled
+[2020.03.01-21.25.46:765][  0]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-21.25.46:774][  0]LightingResults: New page: Lighting Build
+[2020.03.01-21.25.46:778][  0]MapCheck: New page: Map Check
+[2020.03.01-21.25.46:778][  0]LightingResults: New page: Lighting Build
+[2020.03.01-21.25.47:528][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator0' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:528][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator1' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:528][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator2' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:528][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator3' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:528][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::Enum_MAX' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:789][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator0' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:789][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator1' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:789][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator2' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.47:789][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator3' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.01-21.25.49:249][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.01-21.25.49:275][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-21.25.49:314][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-21.25.49:314][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2020.03.01-21.25.49:314][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 2.550
+[2020.03.01-21.25.49:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-21.25.49:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-21.25.49:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-21.25.49:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-21.25.49:516][  0]LogCollectionManager: Loaded 0 collections in 0.002680 seconds
+[2020.03.01-21.25.49:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Collections/' took 0.01s
+[2020.03.01-21.25.49:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/Developers/khreb/Collections/' took 0.00s
+[2020.03.01-21.25.49:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/Collections/' took 0.00s
+[2020.03.01-21.25.49:541][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.01-21.25.49:556][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2651 classes and 620 folders.
+[2020.03.01-21.25.49:567][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.01-21.25.49:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.01-21.25.49:961][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.01-21.25.49:973][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.03.01-21.25.50:114][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.01-21.25.50:119][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.01-21.25.50:129][  0]LogSlate: Took 0.006058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.01-21.25.50:302][  0]LogRenderer: Reallocating scene render targets to support 1852x872 Format 10 NumSamples 1 (Frame:1).
+[2020.03.01-21.25.50:611][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.01-21.25.50:611][  0]LogLoad: (Engine Initialization) Total time: 14.66 seconds
+[2020.03.01-21.25.50:611][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.01-21.25.50:674][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.01-21.25.50:771][  1]LogRenderer: Reallocating scene render targets to support 1852x884 Format 10 NumSamples 1 (Frame:2).
+[2020.03.01-21.25.51:286][  6]LogAssetRegistry: Asset discovery search completed in 9.7685 seconds
+[2020.03.01-21.25.51:288][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.01-21.25.51:288][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2020.03.01-21.25.53:921][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.06.22:282][ 86]LogSlate: Took 0.007417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.01-23.06.22:295][ 86]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/SynthvaniaContent/ART/Blockout_GraveyardAssets/Bones_Coffins/All_Graves_Together_Stone5.All_Graves_Together_Stone5
+[2020.03.01-23.06.25:390][225]LogRenderer: Reallocating scene render targets to support 1912x1324 Format 10 NumSamples 1 (Frame:102).
+[2020.03.01-23.06.25:390][225]LogSlate: Took 0.005518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.01-23.06.25:596][241]LogSlate: Window 'All_Graves_Together_Stone5' being destroyed
+[2020.03.01-23.06.28:076][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.06.30:603][686]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/SynthvaniaContent/ART/Blockout_GraveyardAssets/Bones_Coffins/All_Graves_Together_Stone2.All_Graves_Together_Stone2
+[2020.03.01-23.06.33:325][811]LogSlate: Window 'All_Graves_Together_Stone2' being destroyed
+[2020.03.01-23.06.37:350][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.06.41:798][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.01-23.06.42:686][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.06.48:220][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.06.58:521][845]LogAIModule: Creating AISystem for world Cemetary_Map
+[2020.03.01-23.06.58:544][845]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/Cemetary_Map.Cemetary_Map
+[2020.03.01-23.06.58:581][845]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Cemetary_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.06.58:581][845]LightingResults: New page: Lighting Build
+[2020.03.01-23.06.58:582][845]LoadErrors: New page: Loading map: Cemetary_Map.umap
+[2020.03.01-23.06.58:584][845]MapCheck: New page: Map Check
+[2020.03.01-23.06.58:584][845]LightingResults: New page: Lighting Build
+[2020.03.01-23.06.58:764][845]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.06.58:853][845]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.06.58:854][845]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.226ms to complete.
+[2020.03.01-23.06.58:854][845]LogFileHelpers: Loading map 'Cemetary_Map' took 0.274
+[2020.03.01-23.07.02:362][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.07.04:498][231]LogAIModule: Creating AISystem for world Cemetary_Map_ART_Blockout_jj
+[2020.03.01-23.07.04:566][231]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/Cemetary_Map_ART_Blockout_jj.Cemetary_Map_ART_Blockout_jj
+[2020.03.01-23.07.04:605][231]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Cemetary_Map_ART_Blockout_jj.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.07.04:605][231]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.04:607][231]LoadErrors: New page: Loading map: Cemetary_Map_ART_Blockout_jj.umap
+[2020.03.01-23.07.04:610][231]MapCheck: New page: Map Check
+[2020.03.01-23.07.04:610][231]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.04:957][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.07.05:047][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.07.05:047][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.275ms to complete.
+[2020.03.01-23.07.05:047][231]LogFileHelpers: Loading map 'Cemetary_Map_ART_Blockout_jj' took 0.445
+[2020.03.01-23.07.09:017][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM__Tree_JS14)
+[2020.03.01-23.07.09:335][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.01-23.07.16:424][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.07.16:700][199]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.01-23.07.16:704][199]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/MainMenu.MainMenu
+[2020.03.01-23.07.16:739][199]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.07.16:739][199]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.16:740][199]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.03.01-23.07.16:746][199]MapCheck: New page: Map Check
+[2020.03.01-23.07.16:746][199]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.16:889][199]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.07.17:015][199]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.07.17:016][199]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2020.03.01-23.07.17:016][199]LogFileHelpers: Loading map 'MainMenu' took 0.278
+[2020.03.01-23.07.18:620][288]LogMaterial: Display: Missing cached shader map for material Resting_M, compiling. 
+[2020.03.01-23.07.18:700][288]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.01-23.07.18:700][288]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.01-23.07.18:700][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.01-23.07.18:700][288]LogStaticMesh: Building static mesh Part_3_Floor...
+[2020.03.01-23.07.18:706][288]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/Blueprints/Enviromental/Part_3_Floor.Part_3_Floor
+[2020.03.01-23.07.18:722][288]LogStaticMesh: Building static mesh Part_3_Wall...
+[2020.03.01-23.07.18:723][288]LogStaticMesh: Built static mesh [0.00s] /Game/SynthvaniaContent/Blueprints/Enviromental/Part_3_Wall.Part_3_Wall
+[2020.03.01-23.07.18:734][288]LogMaterial: Display: Missing cached shader map for material Pickup_M, compiling. 
+[2020.03.01-23.07.18:764][288]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.01-23.07.18:765][288]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.01-23.07.18:765][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.01-23.07.18:765][288]LogMaterial: Display: Missing cached shader map for material Enemy_M, compiling. 
+[2020.03.01-23.07.18:797][288]LogAIModule: Creating AISystem for world Part_3
+[2020.03.01-23.07.18:820][288]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/Part_3.Part_3
+[2020.03.01-23.07.18:859][288]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.01-23.07.18:859][288]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.01-23.07.18:859][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.01-23.07.18:863][288]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Part_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.07.18:863][288]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.18:864][288]LoadErrors: New page: Loading map: Part_3.umap
+[2020.03.01-23.07.18:865][288]MapCheck: New page: Map Check
+[2020.03.01-23.07.18:865][288]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.19:103][288]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.07.19:205][288]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.07.19:206][288]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.323ms to complete.
+[2020.03.01-23.07.19:206][288]LogFileHelpers: Loading map 'Part_3' took 0.345
+[2020.03.01-23.07.20:361][348]LogAIModule: Creating AISystem for world SHIP
+[2020.03.01-23.07.20:375][348]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/SHIP.SHIP
+[2020.03.01-23.07.20:407][348]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SHIP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.07.20:408][348]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.20:408][348]LoadErrors: New page: Loading map: SHIP.umap
+[2020.03.01-23.07.20:413][348]MapCheck: New page: Map Check
+[2020.03.01-23.07.20:413][348]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.20:566][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.07.20:675][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.07.20:676][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2020.03.01-23.07.20:676][348]LogFileHelpers: Loading map 'SHIP' took 0.270
+[2020.03.01-23.07.24:798][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.07.25:014][743]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.01-23.07.25:034][743]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/SideScrollerExampleMap.SideScrollerExampleMap
+[2020.03.01-23.07.25:069][743]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.07.25:069][743]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.25:070][743]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2020.03.01-23.07.25:071][743]MapCheck: New page: Map Check
+[2020.03.01-23.07.25:071][743]LightingResults: New page: Lighting Build
+[2020.03.01-23.07.25:275][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.07.25:414][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.07.25:414][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2020.03.01-23.07.25:414][743]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.348
+[2020.03.01-23.07.26:423][805]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/SynthvaniaContent/Levels/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2020.03.01-23.07.32:753][906]LogSlate: Window 'SideScrollerExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2020.03.01-23.07.32:757][906]LogSlate: Window 'SideScrollerExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2020.03.01-23.10.25:961][750]LogAIModule: Creating AISystem for world Cemetary_Map_ART_Blockout_jj
+[2020.03.01-23.10.46:439][436]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.10.52:168][866]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary
+[2020.03.01-23.10.53:753][866]LogSlate: Window 'Save Content' being destroyed
+[2020.03.01-23.10.55:456][866]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MainMenuCemetary425628CC4200C74FA6B073B86925059A.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/MainMenuCemetary.umap'
+[2020.03.01-23.10.55:496][866]LogFileHelpers: Saving map 'MainMenuCemetary' took 1.731
+[2020.03.01-23.10.59:003][866]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MainMenuCemetary_BuiltData6C075CFB4E9DB6AAA98FE9BF87F7C5D6.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/MainMenuCemetary_BuiltData.uasset'
+[2020.03.01-23.10.59:008][866]Cmd: MAP LOAD FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/MainMenuCemetary.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.01-23.10.59:008][866]LightingResults: New page: Lighting Build
+[2020.03.01-23.10.59:009][866]LoadErrors: New page: Loading map: MainMenuCemetary.umap
+[2020.03.01-23.10.59:010][866]MapCheck: New page: Map Check
+[2020.03.01-23.10.59:010][866]LightingResults: New page: Lighting Build
+[2020.03.01-23.10.59:330][866]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.01-23.10.59:422][866]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.01-23.10.59:423][866]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2020.03.01-23.10.59:424][866]LogFileHelpers: Loading map 'MainMenuCemetary' took 0.417
+[2020.03.01-23.13.47:097][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.14.07:215][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.14.07:332][572]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-23.14.07:381][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.07:381][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-23.14.07:382][572]PIE: New page: PIE session: MainMenuCemetary (1 Mar 2020 23:14:07)
+[2020.03.01-23.14.07:394][572]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/BP_Instance'
+[2020.03.01-23.14.07:395][572]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/BP_Instance'
+[2020.03.01-23.14.07:395][572]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/BP_Instance.BP_Instance_C'
+[2020.03.01-23.14.07:395][572]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary
+[2020.03.01-23.14.07:538][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142383s)
+[2020.03.01-23.14.07:538][572]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.14.07:539][572]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2020.03.01-23.14.07:539][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary to /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary (0.143795s)
+[2020.03.01-23.14.07:616][572]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-23.14.07:688][572]LogInit: FAudioDevice initialized.
+[2020.03.01-23.14.07:738][572]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2020.03.01-23.14.07:739][572]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2020.03.01-23.14.07:739][572]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.03.01-23.14.07:739][572]LogLoad: Game class is 'GameModeBase'
+[2020.03.01-23.14.07:778][572]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary up for play (max tick rate 0) at 2020.03.01-23.14.07
+[2020.03.01-23.14.07:780][572]LogWorld: Bringing up level for play took: 0.036458
+[2020.03.01-23.14.07:801][572]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.01-23.14.07:805][572]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary 0.767
+[2020.03.01-23.14.07:805][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.19:703][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.19:703][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.14.19:747][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-23.14.19:748][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.19:784][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.14.19:861][676]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.01-23.14.47:383][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone15)
+[2020.03.01-23.14.48:386][138]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.03.01-23.14.49:206][190]Cmd: DELETE
+[2020.03.01-23.14.49:206][190]Cmd: ACTOR DELETE
+[2020.03.01-23.14.49:286][190]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2020.03.01-23.14.49:354][190]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2020.03.01-23.14.50:437][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.14.50:539][289]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-23.14.50:587][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.50:587][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-23.14.50:587][289]PIE: New page: PIE session: MainMenuCemetary (1 Mar 2020 23:14:50)
+[2020.03.01-23.14.50:588][289]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary
+[2020.03.01-23.14.50:729][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141146s)
+[2020.03.01-23.14.50:730][289]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.14.50:730][289]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2020.03.01-23.14.50:730][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary to /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary (0.142546s)
+[2020.03.01-23.14.50:806][289]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-23.14.50:895][289]LogInit: FAudioDevice initialized.
+[2020.03.01-23.14.50:932][289]LogLoad: Game class is 'GameModeBase'
+[2020.03.01-23.14.50:971][289]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary up for play (max tick rate 0) at 2020.03.01-23.14.50
+[2020.03.01-23.14.50:972][289]LogWorld: Bringing up level for play took: 0.040282
+[2020.03.01-23.14.50:988][289]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary -0.05
+[2020.03.01-23.14.50:988][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.52:947][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.52:947][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.14.52:991][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-23.14.52:991][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.14.53:028][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.14.53:093][470]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.01-23.14.55:496][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm_Mausoleum)
+[2020.03.01-23.14.56:259][718]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.01-23.15.00:319][ 47]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.15.03:656][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone15)
+[2020.03.01-23.15.07:664][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.15.18:612][490]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.01-23.15.33:438][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.16.35:875][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone15)
+[2020.03.01-23.16.37:614][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.16.39:625][754]LogSlate: Window 'Select Path' being destroyed
+[2020.03.01-23.16.39:773][754]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint
+[2020.03.01-23.16.40:804][754]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2020.03.01-23.16.56:962][354]LogSlate: Window 'All_Graves_Together_Stone15_Blueprint*' being destroyed
+[2020.03.01-23.17.30:414][666]BlueprintLog: New page: Compile All_Graves_Together_Stone15_Blueprint
+[2020.03.01-23.17.39:749][288]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.01-23.17.55:080][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:083][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.All_Graves_Together_Stone15_Blueprint.Widget' 
+[2020.03.01-23.17.55:086][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:098][791]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:109][792]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:119][793]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:129][794]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:140][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:150][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:161][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:171][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:181][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:192][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:202][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:212][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:223][803]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:233][804]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:244][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:255][806]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:265][807]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:276][808]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:286][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:298][810]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:309][811]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:320][812]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:331][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:342][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:354][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:365][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:376][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:386][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:397][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:407][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:417][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:428][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.17.55:440][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:711][557]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:714][557]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.All_Graves_Together_Stone15_Blueprint.Widget' 
+[2020.03.01-23.18.02:717][557]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:729][558]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:739][559]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:751][560]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:763][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:774][562]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:785][563]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:797][564]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:809][565]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:822][566]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:834][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:846][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:857][569]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:868][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:879][571]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:889][572]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:900][573]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:911][574]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:921][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:933][576]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:944][577]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:955][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:966][579]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:976][580]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:987][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.02:998][582]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:008][583]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:020][584]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:031][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:041][586]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:052][587]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:063][588]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:073][589]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:084][590]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:095][591]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:106][592]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:118][593]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:130][594]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:140][595]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:150][596]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:161][597]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:171][598]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:182][599]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:193][600]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:203][601]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:214][602]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:225][603]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:235][604]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:246][605]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:257][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:268][607]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:279][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:289][609]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:300][610]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:310][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:321][612]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:332][613]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:344][614]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.03:355][615]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.All_Graves_Together_Stone15_Blueprint_C_0.Widget' 
+[2020.03.01-23.18.10:304][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.18.37:918][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.18.38:017][794]BlueprintLog: New page: Compile All_Graves_Together_Stone15_Blueprint
+[2020.03.01-23.18.40:292][910]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-23.18.40:346][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.18.40:346][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-23.18.40:347][910]PIE: New page: PIE session: MainMenuCemetary (1 Mar 2020 23:18:40)
+[2020.03.01-23.18.40:347][910]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary
+[2020.03.01-23.18.40:492][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145136s)
+[2020.03.01-23.18.40:493][910]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.18.40:493][910]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2020.03.01-23.18.40:494][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary to /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary (0.146346s)
+[2020.03.01-23.18.40:581][910]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-23.18.40:672][910]LogInit: FAudioDevice initialized.
+[2020.03.01-23.18.40:708][910]LogLoad: Game class is 'GameModeBase'
+[2020.03.01-23.18.40:736][910]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary up for play (max tick rate 0) at 2020.03.01-23.18.40
+[2020.03.01-23.18.40:739][910]LogWorld: Bringing up level for play took: 0.030285
+[2020.03.01-23.18.40:753][910]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary -0.284
+[2020.03.01-23.18.40:754][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.18.42:637][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.18.42:638][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.18.42:686][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-23.18.42:686][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.18.42:738][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.18.42:804][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.01-23.18.43:772][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.19.25:739][553]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.19.26:056][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone7)
+[2020.03.01-23.19.31:852][  5]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.19.32:243][ 29]Cmd: TRANSACTION UNDO
+[2020.03.01-23.19.32:243][ 29]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.01-23.19.33:026][ 69]Cmd: TRANSACTION UNDO
+[2020.03.01-23.19.33:026][ 69]LogEditorTransaction: Undo Move Actors
+[2020.03.01-23.19.45:847][ 12]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.19.48:435][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone7)
+[2020.03.01-23.19.52:328][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Coffin)
+[2020.03.01-23.19.52:519][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.01-23.19.55:440][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone7)
+[2020.03.01-23.19.56:497][794]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.19.57:698][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone7)
+[2020.03.01-23.20.01:911][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.20.03:108][280]LogSlate: Window 'Select Path' being destroyed
+[2020.03.01-23.20.03:256][280]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint
+[2020.03.01-23.20.31:904][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.20.33:840][336]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.20.35:226][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.20.37:716][583]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.20.38:400][626]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.20.42:059][869]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.20.43:012][940]Cmd: DELETE
+[2020.03.01-23.20.43:012][940]Cmd: ACTOR DELETE
+[2020.03.01-23.20.43:097][940]LogEditorActor: Deleted Actor: CameraActor
+[2020.03.01-23.20.43:176][940]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2020.03.01-23.20.45:511][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Modular_Main159)
+[2020.03.01-23.20.46:303][225]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2020.03.01-23.20.48:140][352]Cmd: DELETE
+[2020.03.01-23.20.48:140][352]Cmd: ACTOR DELETE
+[2020.03.01-23.20.48:222][352]LogEditorActor: Deleted Actor: CameraActor
+[2020.03.01-23.20.48:303][352]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2020.03.01-23.20.48:701][392]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2020.03.01-23.20.49:425][434]Cmd: DELETE
+[2020.03.01-23.20.49:425][434]Cmd: ACTOR DELETE
+[2020.03.01-23.20.49:506][434]LogEditorActor: Deleted Actor: CameraActor
+[2020.03.01-23.20.49:583][434]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2020.03.01-23.20.51:295][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.21.00:709][885]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.21.01:492][931]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.01-23.21.01:913][961]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.21.02:330][978]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.21.21:210][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.01-23.21.30:126][ 62]LogEditorViewport: Clicking on Actor (LMB): All_Graves_Together_Stone15_Blueprint_C (All_Graves_Together_Stone15_Blueprint)
+[2020.03.01-23.21.30:797][104]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.22.04:349][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.SKEL_All_Graves_Together_Stone15_Blueprint_C' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint_C' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.SKEL_All_Graves_Together_Stone15_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.SKEL_All_Graves_Together_Stone15_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.SKEL_All_Graves_Together_Stone15_Blueprint_C:ReceiveTick' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.SKEL_All_Graves_Together_Stone15_Blueprint_C:Widget' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.SKEL_All_Graves_Together_Stone15_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint_C:Widget' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:258][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/All_Graves_Together_Stone15_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.SKEL_All_Graves_Together_Stone7_Blueprint_C' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint_C' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.SKEL_All_Graves_Together_Stone7_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.SKEL_All_Graves_Together_Stone7_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.SKEL_All_Graves_Together_Stone7_Blueprint_C:ReceiveTick' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.SKEL_All_Graves_Together_Stone7_Blueprint_C:Widget' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:340][761]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.SKEL_All_Graves_Together_Stone7_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/All_Graves_Together_Stone7_Blueprint.PackageMetaData'
+[2020.03.01-23.22.19:494][761]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/All_Graves_Together_Stone15_BlueEBE36F2141CF92472B0B49979A3DA815.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.uasset'
+[2020.03.01-23.22.19:554][761]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/All_Graves_Together_Stone7_Bluep1E4E9D304DC3AECE6E53729216FC9587.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.uasset'
+[2020.03.01-23.22.38:274][693]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.01-23.22.54:856][810]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/MM2.MM2
+[2020.03.01-23.22.55:538][810]LogSlate: Took 0.008432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.01-23.23.21:218][934]BlueprintLog: New page: Compile MM2
+[2020.03.01-23.23.25:912][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.23.28:205][520]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.01-23.23.38:297][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.23.50:996][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.23.58:356][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.24.13:952][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.24.14:024][593]BlueprintLog: New page: Compile All_Graves_Together_Stone7_Blueprint
+[2020.03.01-23.24.21:676][169]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/StartGame.StartGame
+[2020.03.01-23.24.49:701][880]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.01-23.25.00:650][606]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.01-23.25.20:052][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.25.32:790][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.25.32:859][472]BlueprintLog: New page: Compile All_Graves_Together_Stone15_Blueprint
+[2020.03.01-23.25.52:540][439]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/MM1.MM1
+[2020.03.01-23.26.11:452][593]LogSlate: Took 0.008741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.01-23.26.26:336][271]BlueprintLog: New page: Compile MM1
+[2020.03.01-23.26.50:357][765]BlueprintLog: New page: Compile MM2
+[2020.03.01-23.27.27:073][174]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary
+[2020.03.01-23.27.50:523][706]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.03.01-23.28.03:278][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.01-23.28.15:592][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.28.19:960][749]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.01-23.28.35:122][152]LogEditorViewport: Clicking on Actor (LMB): All_Graves_Together_Stone15_Blueprint_C (All_Graves_Together_Stone15_Blueprint)
+[2020.03.01-23.28.36:325][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.30.06:363][508]LogEditorTransaction: Undo Move Node
+[2020.03.01-23.30.06:936][559]LogEditorTransaction: Undo Move Node
+[2020.03.01-23.30.54:928][289]LogEditorViewport: Clicking on Actor (LMB): All_Graves_Together_Stone7_Blueprint_C (All_Graves_Together_Stone7_Blueprint)
+[2020.03.01-23.30.56:023][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.32.54:282][643]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MainMenuCemetary_Auto13F93EEEC4DA08D6D6F6052AAF63F4117.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/MainMenuCemetary_Auto1.umap'
+[2020.03.01-23.32.54:290][643]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/MainMenuCemetary' took 1.745
+[2020.03.01-23.32.54:291][643]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.745
+[2020.03.01-23.32.54:298][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SynthvaniaContent/Blueprints/Widgets/MM2] ([1] browsable assets)...
+[2020.03.01-23.32.54:298][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/Blueprints/Widgets/MM2]
+[2020.03.01-23.32.54:318][643]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MM2_Auto187F496AB456F5D8D41F2E78F20092791.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Blueprints/Widgets/MM2_Auto1.uasset'
+[2020.03.01-23.32.54:322][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SynthvaniaContent/Blueprints/Widgets/MainMenuPawn] ([1] browsable assets)...
+[2020.03.01-23.32.54:322][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/Blueprints/Widgets/MainMenuPawn]
+[2020.03.01-23.32.54:344][643]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MainMenuPawn_Auto1EB103006448784F521974C95F3720E91.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Blueprints/Widgets/MainMenuPawn_Auto1.uasset'
+[2020.03.01-23.32.54:346][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SynthvaniaContent/Blueprints/Widgets/MM1] ([1] browsable assets)...
+[2020.03.01-23.32.54:346][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/Blueprints/Widgets/MM1]
+[2020.03.01-23.32.54:369][643]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MM1_Auto130B1406E44ADBC2C40C69381BDD74AE0.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Blueprints/Widgets/MM1_Auto1.uasset'
+[2020.03.01-23.32.54:371][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint] ([1] browsable assets)...
+[2020.03.01-23.32.54:412][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint]
+[2020.03.01-23.32.54:412][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint]
+[2020.03.01-23.32.54:459][643]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/All_Graves_Together_Stone15_BlueE00BF63E402A01E121471F86EA09F9F5.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint_Auto1.uasset'
+[2020.03.01-23.32.54:462][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint] ([1] browsable assets)...
+[2020.03.01-23.32.54:479][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint]
+[2020.03.01-23.32.54:479][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint]
+[2020.03.01-23.32.54:527][643]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/All_Graves_Together_Stone7_Bluep46DC2A204A712259F8A03981BA34B7FD.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint_Auto1.uasset'
+[2020.03.01-23.32.54:529][643]LogFileHelpers: Auto-saving content packages took 0.232
+[2020.03.01-23.36.00:356][366]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SynthvaniaContent/Blueprints/Widgets/MainMenuPawn.MainMenuPawn
+[2020.03.01-23.36.02:994][552]BlueprintLog: New page: Compile MainMenuPawn
+[2020.03.01-23.36.29:979][299]BlueprintLog: New page: Compile MainMenuPawn
+[2020.03.01-23.36.57:965][367]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.All_Graves_Together_Stone15_Blueprint
+[2020.03.01-23.37.14:288][354]BlueprintLog: New page: Compile All_Graves_Together_Stone15_Blueprint
+[2020.03.01-23.37.17:437][546]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.All_Graves_Together_Stone7_Blueprint
+[2020.03.01-23.37.35:944][ 43]BlueprintLog: New page: Compile All_Graves_Together_Stone7_Blueprint
+[2020.03.01-23.37.38:921][157]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-23.37.39:005][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.39:005][157]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.01-23.37.39:010][157]LogPlayLevel: [PlayLevel] Compiling MM1 before play...
+[2020.03.01-23.37.39:370][157]LogPlayLevel: [PlayLevel] Compiling MM2 before play...
+[2020.03.01-23.37.39:714][157]LogPlayLevel: [PlayLevel] Compiling MainMenuCemetary before play...
+[2020.03.01-23.37.40:111][157]LogPlayLevel: PlayLevel: Blueprint regeneration took 1106 ms (3 blueprints)
+[2020.03.01-23.37.40:111][157]PIE: New page: PIE session: MainMenuCemetary (1 Mar 2020 23:37:40)
+[2020.03.01-23.37.40:112][157]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary
+[2020.03.01-23.37.40:255][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143162s)
+[2020.03.01-23.37.40:256][157]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.37.40:256][157]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2020.03.01-23.37.40:256][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary to /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary (0.144503s)
+[2020.03.01-23.37.40:350][157]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-23.37.40:440][157]LogInit: FAudioDevice initialized.
+[2020.03.01-23.37.40:455][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.37.40:494][157]LogLoad: Game class is 'GameModeBase'
+[2020.03.01-23.37.40:521][157]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary up for play (max tick rate 0) at 2020.03.01-23.37.40
+[2020.03.01-23.37.40:522][157]LogWorld: Bringing up level for play took: 0.027326
+[2020.03.01-23.37.40:538][157]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary 1.5
+[2020.03.01-23.37.40:538][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.41:715][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.41:716][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.37.41:769][256]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.01-23.37.41:817][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-23.37.41:817][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.41:922][257]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.03.01-23.37.43:501][438]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-23.37.43:559][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.43:560][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-23.37.43:560][438]PIE: New page: PIE session: MainMenuCemetary (1 Mar 2020 23:37:43)
+[2020.03.01-23.37.43:560][438]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary
+[2020.03.01-23.37.43:702][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141354s)
+[2020.03.01-23.37.43:702][438]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.37.43:703][438]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2020.03.01-23.37.43:703][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary to /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary (0.142560s)
+[2020.03.01-23.37.43:802][438]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-23.37.43:891][438]LogInit: FAudioDevice initialized.
+[2020.03.01-23.37.43:910][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.37.43:948][438]LogLoad: Game class is 'GameModeBase'
+[2020.03.01-23.37.43:982][438]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary up for play (max tick rate 0) at 2020.03.01-23.37.43
+[2020.03.01-23.37.43:983][438]LogWorld: Bringing up level for play took: 0.034643
+[2020.03.01-23.37.43:999][438]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary 0.962
+[2020.03.01-23.37.44:000][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.45:069][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.37.56:913][772]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.01-23.37.56:925][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.56:979][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-23.37.56:979][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.37.57:079][773]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.03.01-23.38.46:051][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Coffin)
+[2020.03.01-23.38.52:067][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.38.56:730][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Coffin)
+[2020.03.01-23.38.58:180][ 83]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (All_Graves_Together_Stone6)
+[2020.03.01-23.38.58:255][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.01-23.38.59:002][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Coffin)
+[2020.03.01-23.39.00:117][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.39.01:390][317]LogSlate: Window 'Select Path' being destroyed
+[2020.03.01-23.39.01:519][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.01-23.39.01:524][317]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Coffin_Blueprint.Coffin_Blueprint
+[2020.03.01-23.39.18:442][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.39.20:439][996]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2020.03.01-23.39.36:184][ 53]Cmd: TRANSACTION UNDO
+[2020.03.01-23.39.36:184][ 53]LogEditorTransaction: Undo Move Actors
+[2020.03.01-23.39.36:187][ 53]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.01-23.39.37:366][ 53]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.180 s
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: 
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: 
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: Stack: 
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeece085e8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea94fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea97acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea96140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea9cb427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeeaa0f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea9a726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea960b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:366][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeea95a786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeeb260b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffed9a8773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffed9a87b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeec02206f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeec064c8e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffed9a97562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffed9a875e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeec0669f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ffeec059a36 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff1fd0daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff1fd00de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff1fd101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff1fcfca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff55115b6d USER32.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff55115562 USER32.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff1fd11746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ff6b7cf5546 UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d0596c UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d059ea UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d148da UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d1659a UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff54cf7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: [Callstack] 0x00007fff55b0ced1 ntdll.dll!UnknownFunction []
+[2020.03.01-23.39.37:367][ 53]LogOutputDevice: Error: 
+[2020.03.01-23.39.37:374][ 53]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.01-23.39.38:318][ 53]LogStats:                    SendNewReport -  0.944 s
+[2020.03.01-23.39.38:319][ 53]LogStats:             FDebug::EnsureFailed -  2.132 s
+[2020.03.01-23.39.38:336][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Graves_Together_Stone10)
+[2020.03.01-23.39.39:882][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.01-23.39.40:925][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.01-23.39.41:996][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MainMenuCemetary9ED8846F49496B7A7D6F5C9B51B9A164.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/MainMenuCemetary.umap'
+[2020.03.01-23.39.42:068][224]LogFileHelpers: Saving map 'MainMenuCemetary' took 1.136
+[2020.03.01-23.39.42:115][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MM240E03B6F490AFAA5343C46A399BD0511.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/MM2.uasset'
+[2020.03.01-23.39.42:144][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MainMenuPawnCD345B7C4A788001706DB1BA0E5C2B49.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/MainMenuPawn.uasset'
+[2020.03.01-23.39.42:175][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MM132AE946A4B984ED29B97A88F59B6AD2A.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/MM1.uasset'
+[2020.03.01-23.39.42:247][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/All_Graves_Together_Stone15_BlueA66C7E6143C79AF49EE6EFA48F98D683.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone15_Blueprint.uasset'
+[2020.03.01-23.39.42:300][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/All_Graves_Together_Stone7_BluepB36D388B472230C0B2E811ADDF9302F6.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/All_Graves_Together_Stone7_Blueprint.uasset'
+[2020.03.01-23.39.42:318][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coffin_Blueprint" FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/Coffin_Blueprint.uasset" SILENT=true
+[2020.03.01-23.39.42:340][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Coffin_BlueprintCA009CFD4B800D09F4577C8537C2D3A3.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/Coffin_Blueprint.uasset'
+[2020.03.01-23.39.42:362][224]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/MM3A98A954C4F4952B1863CFCA4384120D5.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/MM3.uasset'
+[2020.03.01-23.39.43:710][345]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2020.03.01-23.39.44:876][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.01-23.39.57:809][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.40.41:828][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.Coffin_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:828][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.SKEL_Coffin_Blueprint_C' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:828][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.Coffin_Blueprint_C' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:828][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.Coffin_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:828][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.Coffin_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:828][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.Coffin_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:829][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.SKEL_Coffin_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:829][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.SKEL_Coffin_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:829][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.SKEL_Coffin_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:829][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.SKEL_Coffin_Blueprint_C:Quit' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.41:829][846]LogMetaData: Removing '/Game/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.SKEL_Coffin_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Coffin_Blueprint.PackageMetaData'
+[2020.03.01-23.40.42:034][846]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Coffin_Blueprint600A521446DB47C4E3A0FF9B77B4B549.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Blueprints/Widgets/Coffin_Blueprint.uasset'
+[2020.03.01-23.40.42:044][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coffin_Blueprint" FILE="../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/Coffin_Blueprint.uasset" SILENT=true
+[2020.03.01-23.40.42:068][846]LogSavePackage: Moving '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Saved/Coffin_BlueprintB7DE9675455E83AE293A56905F58EBAC.tmp' to '../../../../../../Users/khreb/Documents/GitHub/Team-8-BIOMIX/Content/Coffin_Blueprint.uasset'
+[2020.03.01-23.40.52:906][717]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/MM3.MM3
+[2020.03.01-23.41.08:535][ 11]BlueprintLog: New page: Compile MM3
+[2020.03.01-23.41.20:840][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.01-23.41.20:852][ 11]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.01-23.41.25:146][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.41.33:297][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.41.36:489][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.41.42:281][688]BlueprintLog: New page: Compile MainMenuCemetary
+[2020.03.01-23.42.06:431][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.42.22:222][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.42.22:318][978]Cmd: MODE GRID=0
+[2020.03.01-23.42.27:495][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.42.37:005][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.42.37:092][203]Cmd: MODE GRID=1
+[2020.03.01-23.42.43:320][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.42.43:409][741]Cmd: MODE ROTGRID=0
+[2020.03.01-23.43.01:251][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.43.04:104][497]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2020.03.01-23.43.17:412][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.43.34:904][798]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/MM3.MM3
+[2020.03.01-23.43.56:460][964]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-23.43.56:530][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.43.56:530][964]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.01-23.43.56:533][964]LogPlayLevel: [PlayLevel] Compiling Coffin_Blueprint before play...
+[2020.03.01-23.43.56:945][964]LogPlayLevel: [PlayLevel] Compiling MM2 before play...
+[2020.03.01-23.43.57:434][964]LogPlayLevel: PlayLevel: Blueprint regeneration took 903 ms (2 blueprints)
+[2020.03.01-23.43.57:434][964]PIE: New page: PIE session: MainMenuCemetary (1 Mar 2020 23:43:57)
+[2020.03.01-23.43.57:434][964]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary
+[2020.03.01-23.43.57:579][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144938s)
+[2020.03.01-23.43.57:580][964]LogAIModule: Creating AISystem for world MainMenuCemetary
+[2020.03.01-23.43.57:580][964]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2020.03.01-23.43.57:580][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary to /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary (0.146107s)
+[2020.03.01-23.43.57:713][964]LogInit: XAudio2 using 'Digital Output (AMD High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.03.01-23.43.57:803][964]LogInit: FAudioDevice initialized.
+[2020.03.01-23.43.57:838][964]LogLoad: Game class is 'GameModeBase'
+[2020.03.01-23.43.57:867][964]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary.MainMenuCemetary up for play (max tick rate 0) at 2020.03.01-23.43.57
+[2020.03.01-23.43.57:868][964]LogWorld: Bringing up level for play took: 0.029066
+[2020.03.01-23.43.57:883][964]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_MainMenuCemetary 0.846
+[2020.03.01-23.43.57:883][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.43.59:986][131]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CameraArray' of length 2 in '/Game/SynthvaniaContent/Blueprints/Widgets/MM2.MM2_C'!
+[2020.03.01-23.44.02:495][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.44.02:496][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.44.02:553][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-23.44.02:553][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary' with GeneratedClass '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/MainMenuCemetary.MainMenuCemetary:PersistentLevel.MainMenuCemetary'
+[2020.03.01-23.44.02:620][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-23.44.02:691][349]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.03.01-23.44.05:083][528]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2020.03.01-23.44.05:463][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.01-23.44.06:726][654]LogUObjectBase: Warning: Object is not registered
+[2020.03.01-23.44.06:726][654]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.01-23.44.06:730][654]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: 
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: Stack: 
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeeada8304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeeadb81ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffee832bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffee738769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffee7340917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeec037c74 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeec284393 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeec092d7a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeec068a70 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ffeec05b263 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff1fd0dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff1fd00de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff1fd101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff1fcfca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff55115b6d USER32.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff55115562 USER32.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007fff1fd11746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ff6b7cf5546 UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d0596c UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d059ea UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d148da UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.44.06:731][654]LogOutputDevice: Error: [Callstack] 0x00007ff6b7d1659a UE4Editor.exe!UnknownFunction []
+[2020.03.01-23.44.06:732][654]LogOutputDevice: Error: [Callstack] 0x00007fff54cf7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.01-23.44.06:732][654]LogOutputDevice: Error: [Callstack] 0x00007fff55b0ced1 ntdll.dll!UnknownFunction []
+[2020.03.01-23.44.06:732][654]LogOutputDevice: Error: 
+[2020.03.01-23.44.06:735][654]LogStats:                SubmitErrorReport -  0.000 s
