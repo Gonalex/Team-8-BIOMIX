@@ -1168,3 +1168,1240 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-11.44.20:278][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2020.03.04-11.44.30:141][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.03.04-11.44.42:249][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.46.32:975][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.47.37:266][471]LogSlate: Window 'M_LightingS - Property Editor' being destroyed
+[2020.03.04-11.47.37:270][471]LogSlate: Window 'M_LightingS - Property Editor' being destroyed
+[2020.03.04-11.48.40:102][942]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.48.49:723][ 86]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.48.56:560][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.48.59:119][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.49.00:415][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.49.04:925][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.49.04:992][896]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.49.12:373][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.49.13:009][850]LogEditorTransaction: Undo Edit Directional Light Color
+[2020.03.04-11.49.13:012][850]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.13:065][850]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.13:480][871]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.13:526][875]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.14:050][927]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.14:050][927]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.14:050][927]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.14:050][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.14:050][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.16:085][170]LogEditorTransaction: Undo Edit Directional Light Color
+[2020.03.04-11.49.16:088][170]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.16:144][170]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.16:315][171]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.16:315][171]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.16:790][215]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.16:790][215]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.16:790][215]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.16:790][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.16:790][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.18:456][414]LogEditorTransaction: Undo Edit Environment Color
+[2020.03.04-11.49.18:460][414]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.18:521][414]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.18:521][414]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.18:522][414]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.18:522][414]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.18:522][414]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.18:522][414]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.18:522][414]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.18:522][414]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.18:692][415]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.18:692][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.19:150][461]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.19:150][461]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.19:150][461]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.19:151][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.19:151][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.19:593][513]LogEditorTransaction: Undo Edit Directional Light Color
+[2020.03.04-11.49.19:597][513]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.19:656][513]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.19:827][514]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.19:827][514]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.20:259][555]LogEditorTransaction: Undo Edit Directional Light Color
+[2020.03.04-11.49.20:263][555]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.20:270][555]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.20:506][556]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.20:506][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.20:506][556]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.20:962][601]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.20:962][601]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.20:962][601]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.20:962][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.20:962][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.21:103][618]LogEditorTransaction: Undo Edit Show Floor
+[2020.03.04-11.49.21:106][618]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.21:163][618]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.21:330][619]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.21:330][619]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.21:800][667]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.21:800][667]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.21:800][667]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.21:800][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.21:800][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.22:958][805]LogEditorTransaction: Undo Edit Show Floor
+[2020.03.04-11.49.22:962][805]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.23:021][805]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.23:021][805]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.23:021][805]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.23:021][805]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.23:021][805]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.23:022][805]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.23:022][805]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.23:022][805]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.23:197][806]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.23:197][806]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.23:649][853]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.23:649][853]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.23:649][853]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.23:649][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.23:649][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.24:147][912]LogEditorTransaction: Undo Edit Show Floor
+[2020.03.04-11.49.24:150][912]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.24:203][912]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.24:204][912]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.24:375][913]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.24:375][913]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.24:821][957]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.24:821][957]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.24:821][957]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.24:821][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.24:821][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.25:174][999]LogEditorTransaction: Undo Edit Show Floor
+[2020.03.04-11.49.25:177][999]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.25:230][999]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.25:399][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.25:399][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.25:829][ 43]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.25:829][ 43]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.25:829][ 43]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.25:829][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.25:829][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.26:398][111]LogEditorTransaction: Undo Create Pin Link
+[2020.03.04-11.49.26:402][111]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.26:412][111]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.26:469][111]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.26:470][111]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.26:640][112]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.26:640][112]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.27:060][155]MaterialEditorStats: Base pass shader without light map: 73 instructions
+[2020.03.04-11.49.27:060][155]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.27:060][155]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.27:060][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.04-11.49.27:060][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.30:441][558]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.49.30:459][559]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.49.30:634][574]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-11.49.30:647][575]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.49.31:134][623]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-11.49.31:134][623]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-11.49.31:134][623]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-11.49.31:134][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-11.49.31:134][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-11.49.38:849][536]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.49.41:350][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.49.55:006][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.50.02:370][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.50.08:463][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.50.13:135][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.50.18:750][283]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.50.23:641][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.50.31:974][855]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.50.34:486][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.50.54:282][682]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-11.50.56:813][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.50.59:188][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.52.03:762][251]LogMaterialEditor: Saving and Compiling material M_LightingS
+[2020.03.04-11.52.04:233][251]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-11.52.04:269][251]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-11.52.04:280][251]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.52.04:293][251]LogMaterial: Display: Missing cached shader map for material M_LightingS, compiling. 
+[2020.03.04-11.52.04:337][251]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightingS, compiling. 
+[2020.03.04-11.52.05:071][251]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.03.04-11.52.05:071][251]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.03.04-11.52.05:071][251]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.04-11.52.05:071][251]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.04-11.52.05:071][251]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-11.52.05:073][251]TextureStreamingBuild: Display: Compiling optional shaders took 0.743 seconds.
+[2020.03.04-11.52.06:636][251]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightingSAEB78C6942EA3B6C68AB28BCAEC4E753.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Materials/M_LightingS.uasset'
+[2020.03.04-11.52.08:482][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.52.09:932][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.52.29:802][ 33]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.Lightning_Strike
+[2020.03.04-11.52.29:854][ 33]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.03.04-11.52.33:342][ 45]LogSlate: Window 'Lightning_Strike*' being destroyed
+[2020.03.04-11.52.33:986][119]LogMeshUtilities: Finished distance field build in 4.0s - 64x64x64 distance field, 2408 triangles, Range [-0.1, 0.8], AnimTreeEd_PreviewFloor
+[2020.03.04-11.52.57:744][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.53.28:339][745]LogMaterial: Warning: Material /Game/SideScrollerBP/Companion/VFX/Lightning.Lightning needed to have new flag set bUsedWithParticleSprites !
+[2020.03.04-11.53.28:342][745]LogMaterial: Display: Missing cached shader map for material Lightning, compiling. 
+[2020.03.04-11.53.28:367][746]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.03.04-11.53.28:367][746]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.03.04-11.53.28:367][746]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.03.04-11.53.28:367][746]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-11.54.00:970][605]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningS25B4EF0D4B62239FB061E2AEB60D12F2.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Materials/M_LightningS.uasset'
+[2020.03.04-11.54.05:983][173]LogMaterial: Warning: Material /Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS.M_LightningS needed to have new flag set bUsedWithParticleSprites !
+[2020.03.04-11.54.05:986][173]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-11.54.06:016][176]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.04-11.54.06:016][176]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.04-11.54.06:016][176]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-11.54.16:696][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.54.22:223][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.55.13:491][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.55.25:071][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.56.46:514][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.57.26:024][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.58.27:817][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.58.36:433][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.00.19:095][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.00.29:089][839]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_StrikeE3E64D4743EB4CC0F5F2E28ED19579C9.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.uasset'
+[2020.03.04-12.00.30:214][973]LogCascade: Quitting Cascade. FXSystem=0x0000025A457FEFC0
+[2020.03.04-12.00.36:331][687]LogAssetEditorManager: Opening Asset editor for Material /Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS.M_LightningS
+[2020.03.04-12.00.36:335][687]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.00.36:444][687]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.00.36:456][687]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.00.36:478][687]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.00.36:493][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.04-12.00.36:500][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.03.04-12.00.36:506][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.04-12.00.36:512][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.04-12.00.36:717][688]LogStaticMesh: Allocated 485x102x64 distance field atlas = 6.0Mb, with 41 objects containing 3.2Mb backing data
+[2020.03.04-12.00.36:940][700]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.00.36:974][702]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.00.37:008][704]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.00.37:041][706]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.00.37:058][707]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.00.37:127][711]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.00.37:328][721]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.00.37:328][721]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.00.37:382][724]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.00.37:405][725]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.00.37:666][742]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.00.37:666][742]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.00.37:666][742]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.00.37:666][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.00.37:666][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.00.38:766][844]LogSlate: Window 'M_LightningS*' being destroyed
+[2020.03.04-12.02.17:341][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/SideScrollerExampleMap' took 0.025
+[2020.03.04-12.02.17:343][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Companion/VFX/Lightning] ([1] browsable assets)...
+[2020.03.04-12.02.17:354][985]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SideScrollerBP/Companion/VFX/Lightning.Lightning]
+[2020.03.04-12.02.17:354][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Companion/VFX/Lightning]
+[2020.03.04-12.02.17:381][985]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_Auto1C12006594BB4FBDA546ECAAFF13FAF9A.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SideScrollerBP/Companion/VFX/Lightning_Auto1.uasset'
+[2020.03.04-12.02.17:383][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS] ([1] browsable assets)...
+[2020.03.04-12.02.17:383][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS]
+[2020.03.04-12.02.17:412][985]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningS_Auto13AE3346844B84A480D2B4F914A4E3BEA.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS_Auto1.uasset'
+[2020.03.04-12.02.17:414][985]LogFileHelpers: Auto-saving content packages took 0.072
+[2020.03.04-12.02.43:549][478]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.03.04-12.02.43:563][479]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.02.44:017][531]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.03.04-12.02.44:023][531]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.03.30:830][ 22]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.03.04-12.03.30:838][ 22]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.03.30:847][ 22]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.03.31:238][ 60]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.03.31:321][ 68]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.03.31:392][ 74]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.03.31:476][ 81]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.03.31:476][ 81]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.03.31:498][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.03.32:021][138]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.03.32:021][138]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.03.32:021][138]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.03.32:021][138]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.03.32:021][138]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.03.39:481][ 29]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.03.39:538][ 30]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.03.39:674][ 41]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.03.39:688][ 42]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.03.40:857][ 91]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.03.40:857][ 91]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.03.40:857][ 91]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.03.40:857][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.03.40:857][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.03.44:580][107]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.03.44:596][108]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.03.44:789][125]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.03.44:813][127]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.03.45:327][182]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.03.45:327][182]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.03.45:327][182]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.03.45:327][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.03.45:327][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.03.59:984][503]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.03.04-12.04.00:005][505]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.05.39:778][241]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.05.39:790][241]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.05.39:807][242]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.05.40:274][289]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.05.40:320][293]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.05.41:183][328]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.05.41:184][328]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.05.41:184][328]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.05.41:184][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.05.41:184][328]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.05.45:518][341]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.05.45:555][342]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.05.45:556][342]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.05.45:754][356]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.05.45:768][357]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.05.46:285][407]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.05.46:285][407]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.05.46:285][407]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.05.46:285][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.05.46:285][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.05.54:659][777]LogMaterialEditor: Saving and Compiling material M_LightningS
+[2020.03.04-12.05.55:054][777]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.05.55:080][777]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.05.55:091][777]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.05.55:113][777]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.05.55:168][777]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightningS, compiling. 
+[2020.03.04-12.05.55:552][777]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.04-12.05.55:552][777]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.04-12.05.55:552][777]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.03.04-12.05.55:552][777]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.04-12.05.55:552][777]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.04-12.05.55:552][777]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.05.55:553][777]TextureStreamingBuild: Display: Compiling optional shaders took 0.394 seconds.
+[2020.03.04-12.05.57:543][777]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningS92BD69A2486D0E462C248A99AF54A8DC.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Materials/M_LightningS.uasset'
+[2020.03.04-12.05.57:569][777]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.05.57:569][777]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.05.57:569][777]MaterialEditorStats: Texture samplers: 7/16
+[2020.03.04-12.05.57:569][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.05.57:569][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.07.25:671][848]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.07.25:690][849]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.07.26:202][892]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.07.26:216][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.07.26:767][938]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.07.26:767][938]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.07.26:767][938]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.07.26:767][938]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.07.26:767][938]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.07.27:067][969]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.27:079][969]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.07.27:145][970]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.07.27:285][979]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.07.27:285][979]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.07.28:503][112]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.07.28:503][112]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.07.28:503][112]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.07.28:503][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.07.28:503][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.07.30:372][327]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.30:383][327]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.30:446][328]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.07.30:447][328]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.07.30:586][337]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.07.30:601][338]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.07.31:109][385]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.07.31:110][385]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.07.31:110][385]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.07.31:110][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.07.31:110][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.07.41:259][591]LogMaterialEditor: Saving and Compiling material M_LightningS
+[2020.03.04-12.07.41:684][591]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.07.41:716][591]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.07.41:725][591]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.41:746][591]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.07.41:802][591]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightningS, compiling. 
+[2020.03.04-12.07.42:241][591]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.04-12.07.42:241][591]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.04-12.07.42:241][591]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.03.04-12.07.42:241][591]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.04-12.07.42:241][591]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.04-12.07.42:241][591]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.07.42:242][591]TextureStreamingBuild: Display: Compiling optional shaders took 0.448 seconds.
+[2020.03.04-12.07.44:300][591]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningSE362E1B8455591F9F80A148B2C46342D.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Materials/M_LightningS.uasset'
+[2020.03.04-12.07.44:336][591]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.07.44:336][591]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.07.44:336][591]MaterialEditorStats: Texture samplers: 7/16
+[2020.03.04-12.07.44:336][591]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.07.44:336][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.07.46:941][777]LogMaterialEditor: Saving and Compiling material M_LightningS
+[2020.03.04-12.07.46:975][777]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningSD0975ECA4B4A3DE23840819E7D6D42A1.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Materials/M_LightningS.uasset'
+[2020.03.04-12.08.00:588][435]LogAssetEditorManager: Opening Asset editor for Material /Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS.M_LightningS
+[2020.03.04-12.08.00:592][435]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.03.04-12.08.00:691][435]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.03.04-12.08.00:702][435]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.08.00:715][435]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.08.00:743][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.04-12.08.00:757][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.03.04-12.08.00:771][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.04-12.08.00:778][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.04-12.08.00:888][435]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.08.00:899][435]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.08.00:918][435]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.08.01:040][436]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.08.01:041][436]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.08.01:041][436]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.08.01:132][440]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.08.01:158][442]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.08.01:192][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.08.01:213][447]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.08.01:528][480]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.08.01:528][480]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.08.01:528][480]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.08.01:528][480]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.08.01:528][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.08.15:967][240]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.Lightning_Strike
+[2020.03.04-12.08.29:503][547]LogAssetEditorManager: Opening Asset editor for Material /Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS.M_LightningS
+[2020.03.04-12.08.29:507][547]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.08.29:604][547]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.08.29:616][547]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.08.29:630][547]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.08.29:655][547]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.04-12.08.29:662][547]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.03.04-12.08.29:668][547]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.04-12.08.29:674][547]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.04-12.08.30:083][566]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.08.30:161][574]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.08.30:172][575]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.08.30:224][580]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.08.30:244][582]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.08.30:316][589]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.08.30:512][605]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.08.30:522][606]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.08.30:552][609]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.08.30:564][610]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.08.30:805][635]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.08.30:806][635]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.08.30:806][635]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.08.30:806][635]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.08.30:806][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.09.10:258][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.09.16:305][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.09.17:426][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.09.32:792][ 28]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.09.47:415][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.09.47:937][819]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.09.49:415][993]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.09.49:430][994]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.09.49:886][ 37]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.09.49:910][ 39]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.09.50:432][ 89]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2020.03.04-12.09.50:432][ 89]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.09.50:432][ 89]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.09.50:432][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.09.50:432][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.09.53:515][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.10.10:598][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.10.11:343][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.10.13:553][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.10.15:284][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.10.26:273][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.11.07:880][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.12.10:528][484]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.12.10:540][484]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.12.10:559][485]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.12.10:559][485]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.12.10:559][485]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.12.10:559][485]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.12.10:560][485]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.12.10:560][485]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.12.10:560][485]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.12.10:560][485]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.12.11:027][536]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.12.11:060][539]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.12.11:923][591]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.12.11:924][591]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.12.11:924][591]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.12.11:924][591]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.12.11:924][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.12.13:035][595]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.12.13:271][595]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.12.13:791][646]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.12.13:791][646]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.12.13:791][646]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.12.13:791][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.12.13:791][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.12.14:032][675]LogMaterialEditor: Applying material M_LightningS
+[2020.03.04-12.12.14:462][675]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.12.14:487][675]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.12.14:505][675]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.12.14:529][675]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.12.14:599][675]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightningS, compiling. 
+[2020.03.04-12.12.14:981][675]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.04-12.12.14:981][675]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.04-12.12.14:981][675]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.03.04-12.12.14:981][675]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.04-12.12.14:981][675]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.04-12.12.14:981][675]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.12.14:982][675]TextureStreamingBuild: Display: Compiling optional shaders took 0.394 seconds.
+[2020.03.04-12.12.17:071][892]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.12.17:071][892]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.12.17:071][892]MaterialEditorStats: Texture samplers: 7/16
+[2020.03.04-12.12.17:071][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.12.17:071][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.12.31:096][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.12.42:860][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.12.54:568][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.13.19:488][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/SideScrollerExampleMap' took 0.027
+[2020.03.04-12.13.19:489][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS] ([1] browsable assets)...
+[2020.03.04-12.13.19:502][703]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS.M_LightningS]
+[2020.03.04-12.13.19:502][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS]
+[2020.03.04-12.13.19:541][703]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningS_Auto2941FF3624E7931F4A4481C97BBA9DCDF.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS_Auto2.uasset'
+[2020.03.04-12.13.19:543][703]LogFileHelpers: Auto-saving content packages took 0.053
+[2020.03.04-12.13.35:196][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.13.37:108][432]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.13.37:124][433]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.13.37:125][433]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.13.37:587][482]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.13.37:620][485]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.13.38:149][540]MaterialEditorStats: Base pass shader without light map: 73 instructions
+[2020.03.04-12.13.38:149][540]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.13.38:149][540]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.13.38:149][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.04-12.13.38:149][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.13.49:973][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.14.01:856][473]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.01:865][473]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.02:289][520]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.02:310][522]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.02:853][582]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2020.03.04-12.14.02:853][582]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.02:853][582]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.02:853][582]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.04-12.14.02:853][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.04:173][740]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.04:194][742]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.04:352][758]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.04:361][759]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.04:872][818]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2020.03.04-12.14.04:872][818]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.04:872][818]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.04:872][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.04-12.14.04:872][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.14:997][126]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.15:019][128]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.15:199][146]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.15:216][148]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.15:699][204]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.14.15:699][204]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.15:700][204]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.15:700][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.14.15:700][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.23:718][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.14.26:474][495]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.26:486][495]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.26:501][496]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.26:685][515]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.26:705][517]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.27:191][572]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.14.27:191][572]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.27:191][572]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.27:191][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.14.27:191][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.27:417][598]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.27:426][598]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.27:601][616]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.27:602][616]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.28:152][677]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.14.28:152][677]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.28:152][677]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.28:152][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.14.28:152][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.32:189][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.14.33:742][347]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.33:753][347]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.33:768][348]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.33:938][366]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.33:957][368]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.34:433][423]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.14.34:433][423]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.34:433][423]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.34:433][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.14.34:433][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.34:870][475]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.14.34:884][476]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.14.35:065][490]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.14.35:085][492]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.14.35:576][545]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.14.35:576][545]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.14.35:576][545]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.14.35:576][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.14.35:576][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.14.39:560][ 19]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_Strike4F2B0FBA4FAF36D50BDA8EBBD4C7EF52.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.uasset'
+[2020.03.04-12.22.10:351][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.22.20:932][567]LogSlate: Window 'Message' being destroyed
+[2020.03.04-12.22.22:912][803]LogMaterialEditor: Saving and Compiling material M_LightningS
+[2020.03.04-12.22.23:364][803]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.22.23:411][803]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.22.23:411][803]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.22.23:435][803]LogMaterial: Display: Missing cached shader map for material M_LightningS, compiling. 
+[2020.03.04-12.22.23:483][803]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightningS, compiling. 
+[2020.03.04-12.22.24:179][803]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.04-12.22.24:179][803]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.04-12.22.24:179][803]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.03.04-12.22.24:179][803]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.04-12.22.24:179][803]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.04-12.22.24:179][803]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.22.24:180][803]TextureStreamingBuild: Display: Compiling optional shaders took 0.704 seconds.
+[2020.03.04-12.22.24:217][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.22.26:214][803]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/M_LightningSBB0F567849D1ECC722F252A2909EAD9A.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Materials/M_LightningS.uasset'
+[2020.03.04-12.22.26:227][803]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.22.26:227][803]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.22.26:227][803]MaterialEditorStats: Texture samplers: 7/16
+[2020.03.04-12.22.26:227][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.22.26:227][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.22.29:275][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.23.06:543][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.23.17:983][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.23.36:247][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.24.15:698][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.24.44:821][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.24.44:885][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/SideScrollerExampleMap' took 0.024
+[2020.03.04-12.24.44:886][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike] ([1] browsable assets)...
+[2020.03.04-12.24.44:890][620]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.Lightning_Strike]
+[2020.03.04-12.24.44:890][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike]
+[2020.03.04-12.24.44:916][620]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_Strike_Auto3E15934B54058FAD4D58977A966B7A2C4.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike_Auto3.uasset'
+[2020.03.04-12.24.44:918][620]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.03.04-12.25.08:304][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.13:821][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.15:832][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.47:449][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.49:058][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.54:752][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.57:018][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.58:127][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.25.59:807][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.26.01:199][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.26.22:302][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.26.25:404][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.26.48:392][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.27.42:812][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.27.44:068][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.28.04:386][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.28.13:670][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.28.24:672][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.29.19:061][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.29.19:179][923]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_StrikeD6C845B44FB6CADC54E1ABBD487CEBB5.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.uasset'
+[2020.03.04-12.29.20:990][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.29.51:151][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.30.02:439][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.30.17:628][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.30.24:254][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.30.30:544][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.30.33:340][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.30.46:799][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.31.01:253][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.32.19:162][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.32.19:294][198]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_Strike96C4E2B74CF296B193F467BC4249422A.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.uasset'
+[2020.03.04-12.33.20:732][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.34.14:330][211]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.34.45:725][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/SideScrollerExampleMap' took 0.041
+[2020.03.04-12.34.45:727][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike] ([1] browsable assets)...
+[2020.03.04-12.34.45:732][512]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.Lightning_Strike]
+[2020.03.04-12.34.45:733][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike]
+[2020.03.04-12.34.45:760][512]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_Strike_Auto4276BCB8E4342F04C15AF948D328A3C19.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike_Auto4.uasset'
+[2020.03.04-12.34.45:762][512]LogFileHelpers: Auto-saving content packages took 0.036
+[2020.03.04-12.35.58:803][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.36.03:123][999]LogAssetEditorManager: Opening Asset editor for Material /Game/SynthvaniaContent/ART/VFX/Materials/M_LightningS.M_LightningS
+[2020.03.04-12.36.03:128][999]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2020.03.04-12.36.03:416][999]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2020.03.04-12.36.03:428][999]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.36.03:446][999]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.36.03:475][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.04-12.36.03:482][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.03.04-12.36.03:490][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.04-12.36.03:497][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.04-12.36.03:989][ 24]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.04-12.36.04:056][ 31]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.04-12.36.04:097][ 35]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.04-12.36.04:139][ 39]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.04-12.36.04:158][ 41]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.04-12.36.04:201][ 45]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.04-12.36.04:371][ 61]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.04-12.36.04:411][ 65]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.04-12.36.04:429][ 67]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.04-12.36.04:440][ 68]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.04-12.36.04:681][ 93]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2020.03.04-12.36.04:681][ 93]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.04-12.36.04:681][ 93]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.04-12.36.04:681][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.04-12.36.04:681][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.04-12.37.07:991][ 50]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.37.11:568][280]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.37.24:212][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-12.37.25:108][ 40]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.37.26:447][198]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.38.40:270][416]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.04-12.38.53:571][556]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_StrikeB40EF4E3437770500BB1158EABD59D33.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.uasset'
+[2020.03.04-12.40.32:000][641]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning55B0C8914AFC66AFCFF1D9A0ABB89DC9.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SideScrollerBP/Companion/VFX/Lightning.uasset'
+[2020.03.04-12.40.32:031][641]LogSavePackage: Moving '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Saved/Lightning_StrikeAF52A2EB4E0D1C9AC06E5395BAAF58D9.tmp' to '../../../../../../Users/v8082133/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/VFX/Particles/Lightning_Strike.uasset'
+[2020.03.04-12.40.35:972][112]LogCascade: Quitting Cascade. FXSystem=0x0000025A4ACF3560
+[2020.03.04-12.40.40:916][358]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.03.04-12.40.40:919][358]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.04-12.40.41:159][359]Cmd: QUIT_EDITOR
+[2020.03.04-12.40.41:218][359]LogExit: Preparing to exit.
+[2020.03.04-12.40.42:280][359]LogExit: Editor shut down
+[2020.03.04-12.40.42:281][359]LogExit: Transaction tracking system shut down
+[2020.03.04-12.40.42:500][359]LogExit: Object subsystem successfully closed.
+[2020.03.04-12.40.42:531][359]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.04-12.40.42:532][359]LogD3D11RHI: Shutdown
+[2020.03.04-12.40.42:532][359]LogD3D11RHI: CleanupD3DDevice
+[2020.03.04-12.40.42:535][359]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module DistCurveEditor (628)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module Cascade (626)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module TextureEditor (624)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2020.03.04-12.40.42:583][359]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.03.04-12.40.42:584][359]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.03.04-12.40.42:585][359]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.03.04-12.40.43:476][359]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.03.04-12.40.43:477][359]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.03.04-12.40.43:554][359]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.03.04-12.40.43:555][359]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.03.04-12.40.43:555][359]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.03.04-12.40.43:555][359]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.03.04-12.40.43:558][359]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.03.04-12.40.43:559][359]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.03.04-12.40.43:562][359]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.03.04-12.40.43:563][359]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.03.04-12.40.43:566][359]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.03.04-12.40.43:804][359]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.04-12.40.43:813][359]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.03.04-12.40.43:814][359]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.04-12.40.43:815][359]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.04-12.40.43:916][359]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.03.04-12.40.44:017][359]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.03.04-12.40.44:018][359]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.03.04-12.40.44:018][359]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.03.04-12.40.44:018][359]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.03.04-12.40.44:018][359]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.03.04-12.40.44:019][359]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.03.04-12.40.44:020][359]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.03.04-12.40.44:023][359]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.03.04-12.40.44:030][359]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.03.04-12.40.44:031][359]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.03.04-12.40.44:031][359]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.03.04-12.40.44:035][359]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.03.04-12.40.44:036][359]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.03.04-12.40.44:036][359]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.03.04-12.40.44:036][359]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.03.04-12.40.44:036][359]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.03.04-12.40.44:036][359]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.03.04-12.40.44:036][359]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.03.04-12.40.44:074][359]LogDerivedDataCache: Shutdown
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.03.04-12.40.44:074][359]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.03.04-12.40.44:075][359]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.03.04-12.40.44:076][359]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.03.04-12.40.44:077][359]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.04-12.40.44:077][359]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.03.04-12.40.44:077][359]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.03.04-12.40.44:077][359]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.03.04-12.40.44:078][359]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.03.04-12.40.44:078][359]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.03.04-12.40.44:080][359]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.03.04-12.40.44:080][359]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.03.04-12.40.44:092][359]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.03.04-12.40.44:092][359]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.03.04-12.40.44:093][359]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.03.04-12.40.44:094][359]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.03.04-12.40.44:094][359]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.03.04-12.40.44:117][359]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.03.04-12.40.44:117][359]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.04-12.40.44:117][359]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE701FAA-4B12-785B-C74B-3C84C289C5C3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=9883eaa44f26a5f207225f86197e5121%7C%7C590891fc-4f72-4493-9591-b3d027bbec07&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.04-12.40.44:135][359]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.03.04-12.40.44:138][359]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.04-12.40.44:138][359]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.04-12.40.44:139][359]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.04-12.40.44:140][359]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.04-12.40.44:159][359]LogExit: Exiting.
+[2020.03.04-12.40.44:196][359]Log file closed, 03/04/20 12:40:44
