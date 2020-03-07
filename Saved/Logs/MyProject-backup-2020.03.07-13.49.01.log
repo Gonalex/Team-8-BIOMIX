@@ -1,0 +1,1688 @@
+﻿Log file open, 03/07/20 13:12:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.415276
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.123s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.07-13.12.25:275][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.07-13.12.25:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:276][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:288][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.07-13.12.25:288][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.07-13.12.25:288][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.07-13.12.25:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.07-13.12.25:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.07-13.12.25:290][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.07-13.12.25:290][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.07-13.12.25:290][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.07-13.12.25:315][  0]LogHAL: Display: Platform has ~ 32 GB [34271838208 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.07-13.12.25:315][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.07-13.12.25:315][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.07-13.12.25:315][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.07-13.12.25:316][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.07-13.12.25:316][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.07-13.12.25:316][  0]LogInit: Computer: TU45339
+[2020.03.07-13.12.25:316][  0]LogInit: User: v8027392
+[2020.03.07-13.12.25:316][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.07-13.12.25:316][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.07-13.12.25:316][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.07-13.12.25:316][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.07-13.12.25:316][  0]LogMemory: Process Physical Memory: 107.83 MB used, 107.84 MB peak
+[2020.03.07-13.12.25:316][  0]LogMemory: Process Virtual Memory: 105.06 MB used, 105.06 MB peak
+[2020.03.07-13.12.25:316][  0]LogMemory: Physical Memory: 6576.74 MB used,  26107.43 MB free, 32684.17 MB total
+[2020.03.07-13.12.25:316][  0]LogMemory: Virtual Memory: 4682.51 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.03.07-13.12.25:333][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.07-13.12.25:333][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.07-13.12.25:334][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.07-13.12.25:737][  0]LogStreaming: Display: Took  0.405s to InitEngineTextLocalization.
+[2020.03.07-13.12.25:737][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.07-13.12.25:764][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.07-13.12.25:764][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.07-13.12.26:018][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.07-13.12.26:018][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.07-13.12.26:074][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2020.03.07-13.12.26:074][  0]LogD3D11RHI:       6097/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.07-13.12.26:076][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.07-13.12.26:076][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.07-13.12.26:076][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.07-13.12.26:081][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.07-13.12.26:081][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.07-13.12.26:081][  0]LogWindows: EnumDisplayDevices:
+[2020.03.07-13.12.26:082][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2020.03.07-13.12.26:082][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2020.03.07-13.12.26:083][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.03.07-13.12.26:083][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.03.07-13.12.26:084][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.07-13.12.26:084][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2020.03.07-13.12.26:084][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2020.03.07-13.12.26:084][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2020.03.07-13.12.26:084][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2020.03.07-13.12.26:120][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.07-13.12.26:138][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.07-13.12.26:620][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.07-13.12.26:634][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.07-13.12.26:648][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.07-13.12.26:664][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.07-13.12.26:679][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.07-13.12.26:693][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.07-13.12.26:707][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.07-13.12.26:721][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.07-13.12.26:728][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:805][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:806][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-13.12.26:807][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.07-13.12.26:870][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.07-13.12.26:870][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.07-13.12.26:898][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.07-13.12.26:898][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.07-13.12.26:914][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.07-13.12.26:927][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.07-13.12.26:940][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.07-13.12.26:954][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.07-13.12.27:003][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.07-13.12.27:003][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.07-13.12.27:003][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.07-13.12.27:062][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Intermediate/Shaders/WorkingDirectory/13388/).
+[2020.03.07-13.12.27:062][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/v8027392/AppData/Local/Temp/UnrealShaderWorkingDir/1075D41C4D1DCE1CCB9210B764F01977/'.
+[2020.03.07-13.12.27:064][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.07-13.12.27:064][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.07-13.12.27:064][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.07-13.12.27:670][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.07-13.12.27:727][  0]LogDerivedDataCache: Loaded boot cache 0.06s 86MB C:/Users/v8027392/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.07-13.12.27:727][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/v8027392/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.07-13.12.27:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.07-13.12.27:727][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.07-13.12.27:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.07-13.12.27:727][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.07-13.12.27:743][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.07-13.12.27:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.07-13.12.27:743][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.07-13.12.27:755][  0]LogDerivedDataCache: Using Local data cache path C:/Users/v8027392/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.07-13.12.27:755][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.07-13.12.27:755][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.07-13.12.27:777][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.07-13.12.27:778][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.07-13.12.27:779][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.07-13.12.27:877][  0]LogAssetRegistry: FAssetRegistry took 0.0390 seconds to start up
+[2020.03.07-13.12.28:245][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.07-13.12.28:313][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.07-13.12.28:317][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.07-13.12.28:317][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.07-13.12.28:317][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.07-13.12.28:317][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.07-13.12.28:434][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2020.03.07-13.12.30:244][  0]LogMeshUtilities: Finished distance field build in 0.0s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2020.03.07-13.12.30:244][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.223105 seconds
+[2020.03.07-13.12.30:252][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.07-13.12.30:252][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.07-13.12.30:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.07-13.12.31:135][  0]LogMeshUtilities: Finished distance field build in 2.0s - 48x48x48 distance field, 528 triangles, Range [-0.6, 1.0], Sphere
+[2020.03.07-13.12.31:135][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.07-13.12.31:135][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2020.03.07-13.12.31:783][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.07-13.12.31:797][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.07-13.12.32:889][  0]SourceControl: Source control is disabled
+[2020.03.07-13.12.32:889][  0]SourceControl: Source control is disabled
+[2020.03.07-13.12.32:891][  0]SourceControl: Source control is disabled
+[2020.03.07-13.12.32:894][  0]SourceControl: Source control is disabled
+[2020.03.07-13.12.33:087][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.07-13.12.33:268][  0]LogOcInput: OculusInput pre-init called
+[2020.03.07-13.12.33:435][  0]LogEngine: Initializing Engine...
+[2020.03.07-13.12.33:436][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.07-13.12.33:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.07-13.12.33:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.07-13.12.33:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.07-13.12.33:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.07-13.12.33:791][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.07-13.12.33:810][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.07-13.12.33:840][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.12.33:983][  0]LogInit: FAudioDevice initialized.
+[2020.03.07-13.12.33:983][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.07-13.12.34:071][  0]LogDerivedDataCache: Saved boot cache 0.09s 86MB C:/Users/v8027392/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.07-13.12.34:089][  0]LogInit: Texture streaming: Enabled
+[2020.03.07-13.12.34:114][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.07-13.12.34:138][  0]LogInit: Transaction tracking system initialized
+[2020.03.07-13.12.34:174][  0]BlueprintLog: New page: Editor Load
+[2020.03.07-13.12.34:293][  0]LocalizationService: Localization service is disabled
+[2020.03.07-13.12.35:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/' took 0.03s
+[2020.03.07-13.12.35:133][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.07-13.12.35:133][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.07-13.12.35:133][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.07-13.12.35:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.07-13.12.35:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.07-13.12.35:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.07-13.12.35:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.07-13.12.35:310][  0]SourceControl: Source control is disabled
+[2020.03.07-13.12.35:310][  0]Cmd: MAP LOAD FILE="../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.07-13.12.35:310][  0]LightingResults: New page: Lighting Build
+[2020.03.07-13.12.35:313][  0]MapCheck: New page: Map Check
+[2020.03.07-13.12.35:313][  0]LightingResults: New page: Lighting Build
+[2020.03.07-13.12.35:448][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator0' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:448][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator1' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:448][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator2' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:448][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator3' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:448][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::Enum_MAX' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:855][  0]LogMeshUtilities: Finished distance field build in 5.0s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], EditorSkySphere
+[2020.03.07-13.12.35:855][  0]LogMeshUtilities: Discarded distance field for Plane as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.07-13.12.35:855][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 2 triangles, Range [-0.2, 1.0], Plane
+[2020.03.07-13.12.35:855][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator0' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:855][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator1' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:855][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator2' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.35:855][  0]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator3' is in both '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements' and '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements'
+[2020.03.07-13.12.36:326][  0]LogMeshUtilities: Finished distance field build in 0.4s - 30x30x29 distance field, 284 triangles, Range [-0.4, 1.0], Cone
+[2020.03.07-13.12.36:939][  0]LogMeshUtilities: Finished distance field build in 0.5s - 30x30x30 distance field, 512 triangles, Range [-0.6, 0.8], Cylinder
+[2020.03.07-13.12.36:939][  0]LogTexture: Display: Building textures: whiteclown_specular (AutoDXT, 2048X2048)
+[2020.03.07-13.12.36:939][  0]LogMeshUtilities: Finished distance field build in 0.5s - 30x30x30 distance field, 960 triangles, Range [-0.6, 1.0], Sphere
+[2020.03.07-13.12.36:939][  0]LogStaticMesh: Building static mesh SM_CrateBottom...
+[2020.03.07-13.12.36:958][  0]LogTexture: Display: Building textures: whiteclown_normal (BC5, 2048X2048)
+[2020.03.07-13.12.36:958][  0]LogStaticMesh: Built static mesh [0.02s] /Game/SynthvaniaContent/ART/TEMP/SM_CrateBottom.SM_CrateBottom
+[2020.03.07-13.12.36:962][  0]LogStaticMesh: Building static mesh SM_CrateTop...
+[2020.03.07-13.12.36:976][  0]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/TEMP/SM_CrateTop.SM_CrateTop
+[2020.03.07-13.12.37:007][  0]LogMaterial: Display: Missing cached shader map for material M_GhostTrails, compiling. 
+[2020.03.07-13.12.37:577][  0]LogTexture: Display: Building textures: T_SnowDot (AutoDXT, 420X420)
+[2020.03.07-13.12.37:577][  0]LogTexture: Display: Building textures: whiteclown_diffuse (AutoDXT, 2048X2048)
+[2020.03.07-13.12.37:578][  0]LogTexture: Display: Building textures: shot (BGRA8, 420X420)
+[2020.03.07-13.12.37:578][  0]LogTexture: Display: Building textures: whiteclown_alpha (AutoDXT, 2048X2048)
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 57
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 47
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 37
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.07-13.12.37:713][  0]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.07-13.12.37:713][  0]LogMaterial: Display: Missing cached shader map for material WhiteClown_material, compiling. 
+[2020.03.07-13.12.37:803][  0]LogSkeletalMesh: Building Skeletal Mesh deat...
+[2020.03.07-13.12.37:819][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/SynthvaniaContent/Blueprints/Animations/Meshes/deat.deat
+[2020.03.07-13.12.37:823][  0]LogMaterial: Display: Missing cached shader map for material Lashes_MAT, compiling. 
+[2020.03.07-13.12.37:885][  0]LogMaterial: Display: Missing cached shader map for material EyeSpec_MAT, compiling. 
+[2020.03.07-13.12.37:931][  0]LogMeshUtilities: Finished distance field build in 1.0s - 30x30x30 distance field, 48 triangles, Range [-0.6, 0.6], Cube
+[2020.03.07-13.12.37:931][  0]LogMaterial: Display: Missing cached shader map for material Body_MAT, compiling. 
+[2020.03.07-13.12.37:989][  0]LogMaterial: Display: Missing cached shader map for material Akai_MAT, compiling. 
+[2020.03.07-13.12.38:033][  0]LogMeshUtilities: Finished distance field build in 0.1s - 29x22x8 distance field, 444 triangles, Range [-0.0, 0.4], SM_CrateTop
+[2020.03.07-13.12.38:033][  0]LogSkeletalMesh: Building Skeletal Mesh alu_new...
+[2020.03.07-13.12.38:096][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/SynthvaniaContent/Blueprints/Animations/Meshes/alu_new.alu_new
+[2020.03.07-13.12.38:121][  0]LogStaticMesh: Building static mesh SM_Box...
+[2020.03.07-13.12.38:124][  0]LogStaticMesh: Built static mesh [0.00s] /Game/SynthvaniaContent/Blueprints/SM_Box.SM_Box
+[2020.03.07-13.12.38:135][  0]LogMaterial: Display: Missing cached shader map for material M_Opacity, compiling. 
+[2020.03.07-13.12.38:233][  0]LogMeshUtilities: Finished distance field build in 0.1s - 30x22x10 distance field, 444 triangles, Range [-0.1, 0.4], SM_CrateBottom
+[2020.03.07-13.12.38:233][  0]LogMaterial: Display: Missing cached shader map for material M_EleColour, compiling. 
+[2020.03.07-13.12.38:337][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 12 triangles, Range [-0.7, 0.5], SM_Box
+[2020.03.07-13.12.38:337][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x14 distance field, 284 triangles, Range [-0.4, 1.0], Shape_Cone
+[2020.03.07-13.12.38:337][  0]LogMaterial: Display: Missing cached shader map for material M_Whitebox, compiling. 
+[2020.03.07-13.12.38:389][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.03.07-13.12.38:438][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_walk_crossbow.alu_walk_crossbow
+[2020.03.07-13.12.38:438][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_walk_crossbow.alu_walk_crossbow) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.38:439][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_walk.alu_walk
+[2020.03.07-13.12.38:439][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_walk.alu_walk) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.38:440][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_ldle.alu_ldle
+[2020.03.07-13.12.38:440][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_ldle.alu_ldle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.38:441][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_death_up.alu_death_up
+[2020.03.07-13.12.38:442][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_death_up.alu_death_up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.38:450][  0]LogMaterial: Display: Missing cached shader map for material M_NeonParticle, compiling. 
+[2020.03.07-13.12.38:514][  0]LogMaterial: Display: Missing cached shader map for material M_Afterimage_UE4Man_Body, compiling. 
+[2020.03.07-13.12.38:657][  0]LogMaterial: Display: Missing cached shader map for material MAT_MMParticle, compiling. 
+[2020.03.07-13.12.38:731][  0]LogMaterial: Display: Missing cached shader map for material MAT_BlasterProjectile, compiling. 
+[2020.03.07-13.12.38:823][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.07-13.12.38:853][  0]LogStaticMesh: Building static mesh Crossbow_Mesh...
+[2020.03.07-13.12.38:868][  0]LogStaticMesh: Built static mesh [0.02s] /Game/SynthvaniaContent/ART/TEMP/Crossbow_Mesh.Crossbow_Mesh
+[2020.03.07-13.12.39:097][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Animations/A_great_sword_slash.A_great_sword_slash
+[2020.03.07-13.12.39:097][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Animations/A_great_sword_slash.A_great_sword_slash) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.39:238][  0]LogMaterial: Display: Missing cached shader map for material Lightning, compiling. 
+[2020.03.07-13.12.39:280][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/deat_death.deat_death
+[2020.03.07-13.12.39:280][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/deat_death.deat_death) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.39:344][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/slash11.slash11
+[2020.03.07-13.12.39:344][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/slash11.slash11) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.39:346][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/death_ldle.death_ldle
+[2020.03.07-13.12.39:346][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/death_ldle.death_ldle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.39:349][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_death_down_Anim.alu_death_down_Anim
+[2020.03.07-13.12.39:349][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/SynthvaniaContent/Blueprints/Animations/Animations/alu_death_down_Anim.alu_death_down_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-13.12.39:540][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.07-13.12.39:573][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.07-13.12.43:198][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.07-13.12.43:198][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2020.03.07-13.12.43:198][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 7.888
+[2020.03.07-13.12.43:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.12.43:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.12.43:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.12.43:389][  0]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], SM_SkySphere
+[2020.03.07-13.12.43:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.12.43:424][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 664 triangles, Range [0.0, 0.7], Crossbow_Mesh
+[2020.03.07-13.12.43:424][  0]LogCollectionManager: Loaded 0 collections in 0.003093 seconds
+[2020.03.07-13.12.43:467][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Collections/' took 0.01s
+[2020.03.07-13.12.43:467][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/Developers/v8027392/Collections/' took 0.01s
+[2020.03.07-13.12.43:467][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/Collections/' took 0.01s
+[2020.03.07-13.12.43:467][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.07-13.12.43:482][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2651 classes and 620 folders.
+[2020.03.07-13.12.43:494][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.07-13.12.43:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:541][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 48 triangles, Range [-0.7, 1.0], Shape_Cube
+[2020.03.07-13.12.43:541][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:632][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 512 triangles, Range [-0.7, 0.7], Shape_Cylinder
+[2020.03.07-13.12.43:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.43:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-13.12.44:055][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.07-13.12.44:103][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.03.07-13.12.44:122][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.07-13.12.44:124][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.07-13.12.44:140][  0]LogSlate: Took 0.008859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.07-13.12.44:343][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2020.03.07-13.12.44:843][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.12.45:961][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.03.07-13.12.45:994][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.07-13.12.45:995][  0]LogLoad: (Engine Initialization) Total time: 23.12 seconds
+[2020.03.07-13.12.45:995][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.07-13.12.46:259][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.07-13.12.46:321][  0]LogSlate: Took 0.007904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.07-13.12.46:898][  8]LogAssetRegistry: Asset discovery search completed in 19.0439 seconds
+[2020.03.07-13.12.46:902][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.07-13.12.46:902][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2020.03.07-13.12.48:807][ 85]LogShaderCompilers: Display: Shaders left to compile 882
+[2020.03.07-13.12.48:976][101]LogMeshUtilities: Finished distance field build in 5.3s - 64x64x64 distance field, 128 triangles, Range [-0.0, 0.5], TemplateFloor
+[2020.03.07-13.12.49:053][105]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 12 triangles, Range [-0.7, 1.0], 1M_Cube
+[2020.03.07-13.12.49:085][108]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x9 distance field, 192 triangles, Range [-0.2, 0.6], Cylinder
+[2020.03.07-13.12.49:111][109]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14641 triangles, Range [-0.1, 1.0], RightTouchController
+[2020.03.07-13.12.49:144][111]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14531 triangles, Range [-0.1, 1.0], LeftTouchController
+[2020.03.07-13.12.49:185][112]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 835 triangles, Range [-0.1, 0.8], GearVRController
+[2020.03.07-13.12.49:185][112]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 640 triangles, Range [-0.2, 0.4], RiftHMD
+[2020.03.07-13.12.49:848][134]LogMeshUtilities: Finished distance field build in 0.7s - 28x28x38 distance field, 448 triangles, Range [-0.5, 0.6], EditorCylinder
+[2020.03.07-13.12.50:061][144]LogMeshUtilities: Finished distance field build in 0.2s - 8x38x38 distance field, 32 triangles, Range [-0.1, 1.0], EditorPlane
+[2020.03.07-13.12.52:506][212]LogShaderCompilers: Display: Shaders left to compile 872
+[2020.03.07-13.12.52:525][214]LogShaderCompilers: Display: Shaders left to compile 862
+[2020.03.07-13.12.52:654][227]LogMeshUtilities: Finished distance field build in 2.6s - 48x48x48 distance field, 3968 triangles, Range [-0.6, 1.0], EditorSphere
+[2020.03.07-13.12.53:862][263]LogShaderCompilers: Display: Shaders left to compile 852
+[2020.03.07-13.12.53:871][264]LogShaderCompilers: Display: Shaders left to compile 842
+[2020.03.07-13.12.53:926][270]LogShaderCompilers: Display: Shaders left to compile 832
+[2020.03.07-13.12.53:972][275]LogMeshUtilities: Finished distance field build in 1.3s - 38x38x38 distance field, 12 triangles, Range [-0.6, 0.6], EditorCube
+[2020.03.07-13.12.54:013][278]LogMeshUtilities: Discarded distance field for S_1_Unit_Plane as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.07-13.12.54:013][278]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 32 triangles, Range [-0.4, 0.7], S_1_Unit_Plane
+[2020.03.07-13.12.54:056][282]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 6252 triangles, Range [-0.1, 0.6], SM_CineCam
+[2020.03.07-13.12.54:083][284]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1672 triangles, Range [-0.1, 0.4], SM_RailRig_Mount
+[2020.03.07-13.12.54:113][286]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 1488 triangles, Range [-0.0, 0.4], SM_RailRig_Track
+[2020.03.07-13.12.54:610][310]LogMeshUtilities: Finished distance field build in 0.5s - 21x50x21 distance field, 916 triangles, Range [-0.1, 0.6], SM_CraneRig_Body
+[2020.03.07-13.12.54:650][312]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x13 distance field, 200 triangles, Range [-0.3, 0.7], SM_CraneRig_Mount
+[2020.03.07-13.12.54:686][315]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12 triangles, Range [-0.3, 0.3], SM_CraneRig_Arm
+[2020.03.07-13.12.55:047][328]LogMeshUtilities: Finished distance field build in 0.4s - 31x27x20 distance field, 1068 triangles, Range [-0.1, 1.0], SM_CraneRig_Base
+[2020.03.07-13.12.55:068][329]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 664 triangles, Range [-0.2, 0.7], SM_Sequencer_Key
+[2020.03.07-13.12.55:108][332]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.0, 0.3], BoundingBoxEdge
+[2020.03.07-13.12.55:129][333]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 172 triangles, Range [-0.0, 1.0], BoundingBoxCorner
+[2020.03.07-13.12.55:148][334]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 120 triangles, Range [-0.0, 0.4], PlaneTranslationHandle
+[2020.03.07-13.12.55:188][337]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.4, 0.6], SM_Sequencer_Node
+[2020.03.07-13.12.57:554][574]LogShaderCompilers: Display: Shaders left to compile 822
+[2020.03.07-13.12.58:900][710]LogShaderCompilers: Display: Shaders left to compile 812
+[2020.03.07-13.12.59:470][768]LogShaderCompilers: Display: Shaders left to compile 802
+[2020.03.07-13.12.59:611][782]LogShaderCompilers: Display: Shaders left to compile 792
+[2020.03.07-13.12.59:781][799]LogShaderCompilers: Display: Shaders left to compile 782
+[2020.03.07-13.12.59:809][802]LogShaderCompilers: Display: Shaders left to compile 772
+[2020.03.07-13.12.59:969][819]LogShaderCompilers: Display: Shaders left to compile 762
+[2020.03.07-13.13.01:149][939]LogShaderCompilers: Display: Shaders left to compile 752
+[2020.03.07-13.13.01:990][ 22]LogShaderCompilers: Display: Shaders left to compile 742
+[2020.03.07-13.13.02:197][ 43]LogShaderCompilers: Display: Shaders left to compile 732
+[2020.03.07-13.13.03:168][143]LogShaderCompilers: Display: Shaders left to compile 722
+[2020.03.07-13.13.03:479][174]LogShaderCompilers: Display: Shaders left to compile 712
+[2020.03.07-13.13.03:556][182]LogShaderCompilers: Display: Shaders left to compile 702
+[2020.03.07-13.13.03:946][222]LogShaderCompilers: Display: Shaders left to compile 692
+[2020.03.07-13.13.04:088][237]LogShaderCompilers: Display: Shaders left to compile 682
+[2020.03.07-13.13.04:255][250]LogShaderCompilers: Display: Shaders left to compile 672
+[2020.03.07-13.13.04:940][321]LogShaderCompilers: Display: Shaders left to compile 662
+[2020.03.07-13.13.05:078][335]LogShaderCompilers: Display: Shaders left to compile 652
+[2020.03.07-13.13.06:648][494]LogShaderCompilers: Display: Shaders left to compile 642
+[2020.03.07-13.13.06:716][501]LogShaderCompilers: Display: Shaders left to compile 632
+[2020.03.07-13.13.06:851][514]LogShaderCompilers: Display: Shaders left to compile 622
+[2020.03.07-13.13.07:142][544]LogShaderCompilers: Display: Shaders left to compile 612
+[2020.03.07-13.13.07:152][545]LogShaderCompilers: Display: Shaders left to compile 602
+[2020.03.07-13.13.07:324][562]LogShaderCompilers: Display: Shaders left to compile 592
+[2020.03.07-13.13.07:610][591]LogShaderCompilers: Display: Shaders left to compile 582
+[2020.03.07-13.13.07:684][599]LogShaderCompilers: Display: Shaders left to compile 572
+[2020.03.07-13.13.08:338][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.13.09:915][786]LogShaderCompilers: Display: Shaders left to compile 562
+[2020.03.07-13.13.09:929][787]LogShaderCompilers: Display: Shaders left to compile 552
+[2020.03.07-13.13.10:017][793]LogShaderCompilers: Display: Shaders left to compile 542
+[2020.03.07-13.13.10:204][807]LogShaderCompilers: Display: Shaders left to compile 532
+[2020.03.07-13.13.10:375][820]LogShaderCompilers: Display: Shaders left to compile 522
+[2020.03.07-13.13.10:525][833]LogShaderCompilers: Display: Shaders left to compile 512
+[2020.03.07-13.13.10:587][837]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.07-13.13.10:796][837]LogShaderCompilers: Display: Shaders left to compile 502
+[2020.03.07-13.13.10:996][837]LogShaderCompilers: Display: Shaders left to compile 492
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2020.03.07-13.13.11:454][837]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.03.07-13.13.11:469][837]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.07-13.13.11:469][837]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.07-13.13.11:469][837]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X512)
+[2020.03.07-13.13.11:469][837]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2020.03.07-13.13.11:501][837]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.03.07-13.13.11:501][837]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X256)
+[2020.03.07-13.13.11:501][837]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.07-13.13.11:501][837]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.03.07-13.13.11:532][837]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.03.07-13.13.11:532][837]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.03.07-13.13.11:532][837]LogStaticMesh: Building static mesh Floor_Measurement...
+[2020.03.07-13.13.11:533][837]LogStaticMesh: Built static mesh [0.00s] /Game/Floor_Measurement.Floor_Measurement
+[2020.03.07-13.13.11:549][837]LogStaticMesh: Building static mesh Wall_Measurement...
+[2020.03.07-13.13.11:550][837]LogStaticMesh: Built static mesh [0.00s] /Game/Wall_Measurement.Wall_Measurement
+[2020.03.07-13.13.12:437][837]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.13.12:521][837]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/WensLevel.WensLevel
+[2020.03.07-13.13.13:808][837]Cmd: MAP LOAD FILE="../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/WensLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.07-13.13.13:811][837]LightingResults: New page: Lighting Build
+[2020.03.07-13.13.13:812][837]LoadErrors: New page: Loading map: WensLevel.umap
+[2020.03.07-13.13.13:814][837]MapCheck: New page: Map Check
+[2020.03.07-13.13.13:814][837]LightingResults: New page: Lighting Build
+[2020.03.07-13.13.13:952][837]LogMeshUtilities: Finished distance field build in 2.2s - 60x64x18 distance field, 12 triangles, Range [-0.0, 0.5], Floor_Measurement
+[2020.03.07-13.13.13:952][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.07-13.13.14:097][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.07-13.13.14:101][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.893ms to complete.
+[2020.03.07-13.13.14:101][837]LogFileHelpers: Loading map 'WensLevel' took 0.294
+[2020.03.07-13.13.14:296][837]LogSlate: Took 0.016716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.07-13.13.14:342][838]LogShaderCompilers: Display: Shaders left to compile 482
+[2020.03.07-13.13.15:112][866]LogMeshUtilities: Finished distance field build in 0.8s - 60x10x60 distance field, 12 triangles, Range [-0.0, 0.5], Wall_Measurement
+[2020.03.07-13.13.15:268][872]LogShaderCompilers: Display: Shaders left to compile 472
+[2020.03.07-13.13.15:440][879]LogShaderCompilers: Display: Shaders left to compile 462
+[2020.03.07-13.13.15:475][880]LogShaderCompilers: Display: Shaders left to compile 452
+[2020.03.07-13.13.16:460][917]LogShaderCompilers: Display: Shaders left to compile 442
+[2020.03.07-13.13.16:739][927]LogShaderCompilers: Display: Shaders left to compile 432
+[2020.03.07-13.13.16:941][935]LogShaderCompilers: Display: Shaders left to compile 422
+[2020.03.07-13.13.17:151][943]LogShaderCompilers: Display: Shaders left to compile 412
+[2020.03.07-13.13.17:585][959]LogShaderCompilers: Display: Shaders left to compile 402
+[2020.03.07-13.13.17:833][968]LogShaderCompilers: Display: Shaders left to compile 392
+[2020.03.07-13.13.18:904][  8]LogShaderCompilers: Display: Shaders left to compile 382
+[2020.03.07-13.13.19:159][ 16]LogShaderCompilers: Display: Shaders left to compile 372
+[2020.03.07-13.13.19:896][ 46]LogShaderCompilers: Display: Shaders left to compile 362
+[2020.03.07-13.13.20:259][ 59]LogShaderCompilers: Display: Shaders left to compile 352
+[2020.03.07-13.13.20:282][ 60]LogShaderCompilers: Display: Shaders left to compile 342
+[2020.03.07-13.13.20:871][ 85]LogShaderCompilers: Display: Shaders left to compile 332
+[2020.03.07-13.13.21:091][ 94]LogShaderCompilers: Display: Shaders left to compile 322
+[2020.03.07-13.13.21:436][107]LogShaderCompilers: Display: Shaders left to compile 312
+[2020.03.07-13.13.22:114][136]LogShaderCompilers: Display: Shaders left to compile 302
+[2020.03.07-13.13.22:173][138]LogShaderCompilers: Display: Shaders left to compile 292
+[2020.03.07-13.13.22:255][142]LogShaderCompilers: Display: Shaders left to compile 282
+[2020.03.07-13.13.22:604][157]LogShaderCompilers: Display: Shaders left to compile 272
+[2020.03.07-13.13.22:644][159]LogShaderCompilers: Display: Shaders left to compile 262
+[2020.03.07-13.13.24:182][226]LogShaderCompilers: Display: Shaders left to compile 252
+[2020.03.07-13.13.24:499][240]LogShaderCompilers: Display: Shaders left to compile 242
+[2020.03.07-13.13.25:050][265]LogShaderCompilers: Display: Shaders left to compile 232
+[2020.03.07-13.13.25:781][300]LogShaderCompilers: Display: Shaders left to compile 222
+[2020.03.07-13.13.26:389][332]LogShaderCompilers: Display: Shaders left to compile 212
+[2020.03.07-13.13.26:588][342]LogShaderCompilers: Display: Shaders left to compile 202
+[2020.03.07-13.13.27:539][389]LogShaderCompilers: Display: Shaders left to compile 192
+[2020.03.07-13.13.27:986][412]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor16)
+[2020.03.07-13.13.28:160][413]LogShaderCompilers: Display: Shaders left to compile 182
+[2020.03.07-13.13.28:255][416]LogShaderCompilers: Display: Shaders left to compile 172
+[2020.03.07-13.13.28:760][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.13.28:848][420]LogShaderCompilers: Display: Shaders left to compile 162
+[2020.03.07-13.13.29:736][479]LogShaderCompilers: Display: Shaders left to compile 152
+[2020.03.07-13.13.30:268][508]LogShaderCompilers: Display: Shaders left to compile 142
+[2020.03.07-13.13.31:143][558]LogShaderCompilers: Display: Shaders left to compile 132
+[2020.03.07-13.13.32:040][609]LogShaderCompilers: Display: Shaders left to compile 122
+[2020.03.07-13.13.32:197][614]LogShaderCompilers: Display: Shaders left to compile 112
+[2020.03.07-13.13.32:498][628]LogShaderCompilers: Display: Shaders left to compile 102
+[2020.03.07-13.13.33:485][693]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor15)
+[2020.03.07-13.13.33:634][696]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.03.07-13.13.33:903][714]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.03.07-13.13.33:934][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.13.34:894][767]LogShaderCompilers: Display: Shaders left to compile 72
+[2020.03.07-13.13.35:084][778]LogShaderCompilers: Display: Shaders left to compile 62
+[2020.03.07-13.13.35:876][829]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.03.07-13.13.36:514][871]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.03.07-13.13.36:613][878]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.03.07-13.13.36:752][887]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.07-13.13.37:248][917]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.07-13.13.37:360][922]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.07-13.13.41:665][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.13.43:063][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1891)
+[2020.03.07-13.13.44:339][549]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor14)
+[2020.03.07-13.13.45:627][677]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.14.03:984][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.14.05:072][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.07-13.14.07:025][989]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2020.03.07-13.14.15:933][314]Cmd: TRANSACTION UNDO
+[2020.03.07-13.14.15:933][314]LogEditorTransaction: Undo Move Actors
+[2020.03.07-13.14.17:874][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement367)
+[2020.03.07-13.14.26:393][723]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair 画刷13)
+[2020.03.07-13.14.29:570][844]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2020.03.07-13.14.29:800][848]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.14.33:081][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.14.37:287][527]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2020.03.07-13.14.41:480][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.20.43:311][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.20.43:608][497]LogActorFactory: Actor Factory created Cube
+[2020.03.07-13.20.44:569][569]LogActorFactory: Actor Factory created Cube
+[2020.03.07-13.20.48:304][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.20.57:699][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.21.03:485][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.21.08:278][704]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement417)
+[2020.03.07-13.21.08:331][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.21.09:718][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.21.09:718][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.21.09:718][845]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:21:09)
+[2020.03.07-13.21.09:730][845]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/BP_Instance'
+[2020.03.07-13.21.09:731][845]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/BP_Instance'
+[2020.03.07-13.21.09:731][845]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/BP_Instance.BP_Instance_C'
+[2020.03.07-13.21.09:731][845]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.21.09:860][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129042s)
+[2020.03.07-13.21.09:861][845]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.21.09:861][845]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2020.03.07-13.21.09:861][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.130586s)
+[2020.03.07-13.21.09:907][845]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.21.09:952][845]LogInit: FAudioDevice initialized.
+[2020.03.07-13.21.09:952][845]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.21.10:008][845]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.21.10:047][845]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.21.10
+[2020.03.07-13.21.10:048][845]LogWorld: Bringing up level for play took: 0.037871
+[2020.03.07-13.21.10:065][845]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.07-13.21.10:070][845]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.072
+[2020.03.07-13.21.10:071][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.21.16:639][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.21.16:639][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.21.16:686][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.21.16:686][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.21.16:719][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.21.16:760][622]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.03.07-13.21.17:699][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.07-13.21.18:414][797]Cmd: DELETE
+[2020.03.07-13.21.18:414][797]Cmd: ACTOR DELETE
+[2020.03.07-13.21.18:478][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.21.18:506][797]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2020.03.07-13.21.18:917][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.03.07-13.23.17:455][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.23.19:195][658]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/WensLevel_Auto108CC80C94B40F2ECB731B9B8274EE2AD.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto1.umap'
+[2020.03.07-13.23.19:205][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 1.705
+[2020.03.07-13.23.19:205][658]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.705
+[2020.03.07-13.24.23:982][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.24.24:040][423]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.24.24:071][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.24.24:071][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.24.24:071][423]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:24:24)
+[2020.03.07-13.24.24:072][423]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.24.24:216][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144526s)
+[2020.03.07-13.24.24:217][423]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.24.24:217][423]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2020.03.07-13.24.24:217][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.145653s)
+[2020.03.07-13.24.24:261][423]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.24.24:300][423]LogInit: FAudioDevice initialized.
+[2020.03.07-13.24.24:329][423]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.24.24:371][423]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.24.24
+[2020.03.07-13.24.24:372][423]LogWorld: Bringing up level for play took: 0.042732
+[2020.03.07-13.24.24:389][423]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel -0.61
+[2020.03.07-13.24.24:390][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.24.49:457][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.24.49:457][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.24.49:507][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.24.49:507][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.24.49:542][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.24.49:580][412]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.07-13.24.50:319][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement407)
+[2020.03.07-13.24.58:051][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement583)
+[2020.03.07-13.24.59:167][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement583)
+[2020.03.07-13.24.59:792][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement584)
+[2020.03.07-13.25.00:456][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement424)
+[2020.03.07-13.25.10:805][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement425)
+[2020.03.07-13.25.14:910][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement424)
+[2020.03.07-13.25.19:205][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement415)
+[2020.03.07-13.25.22:208][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.03.07-13.25.27:510][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.03.07-13.25.29:438][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.03.07-13.25.34:273][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.25.34:328][460]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.25.34:357][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.25.34:357][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.25.34:358][460]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:25:34)
+[2020.03.07-13.25.34:358][460]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.25.34:487][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128824s)
+[2020.03.07-13.25.34:488][460]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.25.34:488][460]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2020.03.07-13.25.34:488][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.130209s)
+[2020.03.07-13.25.34:537][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.25.34:574][460]LogInit: FAudioDevice initialized.
+[2020.03.07-13.25.34:605][460]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.25.34:647][460]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.25.34
+[2020.03.07-13.25.34:648][460]LogWorld: Bringing up level for play took: 0.042311
+[2020.03.07-13.25.34:665][460]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel -0.334
+[2020.03.07-13.25.34:665][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.25.53:566][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.25.53:567][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.25.53:617][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.25.53:617][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.25.53:651][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.25.53:689][719]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.07-13.25.54:454][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.03.07-13.25.54:775][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.26.02:853][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.26.16:925][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.26.30:848][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1472)
+[2020.03.07-13.26.34:087][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1473)
+[2020.03.07-13.26.46:129][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.03.07-13.26.48:816][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.26.57:778][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.03.07-13.26.58:617][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.27.06:229][293]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement421)
+[2020.03.07-13.27.06:285][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.27.07:993][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.27.07:993][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.27.07:993][425]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:27:07)
+[2020.03.07-13.27.07:993][425]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.27.08:124][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130123s)
+[2020.03.07-13.27.08:124][425]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.27.08:124][425]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2020.03.07-13.27.08:125][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.131294s)
+[2020.03.07-13.27.08:166][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.27.08:202][425]LogInit: FAudioDevice initialized.
+[2020.03.07-13.27.08:202][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.27.08:232][425]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.27.08:274][425]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.27.08
+[2020.03.07-13.27.08:276][425]LogWorld: Bringing up level for play took: 0.042593
+[2020.03.07-13.27.08:296][425]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.297
+[2020.03.07-13.27.08:297][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.27.44:122][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.27.44:122][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.27.44:171][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.27.44:171][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.27.44:205][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.27.44:241][711]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.07-13.29.12:412][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement550)
+[2020.03.07-13.29.16:194][498]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement550)
+[2020.03.07-13.29.16:225][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.29.17:464][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.29.17:464][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.29.17:464][596]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:29:17)
+[2020.03.07-13.29.17:464][596]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.29.17:595][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130376s)
+[2020.03.07-13.29.17:595][596]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.29.17:596][596]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.03.07-13.29.17:596][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.131699s)
+[2020.03.07-13.29.17:639][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.29.17:676][596]LogInit: FAudioDevice initialized.
+[2020.03.07-13.29.17:677][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.29.17:708][596]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.29.17:756][596]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.29.17
+[2020.03.07-13.29.17:757][596]LogWorld: Bringing up level for play took: 0.047916
+[2020.03.07-13.29.17:774][596]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 0.775
+[2020.03.07-13.29.17:774][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.29.58:794][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.29.58:794][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.29.58:841][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.29.58:841][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.29.58:875][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.29.58:912][504]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.07-13.30.20:593][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1210)
+[2020.03.07-13.30.21:900][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1235)
+[2020.03.07-13.30.44:339][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement408)
+[2020.03.07-13.31.55:221][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.31.55:359][997]LogActorFactory: Actor Factory created Cube
+[2020.03.07-13.31.56:103][ 59]LogActorFactory: Actor Factory created Cube
+[2020.03.07-13.31.58:953][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.32.08:576][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.32.13:054][667]LogSlate: Took 0.006299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.07-13.32.13:880][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.32.24:467][793]Cmd: TRANSACTION UNDO
+[2020.03.07-13.32.24:467][793]LogEditorTransaction: Undo Scale Actors
+[2020.03.07-13.32.25:249][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.32.42:498][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.32.42:548][530]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.32.42:580][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.32.42:580][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.32.42:580][530]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:32:42)
+[2020.03.07-13.32.42:580][530]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.32.42:714][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133751s)
+[2020.03.07-13.32.42:715][530]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.32.42:715][530]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2020.03.07-13.32.42:715][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.134862s)
+[2020.03.07-13.32.42:762][530]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.32.42:798][530]LogInit: FAudioDevice initialized.
+[2020.03.07-13.32.42:832][530]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.32.42:874][530]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.32.42
+[2020.03.07-13.32.42:875][530]LogWorld: Bringing up level for play took: 0.041934
+[2020.03.07-13.32.42:891][530]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel -0.108
+[2020.03.07-13.32.42:892][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.34.36:540][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.34.36:540][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.34.36:592][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.34.36:593][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.34.36:634][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.34.36:671][139]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.07-13.34.38:005][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.07-13.34.41:977][615]Cmd: EDIT COPY
+[2020.03.07-13.34.42:117][631]Cmd: EDIT PASTE
+[2020.03.07-13.34.55:692][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.34.55:774][966]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.34.55:804][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.34.55:804][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.34.55:804][966]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:34:55)
+[2020.03.07-13.34.55:805][966]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.34.56:079][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.274060s)
+[2020.03.07-13.34.56:080][966]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.34.56:080][966]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2020.03.07-13.34.56:080][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.275093s)
+[2020.03.07-13.34.56:127][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.34.56:165][966]LogInit: FAudioDevice initialized.
+[2020.03.07-13.34.56:195][966]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.34.56:240][966]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.34.56
+[2020.03.07-13.34.56:241][966]LogWorld: Bringing up level for play took: 0.045095
+[2020.03.07-13.34.56:258][966]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.26
+[2020.03.07-13.34.56:258][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.16:678][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.16:678][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.35.16:727][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.35.16:728][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.16:766][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.35.16:802][404]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.07-13.35.17:382][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement551)
+[2020.03.07-13.35.19:549][685]Cmd: DELETE
+[2020.03.07-13.35.19:549][685]Cmd: ACTOR DELETE
+[2020.03.07-13.35.19:616][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.35.19:645][685]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2020.03.07-13.35.20:010][726]Cmd: TRANSACTION UNDO
+[2020.03.07-13.35.20:010][726]LogEditorTransaction: Undo Delete Actors
+[2020.03.07-13.35.22:353][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.03.07-13.35.27:277][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.35.27:347][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.35.27:376][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.27:377][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.35.27:377][425]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:35:27)
+[2020.03.07-13.35.27:377][425]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.35.27:518][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140754s)
+[2020.03.07-13.35.27:519][425]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.35.27:519][425]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2020.03.07-13.35.27:520][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.142316s)
+[2020.03.07-13.35.27:569][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.35.27:615][425]LogInit: FAudioDevice initialized.
+[2020.03.07-13.35.27:650][425]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.35.27:706][425]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.35.27
+[2020.03.07-13.35.27:707][425]LogWorld: Bringing up level for play took: 0.056518
+[2020.03.07-13.35.27:724][425]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 0.726
+[2020.03.07-13.35.27:724][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.47:658][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.47:658][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.35.47:710][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.35.47:710][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.47:751][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.35.47:796][809]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.07-13.35.49:549][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.07-13.35.53:783][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.35.53:868][355]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.35.53:898][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.35.53:898][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.35.53:898][355]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:35:53)
+[2020.03.07-13.35.53:898][355]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.35.54:043][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144703s)
+[2020.03.07-13.35.54:044][355]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.35.54:044][355]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2020.03.07-13.35.54:044][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.145798s)
+[2020.03.07-13.35.54:095][355]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.35.54:133][355]LogInit: FAudioDevice initialized.
+[2020.03.07-13.35.54:171][355]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.35.54:222][355]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.35.54
+[2020.03.07-13.35.54:223][355]LogWorld: Bringing up level for play took: 0.050988
+[2020.03.07-13.35.54:240][355]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.243
+[2020.03.07-13.35.54:240][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.36.31:221][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.36.31:221][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.36.31:266][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.36.31:267][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.36.31:301][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.36.31:337][777]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.07-13.36.35:096][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.36.35:254][201]LogActorFactory: Actor Factory created Cylinder
+[2020.03.07-13.36.35:699][250]LogActorFactory: Actor Factory created Cylinder
+[2020.03.07-13.36.59:674][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement550)
+[2020.03.07-13.37.02:872][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.37.02:936][962]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.37.02:967][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.37.02:967][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.37.02:967][962]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:37:02)
+[2020.03.07-13.37.02:967][962]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.37.03:112][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144819s)
+[2020.03.07-13.37.03:113][962]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.37.03:113][962]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2020.03.07-13.37.03:113][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.146012s)
+[2020.03.07-13.37.03:162][962]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.37.03:199][962]LogInit: FAudioDevice initialized.
+[2020.03.07-13.37.03:231][962]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.37.03:280][962]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.37.03
+[2020.03.07-13.37.03:281][962]LogWorld: Bringing up level for play took: 0.049755
+[2020.03.07-13.37.03:298][962]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 0.302
+[2020.03.07-13.37.03:298][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.37.58:475][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.37.58:475][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.37.58:526][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.37.58:526][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.37.58:561][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.37.58:596][573]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.07-13.38.25:429][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement550)
+[2020.03.07-13.38.27:050][422]Cmd: DELETE
+[2020.03.07-13.38.27:050][422]Cmd: ACTOR DELETE
+[2020.03.07-13.38.27:114][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.38.27:114][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.38.27:140][422]LogEditorActor: Deleted 2 Actors (0.089 secs)
+[2020.03.07-13.38.28:706][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.38.28:790][611]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-13.38.28:819][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.38.28:819][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.38.28:819][611]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:38:28)
+[2020.03.07-13.38.28:820][611]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.38.29:018][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198490s)
+[2020.03.07-13.38.29:019][611]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.38.29:019][611]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.03.07-13.38.29:020][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.199664s)
+[2020.03.07-13.38.29:067][611]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.38.29:105][611]LogInit: FAudioDevice initialized.
+[2020.03.07-13.38.29:137][611]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.38.29:184][611]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.38.29
+[2020.03.07-13.38.29:185][611]LogWorld: Bringing up level for play took: 0.047730
+[2020.03.07-13.38.29:202][611]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 0.206
+[2020.03.07-13.38.29:203][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.38.50:980][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.38.50:981][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.38.51:033][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.38.51:033][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.38.51:071][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.38.51:108][217]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.07-13.39.13:421][ 47]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement490)
+[2020.03.07-13.39.13:490][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.39.15:353][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.39.15:353][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.39.15:353][173]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:39:15)
+[2020.03.07-13.39.15:353][173]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.39.15:488][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134580s)
+[2020.03.07-13.39.15:489][173]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.39.15:489][173]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.03.07-13.39.15:489][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.135761s)
+[2020.03.07-13.39.15:542][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.39.15:579][173]LogInit: FAudioDevice initialized.
+[2020.03.07-13.39.15:579][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.39.15:607][173]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.39.15:647][173]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.39.15
+[2020.03.07-13.39.15:648][173]LogWorld: Bringing up level for play took: 0.040523
+[2020.03.07-13.39.15:665][173]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 0.67
+[2020.03.07-13.39.15:666][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.05:247][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.05:248][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.40.05:297][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.40.05:298][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.05:342][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.40.05:381][111]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.07-13.40.08:788][471]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement497)
+[2020.03.07-13.40.08:837][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.40.09:835][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.09:835][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.40.09:836][557]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:40:09)
+[2020.03.07-13.40.09:836][557]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.40.09:971][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135749s)
+[2020.03.07-13.40.09:971][557]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.40.09:972][557]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2020.03.07-13.40.09:972][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.137280s)
+[2020.03.07-13.40.10:025][557]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.40.10:063][557]LogInit: FAudioDevice initialized.
+[2020.03.07-13.40.10:063][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.40.10:095][557]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.40.10:148][557]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.40.10
+[2020.03.07-13.40.10:149][557]LogWorld: Bringing up level for play took: 0.053768
+[2020.03.07-13.40.10:170][557]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.175
+[2020.03.07-13.40.10:171][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.15:979][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.15:980][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.40.16:028][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.40.16:028][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.40.16:065][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.40.16:105][248]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.07-13.40.52:767][ 36]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Measurement1780)
+[2020.03.07-13.40.52:875][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.40.53:486][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement507)
+[2020.03.07-13.41.16:771][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.41.18:781][543]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/WensLevel_Auto28A6A8F30408C42D5BAE5669FC7E1F8F2.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto2.umap'
+[2020.03.07-13.41.18:791][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 2.008
+[2020.03.07-13.41.18:791][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.008
+[2020.03.07-13.41.20:029][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement494)
+[2020.03.07-13.41.38:442][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1827)
+[2020.03.07-13.41.39:698][426]Cmd: DELETE
+[2020.03.07-13.41.39:698][426]Cmd: ACTOR DELETE
+[2020.03.07-13.41.39:762][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.39:794][426]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2020.03.07-13.41.42:958][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1825)
+[2020.03.07-13.41.43:579][812]Cmd: DELETE
+[2020.03.07-13.41.43:579][812]Cmd: ACTOR DELETE
+[2020.03.07-13.41.43:642][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.43:671][812]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2020.03.07-13.41.45:764][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1768)
+[2020.03.07-13.41.50:415][442]Cmd: DELETE
+[2020.03.07-13.41.50:416][442]Cmd: ACTOR DELETE
+[2020.03.07-13.41.50:481][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:482][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:482][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:482][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:482][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:482][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:483][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:483][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:483][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:483][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:484][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:484][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.41.50:509][442]LogEditorActor: Deleted 12 Actors (0.093 secs)
+[2020.03.07-13.42.01:909][648]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement489)
+[2020.03.07-13.42.01:958][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.42.03:820][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.42.03:820][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-13.42.03:820][813]PIE: New page: PIE session: WensLevel (7 Mar 2020 13:42:03)
+[2020.03.07-13.42.03:820][813]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.07-13.42.03:975][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155417s)
+[2020.03.07-13.42.03:976][813]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.07-13.42.03:976][813]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2020.03.07-13.42.03:976][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.156849s)
+[2020.03.07-13.42.04:033][813]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.07-13.42.04:072][813]LogInit: FAudioDevice initialized.
+[2020.03.07-13.42.04:072][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.42.04:104][813]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.07-13.42.04:145][813]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.07-13.42.04
+[2020.03.07-13.42.04:146][813]LogWorld: Bringing up level for play took: 0.041146
+[2020.03.07-13.42.04:167][813]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.172
+[2020.03.07-13.42.04:168][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.42.18:920][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.42.18:920][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.42.18:966][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-13.42.18:966][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.07-13.42.19:000][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-13.42.19:036][573]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.07-13.42.22:064][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.42.22:187][825]LogActorFactory: Actor Factory created Cube
+[2020.03.07-13.42.22:962][887]LogActorFactory: Actor Factory created Cube
+[2020.03.07-13.42.27:985][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.42.35:480][216]Cmd: TRANSACTION UNDO
+[2020.03.07-13.42.35:480][216]LogEditorTransaction: Undo Scale Actors
+[2020.03.07-13.42.38:164][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement498)
+[2020.03.07-13.42.41:290][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.03.07-13.42.57:786][475]Cmd: EDIT COPY
+[2020.03.07-13.42.58:001][489]Cmd: EDIT PASTE
+[2020.03.07-13.43.01:389][837]Cmd: EDIT COPY
+[2020.03.07-13.43.01:645][865]Cmd: EDIT PASTE
+[2020.03.07-13.43.04:658][173]Cmd: EDIT COPY
+[2020.03.07-13.43.04:827][190]Cmd: EDIT PASTE
+[2020.03.07-13.43.08:480][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.03.07-13.43.13:341][ 32]Cmd: EDIT COPY
+[2020.03.07-13.43.13:520][ 48]Cmd: EDIT PASTE
+[2020.03.07-13.43.14:924][170]Cmd: TRANSACTION UNDO
+[2020.03.07-13.43.14:924][170]LogEditorTransaction: Undo Move Actors
+[2020.03.07-13.43.15:447][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.03.07-13.43.17:883][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.03.07-13.43.19:387][593]Cmd: DELETE
+[2020.03.07-13.43.19:387][593]Cmd: ACTOR DELETE
+[2020.03.07-13.43.19:453][593]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.43.19:480][593]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2020.03.07-13.43.28:143][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement497)
+[2020.03.07-13.43.31:437][803]Cmd: DELETE
+[2020.03.07-13.43.31:437][803]Cmd: ACTOR DELETE
+[2020.03.07-13.43.31:500][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.43.31:501][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.43.31:501][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.43.31:501][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.43.31:502][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.43.31:528][803]LogEditorActor: Deleted 5 Actors (0.091 secs)
+[2020.03.07-13.43.32:495][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement498)
+[2020.03.07-13.43.42:233][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement493)
+[2020.03.07-13.43.52:949][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement498)
+[2020.03.07-13.44.49:168][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement502)
+[2020.03.07-13.44.56:716][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement503)
+[2020.03.07-13.44.58:530][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.45.09:283][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.07-13.45.11:225][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement545)
+[2020.03.07-13.45.13:387][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement503)
+[2020.03.07-13.45.18:094][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.07-13.46.30:970][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement502)
+[2020.03.07-13.46.34:391][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.03.07-13.46.35:783][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement502)
+[2020.03.07-13.46.38:381][582]Cmd: EDIT CUT
+[2020.03.07-13.46.38:453][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.46.38:453][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.46.38:492][582]LogEditorActor: Deleted 2 Actors (0.105 secs)
+[2020.03.07-13.46.40:160][766]Cmd: EDIT PASTE
+[2020.03.07-13.46.41:071][862]Cmd: EDIT COPY
+[2020.03.07-13.46.41:258][883]Cmd: EDIT PASTE
+[2020.03.07-13.46.43:526][119]Cmd: EDIT PASTE
+[2020.03.07-13.46.50:520][795]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor14)
+[2020.03.07-13.46.54:693][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1890)
+[2020.03.07-13.46.56:205][392]Cmd: DELETE
+[2020.03.07-13.46.56:205][392]Cmd: ACTOR DELETE
+[2020.03.07-13.46.56:268][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.07-13.46.56:309][392]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2020.03.07-13.46.58:562][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1765)
+[2020.03.07-13.47.03:262][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1764)
+[2020.03.07-13.47.08:452][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.47.09:829][804]LogActorFactory: Actor Factory created Cylinder
+[2020.03.07-13.47.10:935][910]LogActorFactory: Actor Factory created Cylinder
+[2020.03.07-13.47.32:677][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.47.48:972][787]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder3)
+[2020.03.07-13.47.48:995][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.47.53:644][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2020.03.07-13.47.54:782][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.47.55:981][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.47.57:399][572]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.07-13.47.57:512][574]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2020.03.07-13.47.57:512][574]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.03.07-13.47.57:512][574]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2020.03.07-13.47.57:512][574]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.03.07-13.47.57:512][574]LogTemp: BranchPath = TU45339/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = TU45339/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2020.03.07-13.47.57:535][575]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\v8027392\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.03.07-13.48.17:731][515]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.07-13.48.17:736][515]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.07-13.48.18:614][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.48.20:123][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.48.52:512][378]LogSlate: Window 'Plugins' being destroyed
+[2020.03.07-13.48.52:517][378]LogSlate: Window 'Plugins' being destroyed
+[2020.03.07-13.48.52:517][378]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.03.07-13.48.53:353][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-13.48.55:498][483]LogSlate: Window 'Save Content' being destroyed
+[2020.03.07-13.48.55:510][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-13.48.57:387][483]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/WensLevel67F15B5B401DCA39CC27DC8BA22B36E0.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/WensLevel.umap'
+[2020.03.07-13.48.57:478][483]LogFileHelpers: Saving map 'WensLevel' took 1.958
+[2020.03.07-13.48.57:712][483]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.03.07-13.48.58:030][484]Cmd: QUIT_EDITOR
+[2020.03.07-13.48.58:939][484]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.07-13.48.58:966][484]LogExit: Preparing to exit.
+[2020.03.07-13.48.59:802][484]LogDirectoryWatcher: A directory notification failed for 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/', and we were unable to create a new request.
+[2020.03.07-13.48.59:850][484]LogExit: Editor shut down
+[2020.03.07-13.48.59:850][484]LogExit: Transaction tracking system shut down
+[2020.03.07-13.49.00:063][484]LogExit: Object subsystem successfully closed.
+[2020.03.07-13.49.00:087][484]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.07-13.49.00:092][484]LogD3D11RHI: Shutdown
+[2020.03.07-13.49.00:092][484]LogD3D11RHI: CleanupD3DDevice
+[2020.03.07-13.49.00:095][484]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (630)
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2020.03.07-13.49.00:136][484]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.03.07-13.49.00:137][484]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.03.07-13.49.00:138][484]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.03.07-13.49.00:703][484]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.03.07-13.49.00:704][484]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.03.07-13.49.00:705][484]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.03.07-13.49.00:779][484]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.03.07-13.49.00:780][484]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.03.07-13.49.00:780][484]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.03.07-13.49.00:782][484]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.03.07-13.49.00:782][484]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.03.07-13.49.00:782][484]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.03.07-13.49.00:782][484]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.03.07-13.49.00:782][484]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.03.07-13.49.00:783][484]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.03.07-13.49.00:789][484]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.03.07-13.49.01:026][484]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.03.07-13.49.01:027][484]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.03.07-13.49.01:027][484]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.03.07-13.49.01:027][484]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.03.07-13.49.01:034][484]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.07-13.49.01:035][484]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.07-13.49.01:036][484]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.07-13.49.01:137][484]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.03.07-13.49.01:238][484]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.03.07-13.49.01:239][484]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.03.07-13.49.01:239][484]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.03.07-13.49.01:239][484]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.03.07-13.49.01:239][484]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.03.07-13.49.01:239][484]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.03.07-13.49.01:240][484]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.03.07-13.49.01:240][484]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.07-13.49.01:240][484]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.03.07-13.49.01:240][484]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.03.07-13.49.01:241][484]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.03.07-13.49.01:241][484]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.03.07-13.49.01:241][484]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.03.07-13.49.01:242][484]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.03.07-13.49.01:248][484]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.03.07-13.49.01:248][484]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.03.07-13.49.01:248][484]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.03.07-13.49.01:248][484]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.03.07-13.49.01:249][484]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.03.07-13.49.01:250][484]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.03.07-13.49.01:253][484]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.07-13.49.01:253][484]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.03.07-13.49.01:255][484]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.03.07-13.49.01:256][484]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.03.07-13.49.01:321][484]LogDerivedDataCache: Shutdown
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.03.07-13.49.01:322][484]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.03.07-13.49.01:323][484]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.03.07-13.49.01:323][484]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.03.07-13.49.01:323][484]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.03.07-13.49.01:323][484]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.03.07-13.49.01:323][484]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.03.07-13.49.01:324][484]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.03.07-13.49.01:324][484]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.07-13.49.01:324][484]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.03.07-13.49.01:324][484]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.03.07-13.49.01:324][484]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.03.07-13.49.01:325][484]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.03.07-13.49.01:325][484]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.03.07-13.49.01:326][484]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.03.07-13.49.01:326][484]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.03.07-13.49.01:333][484]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.03.07-13.49.01:333][484]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.07-13.49.01:334][484]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.03.07-13.49.01:334][484]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.03.07-13.49.01:334][484]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.03.07-13.49.01:334][484]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.03.07-13.49.01:334][484]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.03.07-13.49.01:335][484]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.03.07-13.49.01:335][484]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.03.07-13.49.01:357][484]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.03.07-13.49.01:357][484]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.07-13.49.01:357][484]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726FEC3D-4C3E-F5A9-61C0-DAA42C5A2419%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=62a4f3f444ee05d212535eb1d2b0d78f%7C%7Cb1d9c00b-4ada-47f0-bcc6-cbb7d38a2114&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.07-13.49.01:389][484]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.03.07-13.49.01:391][484]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.03.07-13.49.01:391][484]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.07-13.49.01:392][484]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.07-13.49.01:393][484]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.07-13.49.01:402][484]LogExit: Exiting.
+[2020.03.07-13.49.01:439][484]Log file closed, 03/07/20 13:49:01
