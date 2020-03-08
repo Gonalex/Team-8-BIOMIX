@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 2/23/2020, 21:39:06
-             Machine name: TU45358
-               Machine Id: {E4DF41F0-2A9A-45E9-B9E8-1018353FD865}
+      Time of this report: 3/8/2020, 18:34:16
+             Machine name: TU45338
+               Machine Id: {31DFDB17-DC7F-413B-89DF-71043AD8D003}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17763) (17763.rs5_release.180914-1434)
                  Language: English (Regional Setting: English)
       System Manufacturer: Hewlett-Packard
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz (12 CPUs), ~3.5GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32684MB RAM
-                Page File: 7521MB used, 30026MB available
+                Page File: 5819MB used, 31728MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -61,7 +61,7 @@ Display Devices
          HDR Support: Not Supported
     Display Topology: Extend
  Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
-     Color Primaries: Red(0.653320,0.332031), Green(0.303711,0.632813), Blue(0.150391,0.064453), White Point(0.313477,0.329102)
+     Color Primaries: Red(0.644531,0.335938), Green(0.328125,0.615234), Blue(0.146484,0.054688), White Point(0.313477,0.329102)
    Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
         Monitor Name: Generic PnP Monitor
        Monitor Model: HP E242
@@ -94,7 +94,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
            Device ID: 0x17C8
            SubSys ID: 0x139619DA
          Revision ID: 0x00A1
-  Driver Strong Name: oem72.inf:0f066de3672d1ed2:Section096:23.21.13.9135:pci\ven_10de&dev_17c8
+  Driver Strong Name: oem71.inf:0f066de3672d1ed2:Section096:23.21.13.9135:pci\ven_10de&dev_17c8
       Rank Of Driver: 00D12001
          Video Accel: 
          DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -200,7 +200,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
            Device ID: 0x17C8
            SubSys ID: 0x139619DA
          Revision ID: 0x00A1
-  Driver Strong Name: oem72.inf:0f066de3672d1ed2:Section096:23.21.13.9135:pci\ven_10de&dev_17c8
+  Driver Strong Name: oem71.inf:0f066de3672d1ed2:Section096:23.21.13.9135:pci\ven_10de&dev_17c8
       Rank Of Driver: 00D12001
          Video Accel: 
          DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -307,40 +307,22 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+      Device Name: HP Elite USB Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x03F0, 0x034A
+        FF Driver: n/a
+
+      Device Name: HP Elite USB Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x03F0, 0x034A
+        FF Driver: n/a
+
       Device Name: Controller (XBOX 360 For Windows)
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x045E, 0x028E
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0303
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0303
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0303
-        FF Driver: n/a
-
-      Device Name: HP Elite USB Keyboard
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x034A
-        FF Driver: n/a
-
-      Device Name: HP Elite USB Keyboard
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x034A
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -354,32 +336,13 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 9/15/2018 07:28:19, 586552 bytes
 | 
-+-+ Wacom Tablet
-| | Vendor/Product ID: 0x056A, 0x0303
-| | Location: Port_#0003.Hub_#0003
-| | Matching Device ID: USB\VID_056A&PID_0303
-| | Upper Filters: mshidkmdf
-| | Service: WacHidRouterPro
-| | Driver: wachidrouter.sys, 8/1/2019 22:06:46, 131736 bytes
-| | Driver: wdfcoinstaller01011.dll, 8/1/2019 22:06:46, 1813400 bytes
-| | 
-| +-+ HID-Compliant Mouse
-| | | Vendor/Product ID: 0x056A, 0x0303
-| | | Matching Device ID: HID\VID_056A&PID_0303&Col01
-| | | Upper Filters: wacomrouterfilter
-| | | Service: mouhid
-| | | Driver: wacomrouterfilter.sys, 8/1/2019 22:06:46, 33944 bytes
-| | | Driver: mouhid.sys, 9/15/2018 07:28:19, 34816 bytes
-| | | Driver: mouclass.sys, 9/15/2018 07:28:19, 61240 bytes
-| | | Driver: wdfcoinstaller01009.dll, 8/1/2019 22:07:23, 1721576 bytes
-| | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x03F0, 0x094A
-| | Location: Port_#0011.Hub_#0003
+| | Location: Port_#0012.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
 | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
-| | Driver: hidclass.sys, 11/7/2019 14:24:41, 209920 bytes
+| | Driver: hidclass.sys, 9/5/2019 15:12:28, 209920 bytes
 | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | 
 | +-+ HID-compliant mouse
@@ -391,18 +354,18 @@ USB Devices
 | | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x03F0, 0x034A
-| | Location: Port_#0012.Hub_#0003
+| | Location: Port_#0011.Hub_#0003
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 9/15/2018 07:28:19, 179000 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x03F0, 0x034A
-| | | Location: 0000.0014.0000.012.000.000.000.000.000
+| | | Location: 0000.0014.0000.011.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
-| | | Driver: hidclass.sys, 11/7/2019 14:24:41, 209920 bytes
+| | | Driver: hidclass.sys, 9/5/2019 15:12:28, 209920 bytes
 | | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | | 
 | | +-+ HID Keyboard Device
@@ -424,13 +387,13 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 234.2 GB
+ Free Space: 159.0 GB
 Total Space: 487.4 GB
 File System: NTFS
       Model: MTFDDAK512MBF-1AN1ZABHA
 
       Drive: D:
- Free Space: 1898.7 GB
+ Free Space: 1890.2 GB
 Total Space: 1907.7 GB
 File System: NTFS
       Model: ST2000DM001-1ER164
@@ -468,7 +431,7 @@ Device ID: PCI\VEN_8086&DEV_8D02&SUBSYS_212A103C&REV_05\3&11583659&0&FA
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #2 - 8D12
 Device ID: PCI\VEN_8086&DEV_8D12&SUBSYS_212A103C&REV_D5\3&11583659&0&E1
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DMI2 - 2F00
 Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
@@ -476,7 +439,7 @@ Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
 
      Name: Intel(R) C610 series/X99 chipset LPC Controller - 8D44
 Device ID: PCI\VEN_8086&DEV_8D44&SUBSYS_212A103C&REV_05\3&11583659&0&F8
-   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 11/7/2019 14:24:39, 18744 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 07:37:41, 18744 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F36
 Device ID: PCI\VEN_8086&DEV_2F36&SUBSYS_2F368086&REV_02\3&103A9D54&0&59
@@ -496,7 +459,7 @@ Device ID: PCI\VEN_8086&DEV_2F30&SUBSYS_2F308086&REV_02\3&103A9D54&0&91
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 1 - 2F02
 Device ID: PCI\VEN_8086&DEV_2F02&SUBSYS_00008086&REV_02\3&11583659&0&08
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) C610 series/X99 chipset SMBus Controller - 8D22
 Device ID: PCI\VEN_8086&DEV_8D22&SUBSYS_212A103C&REV_05\3&11583659&0&FB
@@ -508,7 +471,7 @@ Device ID: PCI\VEN_8086&DEV_2F81&SUBSYS_2F818086&REV_02\3&103A9D54&0&58
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #5 - 8D18
 Device ID: PCI\VEN_8086&DEV_8D18&SUBSYS_212A103C&REV_D5\3&11583659&0&E4
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFE
 Device ID: PCI\VEN_8086&DEV_2FFE&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7E
@@ -528,7 +491,7 @@ Device ID: PCI\VEN_8086&DEV_2FF9&SUBSYS_00000000&REV_02\3&103A9D54&0&79
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #1 - 8D10
 Device ID: PCI\VEN_8086&DEV_8D10&SUBSYS_212A103C&REV_D5\3&11583659&0&E0
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 RAS Control Status and Global Errors - 2F2A
 Device ID: PCI\VEN_8086&DEV_2F2A&SUBSYS_00000000&REV_02\3&11583659&0&2A
@@ -572,7 +535,7 @@ Device ID: PCI\VEN_8086&DEV_2F1F&SUBSYS_2F1F8086&REV_02\3&103A9D54&0&87
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 3 - 2F08
 Device ID: PCI\VEN_8086&DEV_2F08&SUBSYS_00008086&REV_02\3&11583659&0&18
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers - 2FB7
 Device ID: PCI\VEN_8086&DEV_2FB7&SUBSYS_2FB78086&REV_02\3&103A9D54&0&AB
@@ -597,7 +560,7 @@ Device ID: PCI\VEN_8086&DEV_2FB3&SUBSYS_2FB38086&REV_02\3&103A9D54&0&A3
 
      Name: PCI-to-PCI Bridge
 Device ID: PCI\VEN_1283&DEV_8893&SUBSYS_212A103C&REV_52\4&2D64E983&0&00E3
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) C610 series/X99 chipset SPSR - 8D7C
 Device ID: PCI\VEN_8086&DEV_8D7C&SUBSYS_212A103C&REV_05\3&11583659&0&88
@@ -710,7 +673,7 @@ Device ID: PCI\VEN_8086&DEV_2F68&SUBSYS_00000000&REV_02\3&103A9D54&0&B0
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #4 - 8D16
 Device ID: PCI\VEN_8086&DEV_8D16&SUBSYS_212A103C&REV_D5\3&11583659&0&E3
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFC
 Device ID: PCI\VEN_8086&DEV_2FFC&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7C
@@ -824,7 +787,7 @@ Device ID: PCI\VEN_8086&DEV_2FB4&SUBSYS_2FB48086&REV_02\3&103A9D54&0&A8
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 2 - 2F04
 Device ID: PCI\VEN_8086&DEV_2F04&SUBSYS_00008086&REV_02\3&11583659&0&10
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 11/7/2019 14:24:40, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:30, 422712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FB9
 Device ID: PCI\VEN_8086&DEV_2FB9&SUBSYS_00000000&REV_02\3&103A9D54&0&BD
@@ -872,7 +835,7 @@ WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.17763.0001
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.17763.0001
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.17763.0001
 SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.17763.0001
-Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17763.0973
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17763.1039
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.17763.0001
 StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.17763.0001
 XySubFilter,0x00200000,1,0,XySubFilter.dll,3.02.0000.0802
@@ -964,9 +927,9 @@ AC-3 ACM Codec,0x00200000,1,1,quartz.dll,10.00.17763.0001
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.17763.0001
 
 PBDA CP Filters:
-PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.17763.0802
-PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.17763.0802
-PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.17763.0802
+PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.17763.1039
+PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.17763.1039
+PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.17763.1039
 
 Midi Renderers:
 Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.17763.0001
@@ -1084,17 +1047,17 @@ Media Foundation Transforms
 
 Video Decoders:
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.9135
-  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17763.0973
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17763.1039
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.17763.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.17763.0001
-  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17763.0973
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17763.1039
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.17763.0001
   WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.17763.0001
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17763.0001
   Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.17763.0001
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.17763.0001
-  WebpImageExtension
   VP9VideoExtensionDecoder
+  WebpImageExtension
   HEIFImageExtension
 Video Encoders:
   NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.9135
@@ -1119,23 +1082,23 @@ Audio Decoders:
   MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.17763.0001
   WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.17763.0592
   Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.17763.0348
-  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.17763.0973
-  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.17763.0973
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.17763.1039
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.17763.1039
   WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.17763.0592
   Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.17763.0001
   Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.17763.0292
   Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.17763.0348
   WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.17763.0001
-  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.17763.0973
-  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.17763.0973
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.17763.1039
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.17763.1039
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.17763.0001
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.17763.0001
-  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.17763.0973
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.17763.1039
   Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.17763.0001
   DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.17763.0001
 Audio Encoders:
   LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.17763.0001
-  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.17763.0973
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.17763.1039
   Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.17763.0001
   WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.17763.0592
   MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.17763.0001
@@ -1150,7 +1113,7 @@ Audio Effects:
 Multiplexers:
   Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.17763.0973
 Others:
-  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17763.0973
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17763.1039
 
 
 --------------------------------------------
@@ -1418,54 +1381,54 @@ Diagnostics
 Windows Error Reporting:
 +++ WER0 +++:
 Fault bucket , type 0
-Event Name: LiveKernelEvent
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 144
-P2: 3003
-P3: fffffb8d8f0a36c0
-P4: 40010000
-P5: 0
-P6: 10_0_17763
-P7: 0_0
-P8: 256_1
+P1: wmplayer.exe
+P2: 12.0.17763.1
+P3: 84ee5416
+P4: combase.dll
+P5: 10.0.17763.1007
+P6: 18f88694
+P7: c0000005
+P8: 00000000000e3cad
 P9: 
 P10: 
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 1399889161727259652, type 5
+Event Name: MoBEX
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 144
-P2: 3003
-P3: fffffb8d8f0a36c0
-P4: 40010000
-P5: 0
-P6: 10_0_17763
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
+P1: Microsoft.MicrosoftEdge_44.17763.831.0_neutral__8wekyb3d8bbwe
+P2: praid:MicrosoftEdge
+P3: 11.0.17763.1039
+P4: 5e3e4777
+P5: edgeIso.dll
+P6: 11.0.17763.1007
+P7: 368d4bc3
+P8: 0000000000031c4a
+P9: c0000409
+P10: 0000000000000007
 
 
 +++ WER2 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
+Fault bucket 2000096025940003590, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2020.19081.28230.0
-P4: 0x802b000a
-P5: e948cb1d8b19d82eea4edd91a4485815
+P1: Substance Designer.exe
+P2: 2019.1.1.0
+P3: 10.0.17763.2.0.0
+P4: 
+P5: 
 P6: 
 P7: 
 P8: 
@@ -1474,17 +1437,17 @@ P10:
 
 
 +++ WER3 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
+Fault bucket 1759852017390736236, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2020.19081.28230.0
-P4: 0x802b000a
-P5: e948cb1d8b19d82eea4edd91a4485815
+P1: Substance Painter.exe
+P2: 2019.1.2.0
+P3: 10.0.17763.2.0.0
+P4: 
+P5: 
 P6: 
 P7: 
 P8: 
@@ -1503,7 +1466,7 @@ P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
 P2: praid:App
 P3: 2020.19081.28230.0
 P4: 0x802b000a
-P5: e948cb1d8b19d82eea4edd91a4485815
+P5: 181c20dcd54746f3fd4e14972fcc7545
 P6: 
 P7: 
 P8: 
@@ -1522,7 +1485,7 @@ P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
 P2: praid:App
 P3: 2020.19081.28230.0
 P4: 0x802b000a
-P5: e948cb1d8b19d82eea4edd91a4485815
+P5: 181c20dcd54746f3fd4e14972fcc7545
 P6: 
 P7: 
 P8: 
@@ -1531,7 +1494,45 @@ P10:
 
 
 +++ WER6 +++:
-Fault bucket 1532844844433124029, type 5
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER7 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER8 +++:
+Fault bucket 1526600589659561061, type 5
 Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
@@ -1542,67 +1543,29 @@ P2: praid:App
 P3: 2020.19081.28230.0
 P4: 5e3211c3
 P5: combase.dll
-P6: 10.0.17763.737
-P7: c366780e
+P6: 10.0.17763.1007
+P7: 18f88694
 P8: 802b000a
-P9: 000000000003629a
-P10: 
-
-
-+++ WER7 +++:
-Fault bucket , type 0
-Event Name: AppHangTransient
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: ZBrush.exe
-P2: 2019.1.2.0
-P3: 5ceede5d
-P4: unknown
-P5: unknown
-P6: unknown
-P7: unknown
-P8: 
-P9: 
-P10: 
-
-
-+++ WER8 +++:
-Fault bucket 1496889103579894765, type 5
-Event Name: MoAppCrash
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Microsoft.YourPhone_1.19123.13.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 1.19123.13.0
-P4: 5e38fe10
-P5: combase.dll
-P6: 10.0.17763.737
-P7: c366780e
-P8: 802b000a
-P9: 000000000003629a
+P9: 000000000002cb2a
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket 1496889103579894765, type 5
+Fault bucket 1526600589659561061, type 5
 Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.YourPhone_1.19123.13.0_x64__8wekyb3d8bbwe
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
 P2: praid:App
-P3: 1.19123.13.0
-P4: 5e38fe10
+P3: 2020.19081.28230.0
+P4: 5e3211c3
 P5: combase.dll
-P6: 10.0.17763.737
-P7: c366780e
+P6: 10.0.17763.1007
+P7: 18f88694
 P8: 802b000a
-P9: 000000000003629a
+P9: 000000000002cb2a
 P10: 
 
 
