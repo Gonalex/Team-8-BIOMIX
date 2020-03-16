@@ -1,0 +1,920 @@
+﻿Log file open, 03/15/20 23:47:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.443440
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.172s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.15-23.47.42:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.15-23.47.42:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:447][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:453][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.15-23.47.42:454][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.15-23.47.42:455][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.15-23.47.42:455][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.15-23.47.42:455][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.15-23.47.42:478][  0]LogHAL: Display: Platform has ~ 32 GB [34271838208 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.15-23.47.42:478][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.15-23.47.42:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.15-23.47.42:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.15-23.47.42:479][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.15-23.47.42:479][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.15-23.47.42:480][  0]LogInit: Computer: TU45356
+[2020.03.15-23.47.42:480][  0]LogInit: User: v8027392
+[2020.03.15-23.47.42:480][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.15-23.47.42:480][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.15-23.47.42:480][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.15-23.47.42:480][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.15-23.47.42:480][  0]LogMemory: Process Physical Memory: 107.84 MB used, 107.85 MB peak
+[2020.03.15-23.47.42:480][  0]LogMemory: Process Virtual Memory: 104.70 MB used, 104.70 MB peak
+[2020.03.15-23.47.42:480][  0]LogMemory: Physical Memory: 8631.23 MB used,  24052.95 MB free, 32684.17 MB total
+[2020.03.15-23.47.42:480][  0]LogMemory: Virtual Memory: 4682.07 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.03.15-23.47.42:506][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.15-23.47.42:506][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.15-23.47.42:507][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.15-23.47.42:890][  0]LogStreaming: Display: Took  0.385s to InitEngineTextLocalization.
+[2020.03.15-23.47.42:891][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.15-23.47.42:946][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.15-23.47.42:946][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.15-23.47.43:216][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.03.15-23.47.43:216][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.15-23.47.43:335][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2020.03.15-23.47.43:335][  0]LogD3D11RHI:       6097/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.15-23.47.43:340][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.15-23.47.43:340][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.15-23.47.43:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.15-23.47.43:347][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.15-23.47.43:347][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.15-23.47.43:347][  0]LogWindows: EnumDisplayDevices:
+[2020.03.15-23.47.43:347][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2020.03.15-23.47.43:348][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2020.03.15-23.47.43:349][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.03.15-23.47.43:349][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.03.15-23.47.43:350][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.15-23.47.43:350][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2020.03.15-23.47.43:350][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.03.15-23.47.43:350][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.03.15-23.47.43:350][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2020.03.15-23.47.43:397][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.15-23.47.43:408][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.15-23.47.43:990][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.15-23.47.44:007][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.15-23.47.44:022][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.15-23.47.44:044][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.15-23.47.44:076][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.15-23.47.44:099][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.15-23.47.44:115][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.15-23.47.44:131][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.15-23.47.44:138][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:222][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:222][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.15-23.47.44:224][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.15-23.47.44:312][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.15-23.47.44:312][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.15-23.47.44:349][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.15-23.47.44:349][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.15-23.47.44:363][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.15-23.47.44:378][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.15-23.47.44:391][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.15-23.47.44:407][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.15-23.47.44:467][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.15-23.47.44:467][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.15-23.47.44:467][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.15-23.47.44:538][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Intermediate/Shaders/WorkingDirectory/7480/).
+[2020.03.15-23.47.44:539][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/v8027392/AppData/Local/Temp/UnrealShaderWorkingDir/C9D99CE94DD8D48393B6DF9E61231E74/'.
+[2020.03.15-23.47.44:542][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.15-23.47.44:542][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.15-23.47.44:542][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.15-23.47.45:210][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.15-23.47.45:270][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/v8027392/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.15-23.47.45:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/v8027392/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.15-23.47.45:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.15-23.47.45:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.15-23.47.45:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.15-23.47.45:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.15-23.47.45:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.15-23.47.45:287][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.15-23.47.45:287][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.15-23.47.45:299][  0]LogDerivedDataCache: Using Local data cache path C:/Users/v8027392/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.15-23.47.45:299][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.15-23.47.45:299][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.15-23.47.45:331][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.15-23.47.45:333][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.15-23.47.45:334][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.15-23.47.45:451][  0]LogAssetRegistry: FAssetRegistry took 0.0439 seconds to start up
+[2020.03.15-23.47.45:892][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.15-23.47.46:155][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.15-23.47.46:159][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.15-23.47.46:159][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.15-23.47.46:159][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.15-23.47.46:159][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.15-23.47.46:176][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2020.03.15-23.47.47:042][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.179550 seconds
+[2020.03.15-23.47.47:049][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.15-23.47.47:049][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.15-23.47.47:049][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.15-23.47.48:064][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.15-23.47.48:078][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.15-23.47.48:877][  0]SourceControl: Source control is disabled
+[2020.03.15-23.47.48:877][  0]SourceControl: Source control is disabled
+[2020.03.15-23.47.48:880][  0]SourceControl: Source control is disabled
+[2020.03.15-23.47.48:883][  0]SourceControl: Source control is disabled
+[2020.03.15-23.47.49:116][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.15-23.47.49:396][  0]LogOcInput: OculusInput pre-init called
+[2020.03.15-23.47.49:585][  0]LogEngine: Initializing Engine...
+[2020.03.15-23.47.49:586][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.03.15-23.47.49:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.15-23.47.49:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.15-23.47.49:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.15-23.47.49:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.15-23.47.50:075][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.15-23.47.50:106][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.15-23.47.50:140][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-23.47.50:246][  0]LogInit: FAudioDevice initialized.
+[2020.03.15-23.47.50:246][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.15-23.47.50:358][  0]LogDerivedDataCache: Saved boot cache 0.11s 72MB C:/Users/v8027392/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.15-23.47.50:376][  0]LogInit: Texture streaming: Enabled
+[2020.03.15-23.47.50:411][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.15-23.47.50:434][  0]LogInit: Transaction tracking system initialized
+[2020.03.15-23.47.50:463][  0]BlueprintLog: New page: Editor Load
+[2020.03.15-23.47.50:577][  0]LocalizationService: Localization service is disabled
+[2020.03.15-23.47.51:473][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/' took 0.05s
+[2020.03.15-23.47.51:473][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.15-23.47.51:473][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.15-23.47.51:473][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.15-23.47.51:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.15-23.47.51:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.15-23.47.51:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.15-23.47.51:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.15-23.47.51:683][  0]SourceControl: Source control is disabled
+[2020.03.15-23.47.51:684][  0]Cmd: MAP LOAD FILE="../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.15-23.47.51:685][  0]LightingResults: New page: Lighting Build
+[2020.03.15-23.47.51:688][  0]MapCheck: New page: Map Check
+[2020.03.15-23.47.51:688][  0]LightingResults: New page: Lighting Build
+[2020.03.15-23.47.53:664][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.15-23.47.53:705][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.15-23.47.53:747][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.15-23.47.53:747][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.28ms to complete.
+[2020.03.15-23.47.53:747][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 2.064
+[2020.03.15-23.47.53:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-23.47.53:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-23.47.53:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-23.47.53:947][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-23.47.53:957][  0]LogCollectionManager: Loaded 0 collections in 0.005045 seconds
+[2020.03.15-23.47.53:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Collections/' took 0.01s
+[2020.03.15-23.47.53:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/Developers/v8027392/Collections/' took 0.01s
+[2020.03.15-23.47.53:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/Collections/' took 0.00s
+[2020.03.15-23.47.53:987][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.15-23.47.53:996][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2660 classes and 625 folders.
+[2020.03.15-23.47.54:003][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.15-23.47.54:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-23.47.54:073][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.15-23.47.54:079][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.15-23.47.54:094][  0]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.15-23.47.54:099][  0]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.15-23.47.54:115][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.15-23.47.54:211][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-23.47.54:349][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.15-23.47.54:349][  0]LogLoad: (Engine Initialization) Total time: 14.76 seconds
+[2020.03.15-23.47.54:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.15-23.47.54:508][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.15-23.47.54:538][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-23.47.54:778][  5]LogAssetRegistry: Asset discovery search completed in 9.3507 seconds
+[2020.03.15-23.47.54:780][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.15-23.47.54:780][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2020.03.15-23.47.55:993][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.47.56:359][176]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-23.47.58:278][176]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.03.15-23.47.58:367][176]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART
+[2020.03.15-23.47.58:425][176]Cmd: MAP LOAD FILE="../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.15-23.47.58:425][176]LightingResults: New page: Lighting Build
+[2020.03.15-23.47.58:426][176]LoadErrors: New page: Loading map: Graveyard-Catacomb_FINALART.umap
+[2020.03.15-23.47.58:428][176]MapCheck: New page: Map Check
+[2020.03.15-23.47.58:428][176]LightingResults: New page: Lighting Build
+[2020.03.15-23.47.58:533][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.15-23.47.58:663][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.15-23.47.58:664][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.741ms to complete.
+[2020.03.15-23.47.58:664][176]LogFileHelpers: Loading map 'Graveyard-Catacomb_FINALART' took 0.239
+[2020.03.15-23.48.10:294][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.48.14:198][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.15-23.48.21:029][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.48.29:034][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.48.33:108][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.15-23.48.50:988][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box123)
+[2020.03.15-23.48.55:232][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TB_Wall_Wood_and_Skirting_BeamVertical_Low44)
+[2020.03.15-23.48.57:217][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.49.00:397][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.49.05:368][462]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Materials/MI_TB_Wood_Skirts.MI_TB_Wood_Skirts
+[2020.03.15-23.49.05:940][462]LogRenderer: Reallocating scene render targets to support 1336x1044 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-23.49.05:946][462]LogStaticMesh: Allocated 504x150x64 distance field atlas = 9.2Mb, with 87 objects containing 5.2Mb backing data
+[2020.03.15-23.49.10:248][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.49.11:985][989]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Textures/TB_Wall_Wood_and_Skirting_Base_Colour.TB_Wall_Wood_and_Skirting_Base_Colour
+[2020.03.15-23.49.11:996][989]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.15-23.49.35:127][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brazier01_low2)
+[2020.03.15-23.49.39:256][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.49.40:831][382]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/SynthvaniaContent/ART/Bruce/Materials/MI_BF_Brazier.MI_BF_Brazier
+[2020.03.15-23.49.44:157][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.49.46:292][851]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/brazier01_low_blinn1_BaseColor.brazier01_low_blinn1_BaseColor
+[2020.03.15-23.49.56:846][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.49.59:325][ 65]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/brazier01_low_blinn1_Normal.brazier01_low_blinn1_Normal
+[2020.03.15-23.50.02:448][337]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/brazier01_low_blinn1_OcclusionRoughnessMetallic.brazier01_low_blinn1_OcclusionRoughnessMetallic
+[2020.03.15-23.50.05:008][542]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/doors02_lowpoly_lambert1_BaseColor.doors02_lowpoly_lambert1_BaseColor
+[2020.03.15-23.50.06:147][622]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/doors02_lowpoly_lambert1_Normal.doors02_lowpoly_lambert1_Normal
+[2020.03.15-23.50.07:645][723]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/doors02_lowpoly_lambert1_OcclusionRoughnessMetallic.doors02_lowpoly_lambert1_OcclusionRoughnessMetallic
+[2020.03.15-23.50.08:692][789]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/gate_lowpoly_lambert1_BaseColor.gate_lowpoly_lambert1_BaseColor
+[2020.03.15-23.50.23:657][117]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/gate_lowpoly_lambert1_Normal.gate_lowpoly_lambert1_Normal
+[2020.03.15-23.50.29:332][580]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/gate_lowpoly_lambert1_OcclusionRoughnessMetallic.gate_lowpoly_lambert1_OcclusionRoughnessMetallic
+[2020.03.15-23.50.34:362][907]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/sarcophagus01_low_blinn1_BaseColor.sarcophagus01_low_blinn1_BaseColor
+[2020.03.15-23.50.38:686][249]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/sarcophagus01_low_blinn1_Normal.sarcophagus01_low_blinn1_Normal
+[2020.03.15-23.50.43:499][612]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/sarcophagus01_low_blinn1_OcclusionRoughnessMetallic.sarcophagus01_low_blinn1_OcclusionRoughnessMetallic
+[2020.03.15-23.50.47:789][878]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/sarcophagus02_LP_blinn1_BaseColor.sarcophagus02_LP_blinn1_BaseColor
+[2020.03.15-23.50.52:481][229]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/sarcophagus02_LP_blinn1_Normal.sarcophagus02_LP_blinn1_Normal
+[2020.03.15-23.50.57:071][576]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/sarcophagus02_LP_blinn1_OcclusionRoughnessMetallic.sarcophagus02_LP_blinn1_OcclusionRoughnessMetallic
+[2020.03.15-23.51.03:178][947]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/skull_lp_lambert1_BaseColor.skull_lp_lambert1_BaseColor
+[2020.03.15-23.51.06:936][210]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/skull_lp_lambert1_Normal.skull_lp_lambert1_Normal
+[2020.03.15-23.51.11:446][532]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/SynthvaniaContent/ART/Bruce/Textures/skull_lp_lambert1_OcclusionRoughnessMetallic.skull_lp_lambert1_OcclusionRoughnessMetallic
+[2020.03.15-23.51.31:914][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm_Mausoleum)
+[2020.03.15-23.51.36:446][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.51.37:472][169]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/SynthvaniaContent/ART/Tyler_Hartshorne/Models/Sm_Mausoleum_TH.Sm_Mausoleum_TH
+[2020.03.15-23.51.37:994][169]LogRenderer: Reallocating scene render targets to support 1432x1044 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-23.51.37:994][169]LogSlate: Took 0.012049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.15-23.51.48:144][939]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Sm_Mausoleum_THF8CA51614055455FAED5BE8C67DD8FB2.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Tyler_Hartshorne/Models/Sm_Mausoleum_TH.uasset'
+[2020.03.15-23.51.52:449][230]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape7)
+[2020.03.15-23.51.59:066][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gate_lowpoly2)
+[2020.03.15-23.52.01:258][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.52.02:344][931]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/SynthvaniaContent/ART/Bruce/Models/gate_lowpoly.gate_lowpoly
+[2020.03.15-23.52.18:794][974]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/gate_lowpoly5447E65244E3843EC5DA36866E7A7C0D.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Models/gate_lowpoly.uasset'
+[2020.03.15-23.52.22:138][205]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape7)
+[2020.03.15-23.52.37:869][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.52.43:563][676]MapCheck: New page: Map Check
+[2020.03.15-23.52.43:568][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.52.43:571][676]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.15-23.52.43:571][676]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.15-23.52.44:937][676]LightingResults: New page: Lighting Build - 15 Mar 2020 23:52:44
+[2020.03.15-23.52.44:991][676]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.15-23.52.45:317][676]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.15-23.52.45:352][676]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.15-23.52.46:378][676]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.15-23.52.46:379][676]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7480
+[2020.03.15-23.52.48:692][676]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.15-23.52.48:692][676]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.15-23.52.48:692][676]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.15-23.52.48:692][676]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.15-23.52.48:692][676]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.15-23.52.49:188][676]LogEditorBuildUtils: Build time 0:05
+[2020.03.15-23.53.16:820][914]LightingResults: Warning: Coffin Object has overlapping UVs.
+[2020.03.15-23.53.16:820][914]LightingResults: Coffin Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.15-23.53.32:288][622]LightingResults: Warning: Coffin Object has overlapping UVs.
+[2020.03.15-23.53.32:288][622]LightingResults: Coffin Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.15-23.53.41:848][ 58]LightingResults: Warning: Coffin Object has overlapping UVs.
+[2020.03.15-23.53.41:848][ 58]LightingResults: Coffin Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.15-23.53.42:932][108]Job is a success!
+[2020.03.15-23.53.42:954][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.083s
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport:      BrickData 555x5x5 = 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport:          0: 7.2% covering 100.0% of volume
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport:          1: 18.0% covering 3.9% of volume
+[2020.03.15-23.53.43:127][109]LogVolumetricLightmapImport:          2: 74.8% covering 0.3% of volume
+[2020.03.15-23.53.50:321][109]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.03.15-23.53.50:321][109]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.03.15-23.53.50:321][109]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.03.15-23.53.50:321][109]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.03.15-23.53.50:321][109]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 64X32)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 64X64)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 64X64)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 64X32)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 64X64)
+[2020.03.15-23.53.50:322][109]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 64X64)
+[2020.03.15-23.53.50:522][109]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.03.15-23.53.50:522][109]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.03.15-23.53.50:675][109]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.03.15-23.53.50:676][109]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.03.15-23.53.50:676][109]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2020.03.15-23.53.50:676][109]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.15-23.53.50:676][109]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.03.15-23.53.50:676][109]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.03.15-23.53.50:676][109]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.03.15-23.53.50:726][109]Lightmass on TU45356: 59.9 sec total, 500 ms importing, 1.54 sec setup, 9.50 sec photons, 48.3 sec processing, 0 ms extra exporting [1332/1332 mappings]. Threads: 8:50 min total, 6:37 min processing.
+[2020.03.15-23.53.50:775][109]LogStaticLightingSystem: Illumination: 1:05 min (6.19 sec encoding lightmaps, 351 ms encoding shadowmaps)
+[2020.03.15-23.53.50:775][109]LogStaticLightingSystem: Lightmap texture memory:  64.0 MB (64.0 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.03.15-23.53.50:775][109]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 9 textures
+[2020.03.15-23.53.51:740][109]DumpUnbuiltLightIteractions
+[2020.03.15-23.53.51:740][109]Lights with unbuilt interactions: 0
+[2020.03.15-23.53.51:740][109]
+[2020.03.15-23.53.51:740][109]Primitives with unbuilt interactions: 0
+[2020.03.15-23.53.51:906][110]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.15-23.53.51:907][110]MapCheck: New page: Graveyard-Catacomb_FINALART - 15 Mar 2020 23:53:51
+[2020.03.15-23.53.51:943][110]MapCheck: Warning: BP_StatChest_2 Static mesh actor has NULL StaticMesh property 
+[2020.03.15-23.53.51:949][110]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 42.331ms to complete.
+[2020.03.15-23.54.00:800][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.54.00:875][697]LogSlate: Window 'Message Log' being destroyed
+[2020.03.15-23.54.00:879][697]LogSlate: Window 'Message Log' being destroyed
+[2020.03.15-23.54.03:046][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.54.05:027][880]LogSlate: Window 'Save Content' being destroyed
+[2020.03.15-23.54.05:043][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-23.54.05:247][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/gate_lowpoly_lambert1_BaseColorFC3D20794A4A7BCF93BDE0B7F43B463C.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/gate_lowpoly_lambert1_BaseColor.uasset'
+[2020.03.15-23.54.05:456][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/gate_lowpoly_lambert1_Normal625B2C12440D42484BAB2BB75BBE394A.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/gate_lowpoly_lambert1_Normal.uasset'
+[2020.03.15-23.54.05:628][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/gate_lowpoly_lambert1_OcclusionR656E2E564AF805072C2082969C15FA39.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/gate_lowpoly_lambert1_OcclusionRoughnessMetallic.uasset'
+[2020.03.15-23.54.05:818][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/sarcophagus01_low_blinn1_BaseCol6D42B5D343655E279F686C87F058F225.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/sarcophagus01_low_blinn1_BaseColor.uasset'
+[2020.03.15-23.54.06:091][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/sarcophagus01_low_blinn1_NormalAA4C1A89426DB01C0612DBA9B9E816E5.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/sarcophagus01_low_blinn1_Normal.uasset'
+[2020.03.15-23.54.06:221][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/sarcophagus01_low_blinn1_OcclusiD96F1E714739E6BD24C2048913D43E72.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/sarcophagus01_low_blinn1_OcclusionRoughnessMetallic.uasset'
+[2020.03.15-23.54.06:347][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/sarcophagus02_LP_blinn1_BaseColoA675FA214D6090E23EF51F80CBABA03C.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/sarcophagus02_LP_blinn1_BaseColor.uasset'
+[2020.03.15-23.54.06:582][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/sarcophagus02_LP_blinn1_Normal1CF9AD9A460A50B1B9742DBE9D346318.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/sarcophagus02_LP_blinn1_Normal.uasset'
+[2020.03.15-23.54.06:724][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/sarcophagus02_LP_blinn1_Occlusio107AE38D42588E8F7945589335FFEA1B.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/sarcophagus02_LP_blinn1_OcclusionRoughnessMetallic.uasset'
+[2020.03.15-23.54.06:939][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/skull_lp_lambert1_BaseColor5DB0BCFB4F8750A3EDBF6A93FA6F6E10.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/skull_lp_lambert1_BaseColor.uasset'
+[2020.03.15-23.54.07:262][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/skull_lp_lambert1_Normal0073C4C64860F9D871724FA458991039.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/skull_lp_lambert1_Normal.uasset'
+[2020.03.15-23.54.07:440][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/skull_lp_lambert1_OcclusionRough6C1B238F495AA585FD4CDCB2F902CEAC.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Textures/skull_lp_lambert1_OcclusionRoughnessMetallic.uasset'
+[2020.03.15-23.54.07:557][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/TB_Wall_Wood_and_Skirting_Base_CAAC49EA8477E3B980270D08D667B682B.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Tom_Boiston/Final/Textures/TB_Wall_Wood_and_Skirting_Base_Colour.uasset'
+[2020.03.15-23.54.09:421][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALARTDFA4495349816BE49B1884A6018AB188.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.umap'
+[2020.03.15-23.54.09:573][880]LogFileHelpers: Saving map 'Graveyard-Catacomb_FINALART' took 2.006
+[2020.03.15-23.54.11:916][880]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_Buil419B6DEE478E2E41D34AB5940039F43D.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_BuiltData.uasset'
+[2020.03.15-23.54.46:668][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.55.04:776][232]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh)
+[2020.03.15-23.55.06:015][330]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight34)
+[2020.03.15-23.55.09:513][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowLeft180)
+[2020.03.15-23.55.10:666][641]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight35)
+[2020.03.15-23.55.16:876][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.56.06:925][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.56.32:871][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.56.43:182][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm_GothicPillar_TH20)
+[2020.03.15-23.56.44:162][194]Cmd: TRANSACTION UNDO
+[2020.03.15-23.56.44:162][194]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.15-23.58.00:337][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.58.32:586][223]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight38)
+[2020.03.15-23.58.56:856][960]Cmd: DELETE
+[2020.03.15-23.58.56:856][960]Cmd: ACTOR DELETE
+[2020.03.15-23.58.56:913][960]LogEditorActor: Deleted Actor: PointLight
+[2020.03.15-23.58.56:946][960]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2020.03.15-23.58.58:023][ 58]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight33)
+[2020.03.15-23.59.09:419][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-23.59.18:000][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-00.00.08:906][  4]MapCheck: New page: Map Check
+[2020.03.16-00.00.08:918][  4]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.16-00.00.08:919][  4]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.16-00.00.09:587][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.03.16-00.00.09:597][  4]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.16-00.00.09:597][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2020.03.16-00.00.09:606][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_LevelArchitecture, compiling. 
+[2020.03.16-00.00.09:622][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.03.16-00.00.09:630][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.03.16-00.00.09:639][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_JJ_Landscape, compiling. 
+[2020.03.16-00.00.09:653][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Moon_Inst, compiling. 
+[2020.03.16-00.00.09:665][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_TB_Stone01, compiling. 
+[2020.03.16-00.00.09:677][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.16-00.00.09:685][  4]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.16-00.00.09:685][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.03.16-00.00.09:699][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_TB_Stone03, compiling. 
+[2020.03.16-00.00.09:711][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.03.16-00.00.09:718][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2020.03.16-00.00.09:726][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.03.16-00.00.09:734][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.03.16-00.00.09:742][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.03.16-00.00.09:751][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Whitebox, compiling. 
+[2020.03.16-00.00.09:758][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.03.16-00.00.09:767][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2020.03.16-00.00.09:776][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2020.03.16-00.00.09:784][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2020.03.16-00.00.09:811][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2020.03.16-00.00.09:826][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Blue, compiling. 
+[2020.03.16-00.00.09:835][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Translucent, compiling. 
+[2020.03.16-00.00.09:848][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.03.16-00.00.09:857][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.03.16-00.00.09:870][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.16-00.00.10:849][  4]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.16-00.00.10:849][  4]TextureStreamingBuild: Display: Compiling optional shaders took 1.269 seconds.
+[2020.03.16-00.00.10:876][  4]LogLevel: Display: Export Material TexCoord Scales took 0.027 seconds.
+[2020.03.16-00.00.11:389][  4]TextureStreamingBuild: Display: Build Texture Streaming took 0.512 seconds.
+[2020.03.16-00.00.11:452][  4]LightingResults: New page: Lighting Build - 16 Mar 2020 00:00:11
+[2020.03.16-00.00.11:464][  4]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.16-00.00.11:467][  4]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.16-00.00.11:467][  4]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.16-00.00.11:469][  4]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.16-00.00.11:469][  4]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7480
+[2020.03.16-00.00.13:547][  4]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.16-00.00.13:547][  4]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.16-00.00.13:547][  4]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.16-00.00.13:547][  4]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.16-00.00.13:547][  4]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.16-00.00.13:796][  4]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.16-00.00.13:796][  4]MapCheck: New page: Graveyard-Catacomb_FINALART - 16 Mar 2020 00:00:13
+[2020.03.16-00.00.13:798][  4]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.03.16-00.00.13:825][  4]MapCheck: Warning: BP_StatChest_2 Static mesh actor has NULL StaticMesh property 
+[2020.03.16-00.00.13:832][  4]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 34.455ms to complete.
+[2020.03.16-00.00.13:856][  4]LogEditorBuildUtils: Build time 0:04
+[2020.03.16-00.00.13:865][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.16-00.00.35:736][926]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-00.00.35:744][926]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-00.00.44:026][305]LightingResults: Warning: Coffin Object has overlapping UVs.
+[2020.03.16-00.00.44:026][305]LightingResults: Coffin Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.16-00.01.00:818][ 70]LightingResults: Warning: Coffin Object has overlapping UVs.
+[2020.03.16-00.01.00:818][ 70]LightingResults: Coffin Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.16-00.01.11:863][573]LightingResults: Warning: Coffin Object has overlapping UVs.
+[2020.03.16-00.01.11:863][573]LightingResults: Coffin Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.16-00.01.13:223][635]Job is a success!
+[2020.03.16-00.01.13:253][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.16-00.01.13:432][636]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.088s
+[2020.03.16-00.01.13:432][636]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.16-00.01.13:432][636]LogVolumetricLightmapImport:      BrickData 645x5x5 = 0.6Mb
+[2020.03.16-00.01.13:432][636]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.16-00.01.13:432][636]LogVolumetricLightmapImport:          0: 6.2% covering 100.0% of volume
+[2020.03.16-00.01.13:432][636]LogVolumetricLightmapImport:          1: 16.3% covering 4.1% of volume
+[2020.03.16-00.01.13:433][636]LogVolumetricLightmapImport:          2: 77.5% covering 0.3% of volume
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.03.16-00.01.20:955][636]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 2048X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 2048X2048)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 2048X2048)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 64X32)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 64X64)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 64X64)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 64X32)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2020.03.16-00.01.20:956][636]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2020.03.16-00.01.21:156][636]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 32X32)
+[2020.03.16-00.01.21:156][636]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.03.16-00.01.21:332][636]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.03.16-00.01.21:360][636]Lightmass on TU45356: 1:06 min total, 524 ms importing, 1.53 sec setup, 9.84 sec photons, 54.3 sec processing, 0 ms extra exporting [1332/1332 mappings]. Threads: 9:56 min total, 7:32 min processing.
+[2020.03.16-00.01.21:428][636]LogStaticLightingSystem: Illumination: 1:09 min (6.42 sec encoding lightmaps, 373 ms encoding shadowmaps)
+[2020.03.16-00.01.21:428][636]LogStaticLightingSystem: Lightmap texture memory:  64.0 MB (64.0 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.03.16-00.01.21:428][636]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 9 textures
+[2020.03.16-00.01.21:600][636]DumpUnbuiltLightIteractions
+[2020.03.16-00.01.21:600][636]Lights with unbuilt interactions: 0
+[2020.03.16-00.01.21:600][636]
+[2020.03.16-00.01.21:600][636]Primitives with unbuilt interactions: 0
+[2020.03.16-00.01.21:828][637]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.16-00.01.21:828][637]MapCheck: New page: Graveyard-Catacomb_FINALART - 16 Mar 2020 00:01:21
+[2020.03.16-00.01.21:860][637]MapCheck: Warning: BP_StatChest_2 Static mesh actor has NULL StaticMesh property 
+[2020.03.16-00.01.21:866][637]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 38.062ms to complete.
+[2020.03.16-00.01.24:440][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-00.01.24:518][808]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-00.01.24:523][808]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-00.01.26:793][948]Cmd: SELECT NONE
+[2020.03.16-00.01.29:441][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-00.01.30:515][169]LogSlate: Window 'Save Content' being destroyed
+[2020.03.16-00.01.30:528][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.16-00.01.30:597][169]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/MI_BF_Brazier6D12ACF346981E9A2A3B92B8B23B9124.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Bruce/Materials/MI_BF_Brazier.uasset'
+[2020.03.16-00.01.30:704][169]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/MI_TB_Wood_Skirts163D864D4FF480341BED0C9FBF3B98C0.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/ART/Tom_Boiston/Final/Materials/MI_TB_Wood_Skirts.uasset'
+[2020.03.16-00.01.32:321][169]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART54B02458453B82173D8C3985E1A311BE.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.umap'
+[2020.03.16-00.01.32:448][169]LogFileHelpers: Saving map 'Graveyard-Catacomb_FINALART' took 1.733
+[2020.03.16-00.01.34:698][169]LogSavePackage: Moving '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_BuilE9AFE955473C9CAB63124482E4DE74D1.tmp' to '../../../../../../Users/v8027392/Documents/GitHub/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_BuiltData.uasset'
