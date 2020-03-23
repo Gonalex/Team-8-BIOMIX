@@ -1,0 +1,1672 @@
+﻿Log file open, 03/17/20 14:00:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.419495
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.094s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.17-14.00.15:366][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.17-14.00.15:367][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.17-14.00.15:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:368][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:373][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.17-14.00.15:374][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:374][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.17-14.00.15:375][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.17-14.00.15:376][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.17-14.00.15:377][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.17-14.00.15:377][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.17-14.00.15:408][  0]LogHAL: Display: Platform has ~ 8 GB [8424902656 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.17-14.00.15:408][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.17-14.00.15:408][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.17-14.00.15:409][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.17-14.00.15:409][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.17-14.00.15:410][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.17-14.00.15:411][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.17-14.00.15:412][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.03.17-14.00.15:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.17-14.00.15:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.17-14.00.15:412][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.17-14.00.15:412][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.17-14.00.15:412][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.03.17-14.00.15:412][  0]LogInit: Computer: LAPTOP-F71MJ3F3
+[2020.03.17-14.00.15:413][  0]LogInit: User: josep
+[2020.03.17-14.00.15:413][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.17-14.00.15:413][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.17-14.00.15:413][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.03.17-14.00.15:413][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.17-14.00.15:413][  0]LogMemory: Process Physical Memory: 104.82 MB used, 104.82 MB peak
+[2020.03.17-14.00.15:413][  0]LogMemory: Process Virtual Memory: 102.39 MB used, 102.39 MB peak
+[2020.03.17-14.00.15:413][  0]LogMemory: Physical Memory: 3901.88 MB used,  4132.73 MB free, 8034.61 MB total
+[2020.03.17-14.00.15:413][  0]LogMemory: Virtual Memory: 4661.09 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.03.17-14.00.15:461][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.17-14.00.15:461][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.17-14.00.15:463][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.17-14.00.15:933][  0]LogStreaming: Display: Took  0.472s to InitEngineTextLocalization.
+[2020.03.17-14.00.15:933][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.17-14.00.15:971][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.17-14.00.15:971][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.17-14.00.16:258][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.17-14.00.16:258][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.17-14.00.16:345][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.03.17-14.00.16:345][  0]LogD3D11RHI:       5991/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.17-14.00.16:363][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.17-14.00.16:363][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.17-14.00.16:366][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.17-14.00.16:366][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.17-14.00.16:366][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.17-14.00.16:403][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.17-14.00.16:403][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.17-14.00.16:403][  0]LogWindows: EnumDisplayDevices:
+[2020.03.17-14.00.16:404][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.03.17-14.00.16:404][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.17-14.00.16:404][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.17-14.00.16:405][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.03.17-14.00.16:405][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.03.17-14.00.16:405][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.03.17-14.00.16:405][  0]LogD3D11RHI:   Driver Version: 431.90 (internal:26.21.14.3190, unified:431.90)
+[2020.03.17-14.00.16:405][  0]LogD3D11RHI:      Driver Date: 9-4-2019
+[2020.03.17-14.00.16:405][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.03.17-14.00.16:472][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.17-14.00.16:488][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.17-14.00.17:033][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.17-14.00.17:080][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.17-14.00.17:113][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.17-14.00.17:131][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.17-14.00.17:145][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.17-14.00.17:159][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.17-14.00.17:173][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.17-14.00.17:189][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.17-14.00.17:197][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.17-14.00.17:323][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.17-14.00.17:415][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.17-14.00.17:415][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.17-14.00.17:504][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.17-14.00.17:505][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.17-14.00.17:539][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.17-14.00.17:552][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.17-14.00.17:565][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.17-14.00.17:579][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.17-14.00.17:636][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.17-14.00.17:636][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.17-14.00.17:636][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.17-14.00.17:679][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/Shaders/WorkingDirectory/12372/).
+[2020.03.17-14.00.17:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/josep/AppData/Local/Temp/UnrealShaderWorkingDir/8BE19ED54B9D8FA54745B7A0FD39A8DE/'.
+[2020.03.17-14.00.17:680][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.17-14.00.17:680][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.17-14.00.17:680][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.17-14.00.19:615][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.17-14.00.19:856][  0]LogDerivedDataCache: Loaded boot cache 0.24s 71MB C:/Users/josep/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.17-14.00.19:857][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/josep/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.17-14.00.19:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.17-14.00.19:857][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.17-14.00.19:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.17-14.00.19:857][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.17-14.00.19:991][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.17-14.00.19:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.17-14.00.19:992][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.17-14.00.20:007][  0]LogDerivedDataCache: Using Local data cache path C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.17-14.00.20:007][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.17-14.00.20:007][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.17-14.00.20:146][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.17-14.00.20:241][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.17-14.00.20:381][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.17-14.00.21:334][  0]LogAssetRegistry: FAssetRegistry took 0.0847 seconds to start up
+[2020.03.17-14.00.28:551][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.17-14.00.30:061][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.17-14.00.30:231][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.17-14.00.30:231][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.17-14.00.30:232][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.17-14.00.30:232][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.17-14.00.30:601][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2020.03.17-14.00.35:049][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/2657c409.bin
+[2020.03.17-14.00.35:055][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.35:556][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.36:056][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.36:556][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.37:057][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.37:557][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.38:058][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.38:559][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.39:059][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.39:560][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2020.03.17-14.00.40:061][  0]LogFileManager: Error: Error moving file '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Intermediate/AssetRegistryCache/aff1c699.bin'.
+[2020.03.17-14.00.40:133][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 5.158456 seconds
+[2020.03.17-14.00.40:141][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.17-14.00.40:141][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.17-14.00.40:141][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.17-14.00.43:169][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.17-14.00.43:217][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.17-14.00.46:479][  0]SourceControl: Source control is disabled
+[2020.03.17-14.00.46:492][  0]SourceControl: Source control is disabled
+[2020.03.17-14.00.46:601][  0]SourceControl: Source control is disabled
+[2020.03.17-14.00.46:629][  0]SourceControl: Source control is disabled
+[2020.03.17-14.00.48:544][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.17-14.00.49:183][  0]LogOcInput: OculusInput pre-init called
+[2020.03.17-14.00.51:236][  0]LogEngine: Initializing Engine...
+[2020.03.17-14.00.51:278][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.17-14.00.51:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2020.03.17-14.00.51:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.17-14.00.51:308][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2020.03.17-14.00.51:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.17-14.00.52:487][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.17-14.00.53:188][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.17-14.00.53:493][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.17-14.00.54:332][  0]LogInit: FAudioDevice initialized.
+[2020.03.17-14.00.54:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.17-14.00.54:470][  0]LogDerivedDataCache: Saved boot cache 0.14s 72MB C:/Users/josep/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.17-14.00.54:482][  0]LogInit: Texture streaming: Enabled
+[2020.03.17-14.00.54:539][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.17-14.00.54:817][  0]LogInit: Transaction tracking system initialized
+[2020.03.17-14.00.55:326][  0]BlueprintLog: New page: Editor Load
+[2020.03.17-14.00.57:075][  0]LocalizationService: Localization service is disabled
+[2020.03.17-14.01.01:072][  0]LogFileCache: Scanning file cache for directory 'D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/' took 0.06s
+[2020.03.17-14.01.01:072][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.17-14.01.01:073][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.17-14.01.01:075][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.17-14.01.01:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.17-14.01.01:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.17-14.01.01:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.17-14.01.01:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.17-14.01.03:602][  0]SourceControl: Source control is disabled
+[2020.03.17-14.01.03:638][  0]Cmd: MAP LOAD FILE="../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.17-14.01.03:680][  0]LightingResults: New page: Lighting Build
+[2020.03.17-14.01.03:888][  0]MapCheck: New page: Map Check
+[2020.03.17-14.01.03:888][  0]LightingResults: New page: Lighting Build
+[2020.03.17-14.01.11:838][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.17-14.01.12:999][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.03.17-14.01.13:387][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.17-14.01.13:399][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.881ms to complete.
+[2020.03.17-14.01.13:404][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 9.792
+[2020.03.17-14.01.15:836][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-14.01.15:877][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-14.01.15:909][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-14.01.15:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-14.01.16:120][  0]LogCollectionManager: Loaded 0 collections in 0.003266 seconds
+[2020.03.17-14.01.16:375][  0]LogFileCache: Scanning file cache for directory 'D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Collections/' took 0.01s
+[2020.03.17-14.01.16:375][  0]LogFileCache: Scanning file cache for directory 'D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/Developers/josep/Collections/' took 0.01s
+[2020.03.17-14.01.16:375][  0]LogFileCache: Scanning file cache for directory 'D:/Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/Collections/' took 0.01s
+[2020.03.17-14.01.16:375][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.17-14.01.16:421][  0]LogContentBrowser: Native class hierarchy populated in 0.0415 seconds. Added 2660 classes and 625 folders.
+[2020.03.17-14.01.16:608][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.03.17-14.01.16:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.16:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.17:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.17:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.17:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.17:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.17:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.17-14.01.17:670][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.03.17-14.01.17:764][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.03.17-14.01.18:576][  0]LogSlate: Took 0.027610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.17-14.01.18:622][  0]LogSlate: Took 0.028184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.17-14.01.18:694][  0]LogSlate: Took 0.038720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.17-14.01.19:532][  0]LogRenderer: Reallocating scene render targets to support 860x436 Format 10 NumSamples 1 (Frame:1).
+[2020.03.17-14.01.21:035][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.03.17-14.01.21:035][  0]LogLoad: (Engine Initialization) Total time: 67.74 seconds
+[2020.03.17-14.01.21:035][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.17-14.01.21:632][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.17-14.01.21:912][  0]LogSlate: Took 0.023842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.17-14.01.23:931][ 13]LogAssetRegistry: Asset discovery search completed in 62.6341 seconds
+[2020.03.17-14.01.23:937][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.17-14.01.23:937][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000164 seconds (updated 0 objects)
+[2020.03.17-14.04.01:530][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-14.04.10:106][748]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.17-14.04.11:304][748]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.17-14.04.11:458][748]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/WensLevel.WensLevel
+[2020.03.17-14.04.11:635][748]Cmd: MAP LOAD FILE="../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/WensLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.17-14.04.11:635][748]LightingResults: New page: Lighting Build
+[2020.03.17-14.04.11:637][748]LoadErrors: New page: Loading map: WensLevel.umap
+[2020.03.17-14.04.11:733][748]MapCheck: New page: Map Check
+[2020.03.17-14.04.11:734][748]LightingResults: New page: Lighting Build
+[2020.03.17-14.04.12:201][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.17-14.04.12:527][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.17-14.04.12:532][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.948ms to complete.
+[2020.03.17-14.04.12:532][748]LogFileHelpers: Loading map 'WensLevel' took 0.952
+[2020.03.17-14.35.52:398][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement414)
+[2020.03.17-14.35.54:994][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement413)
+[2020.03.17-14.35.57:634][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement416)
+[2020.03.17-14.35.58:383][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement417)
+[2020.03.17-14.35.59:776][644]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement414)
+[2020.03.17-14.36.00:646][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement418)
+[2020.03.17-14.36.01:455][734]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement419)
+[2020.03.17-14.36.02:334][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement420)
+[2020.03.17-14.36.03:547][820]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement421)
+[2020.03.17-14.36.04:597][879]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement422)
+[2020.03.17-14.36.05:519][929]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_1)
+[2020.03.17-14.36.06:237][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement394)
+[2020.03.17-14.37.18:232][248]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto1E7332B5E4BED95B6E9CAB9A435533174.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto1.umap'
+[2020.03.17-14.37.18:297][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 2.602
+[2020.03.17-14.37.18:297][248]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.602
+[2020.03.17-14.41.49:464][156]Cmd: TRANSACTION UNDO
+[2020.03.17-14.41.49:464][156]LogEditorTransaction: Undo Move Actors
+[2020.03.17-14.41.54:418][419]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement394)
+[2020.03.17-14.47.20:803][682]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto231CAC96545E0D7922516CCA4D3EF576E.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto2.umap'
+[2020.03.17-14.47.20:806][682]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 2.279
+[2020.03.17-14.47.20:806][682]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.279
+[2020.03.17-14.47.48:048][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement374)
+[2020.03.17-14.47.48:890][940]LogEditorViewport: Clicking on Actor (CTRL LMB): RecastNavMesh (RecastNavMesh)
+[2020.03.17-14.47.50:063][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement375)
+[2020.03.17-14.47.51:828][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement375)
+[2020.03.17-14.47.52:941][182]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement374)
+[2020.03.17-14.47.54:060][270]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement380)
+[2020.03.17-14.47.54:909][320]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement381)
+[2020.03.17-14.47.55:557][351]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement382)
+[2020.03.17-14.47.58:333][543]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement383)
+[2020.03.17-14.47.59:232][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement384)
+[2020.03.17-14.48.00:035][652]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement385)
+[2020.03.17-14.48.00:827][705]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement386)
+[2020.03.17-14.48.03:588][859]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement387)
+[2020.03.17-14.48.05:270][964]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement388)
+[2020.03.17-14.48.06:250][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement389)
+[2020.03.17-14.48.07:224][102]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement440)
+[2020.03.17-14.48.09:892][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement441)
+[2020.03.17-14.57.25:230][538]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto3ED9C6A0B4968EDBF086F0FBF12793716.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto3.umap'
+[2020.03.17-14.57.25:234][538]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 1.030
+[2020.03.17-14.57.25:234][538]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.030
+[2020.03.17-15.02.14:015][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement442)
+[2020.03.17-15.02.14:647][115]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_4)
+[2020.03.17-15.02.16:467][263]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement555)
+[2020.03.17-15.02.18:476][384]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement556)
+[2020.03.17-15.02.19:125][418]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement557)
+[2020.03.17-15.02.19:722][450]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement558)
+[2020.03.17-15.02.20:489][515]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement559)
+[2020.03.17-15.02.21:657][595]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement415)
+[2020.03.17-15.02.22:832][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement402)
+[2020.03.17-15.02.31:999][259]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement560)
+[2020.03.17-15.03.58:856][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Measurement1606)
+[2020.03.17-15.03.59:102][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.04.00:273][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1529)
+[2020.03.17-15.04.01:100][216]Cmd: TRANSACTION UNDO
+[2020.03.17-15.04.01:100][216]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.17-15.04.02:490][287]Cmd: TRANSACTION UNDO
+[2020.03.17-15.04.02:490][287]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.03.17-15.04.11:152][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement610)
+[2020.03.17-15.04.11:829][927]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement611)
+[2020.03.17-15.04.13:397][ 58]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_7)
+[2020.03.17-15.04.14:222][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement612)
+[2020.03.17-15.04.19:684][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Balcony_2)
+[2020.03.17-15.06.03:537][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1589)
+[2020.03.17-15.06.04:869][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_3)
+[2020.03.17-15.06.06:917][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_1)
+[2020.03.17-15.06.14:114][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_2)
+[2020.03.17-15.06.15:925][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_Fallen_1)
+[2020.03.17-15.06.21:327][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_3)
+[2020.03.17-15.06.24:054][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_1)
+[2020.03.17-15.07.28:757][757]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto4802E262047E66112DB606986A67CEFFD.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto4.umap'
+[2020.03.17-15.07.28:765][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 3.112
+[2020.03.17-15.07.28:765][757]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.112
+[2020.03.17-15.07.49:153][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement66)
+[2020.03.17-15.07.50:122][120]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement616)
+[2020.03.17-15.07.50:926][182]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement617)
+[2020.03.17-15.07.51:459][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement618)
+[2020.03.17-15.09.02:148][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement621)
+[2020.03.17-15.09.03:077][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement622)
+[2020.03.17-15.09.03:652][905]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement623)
+[2020.03.17-15.09.04:212][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement624)
+[2020.03.17-15.10.53:945][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Broken_Beam)
+[2020.03.17-15.11.42:554][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Scafolding_1)
+[2020.03.17-15.11.45:895][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Broken_Beam)
+[2020.03.17-15.12.23:441][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Broken_Beam)
+[2020.03.17-15.12.49:972][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement428)
+[2020.03.17-15.12.52:896][397]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement429)
+[2020.03.17-15.12.53:852][463]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement431)
+[2020.03.17-15.12.55:044][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement430)
+[2020.03.17-15.12.55:804][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement432)
+[2020.03.17-15.12.56:431][658]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement433)
+[2020.03.17-15.12.57:022][708]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement434)
+[2020.03.17-15.12.59:229][859]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement435)
+[2020.03.17-15.13.41:310][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement444)
+[2020.03.17-15.13.48:731][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement607)
+[2020.03.17-15.13.49:542][154]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement591)
+[2020.03.17-15.13.50:173][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement592)
+[2020.03.17-15.13.51:995][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement486)
+[2020.03.17-15.13.52:921][398]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement487)
+[2020.03.17-15.13.56:363][583]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement477)
+[2020.03.17-15.13.57:559][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement476)
+[2020.03.17-15.13.59:703][769]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement472)
+[2020.03.17-15.14.00:495][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement473)
+[2020.03.17-15.14.01:184][857]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement474)
+[2020.03.17-15.14.02:007][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement475)
+[2020.03.17-15.14.19:134][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement607)
+[2020.03.17-15.14.48:096][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement593)
+[2020.03.17-15.14.49:031][373]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement594)
+[2020.03.17-15.14.49:673][419]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement595)
+[2020.03.17-15.14.50:179][455]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement596)
+[2020.03.17-15.14.50:716][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement597)
+[2020.03.17-15.14.51:354][545]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement598)
+[2020.03.17-15.14.51:889][582]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement599)
+[2020.03.17-15.15.30:671][ 53]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.15.30:804][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.15.39:008][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement503)
+[2020.03.17-15.15.39:943][602]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement504)
+[2020.03.17-15.15.40:499][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement505)
+[2020.03.17-15.15.41:292][704]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement506)
+[2020.03.17-15.15.41:994][749]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement507)
+[2020.03.17-15.15.42:737][809]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-15.15.43:597][862]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement570)
+[2020.03.17-15.15.44:169][905]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement512)
+[2020.03.17-15.15.44:704][942]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement513)
+[2020.03.17-15.15.45:200][983]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement514)
+[2020.03.17-15.17.28:859][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.17.31:890][492]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto5789D76A642DB8B0E843B389646766C3E.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto5.umap'
+[2020.03.17-15.17.31:894][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 2.987
+[2020.03.17-15.17.31:894][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.987
+[2020.03.17-15.17.46:671][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.17.48:875][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.17.49:949][604]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevelA90419B24FF8C8EE8B4EC4A4BB6E9122.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/WensLevel.umap'
+[2020.03.17-15.17.50:042][604]LogFileHelpers: Saving map 'WensLevel' took 1.089
+[2020.03.17-15.18.04:009][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: T_JS__DeadGround_Graveyard_BC (AutoDXT, 2048X2048)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2020.03.17-15.18.08:781][346]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 16X16)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Angel_LP_initialShadingGroup_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Angel_LP_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: Angel_LP_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2020.03.17-15.18.08:782][346]LogTexture: Display: Building textures: T_TB_BoneWall_BaseColour (AutoDXT, 2048X2048)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: T_TB_BoneWall_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: T_TB_BoneWall_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: T_JS__DeadGround_Graveyard_N (BC5, 2048X2048)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: Mausoleum_low_Mausoleum_OcclusionRoughnessMetallic1024x1024 (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: Mausoleum_low_Mausoleum_Normal1024x1024 (BC5, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: Mausoleum_low_Mausoleum_BaseColor1024x1024 (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: GothicArchGroup_lambert1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: GothicArchGroup_lambert1_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: GothicArchGroup_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: TB_Stone4_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: TB_Stone4_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.19:073][346]LogTexture: Display: Building textures: TB_Stone4_BaseColour (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone3_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone3_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone3_BaseColour (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone2_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone2_BaseColour (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Stone1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: T_TB_Wall_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: T_TB_Wall_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: T_TB_Wall_BaseColour (AutoDXT, 2048X2048)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Wall_Wood_and_Skirting_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Wall_Wood_and_Skirting_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Wall_Wood_and_Skirting_Base_Colour (AutoDXT, 1024X1024)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Bones_OcclusionRoughnessMetallic (AutoDXT, 256X256)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Bones_Normal (BC5, 256X256)
+[2020.03.17-15.18.19:074][346]LogTexture: Display: Building textures: TB_Bones_BaseColour (AutoDXT, 256X256)
+[2020.03.17-15.18.19:504][346]LogTexture: Display: Building textures: T_JS__DeadGround_Graveyard_ORM (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: skull_lp_lambert1_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: skull_lp_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: skull_lp_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: sarcophagus02_LP_blinn1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: sarcophagus02_LP_blinn1_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: sarcophagus02_LP_blinn1_BaseColor (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: sarcophagus01_low_blinn1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: sarcophagus01_low_blinn1_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: sarcophagus01_low_blinn1_BaseColor (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: gate_lowpoly_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: gate_lowpoly_lambert1_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: gate_lowpoly_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:063][346]LogTexture: Display: Building textures: doors02_lowpoly_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.17-15.18.32:100][346]LogMaterial: Display: Missing cached shader map for material M_JJ_Landscape, compiling. 
+[2020.03.17-15.18.32:325][346]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.03.17-15.18.32:325][346]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.17-15.18.32:325][346]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.17-15.18.32:325][346]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.17-15.18.32:517][346]LogMaterial: Display: Missing cached shader map for material M_JJ_Landscape, compiling. 
+[2020.03.17-15.18.32:662][346]LogTexture: Display: Building textures: doors02_lowpoly_lambert1_Normal (BC5, 2048X2048)
+[2020.03.17-15.18.32:672][346]LogMaterial: Display: Missing cached shader map for material M_JJ_Landscape, compiling. 
+[2020.03.17-15.18.32:830][346]LogMaterial: Display: Missing cached shader map for material M_JJ_Landscape, compiling. 
+[2020.03.17-15.18.33:331][346]LogStaticMesh: Building static mesh Stone3...
+[2020.03.17-15.18.33:398][346]LogStaticMesh: Built static mesh [0.07s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/Stone3.Stone3
+[2020.03.17-15.18.33:472][346]LogStaticMesh: Building static mesh Stone4...
+[2020.03.17-15.18.33:504][346]LogStaticMesh: Built static mesh [0.03s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/Stone4.Stone4
+[2020.03.17-15.18.33:528][346]LogStaticMesh: Building static mesh Stone1...
+[2020.03.17-15.18.33:624][346]LogStaticMesh: Built static mesh [0.10s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/Stone1.Stone1
+[2020.03.17-15.18.33:699][346]LogStaticMesh: Building static mesh Stone2...
+[2020.03.17-15.18.33:728][346]LogStaticMesh: Built static mesh [0.03s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/Stone2.Stone2
+[2020.03.17-15.18.34:177][346]LogMeshUtilities: Finished distance field build in 0.6s - 8x8x18 distance field, 74 triangles, Range [-0.0, 0.5], Stone3
+[2020.03.17-15.18.34:177][346]LogStaticMesh: Building static mesh OL_Angel_LP...
+[2020.03.17-15.18.35:606][346]LogMeshUtilities: Finished distance field build in 0.2s - 10x8x21 distance field, 928 triangles, Range [-0.1, 0.6], Stone2
+[2020.03.17-15.18.35:606][346]LogMeshUtilities: Finished distance field build in 0.1s - 10x8x18 distance field, 2464 triangles, Range [-0.1, 0.6], Stone1
+[2020.03.17-15.18.35:606][346]LogMeshUtilities: Finished distance field build in 0.1s - 11x8x19 distance field, 268 triangles, Range [-0.1, 0.4], Stone4
+[2020.03.17-15.18.35:606][346]LogTexture: Display: Building textures: doors02_lowpoly_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.03.17-15.18.35:606][346]LogStaticMesh: Built static mesh [1.43s] /Game/SynthvaniaContent/ART/Oli_Lloyd/Models/OL_Angel_LP.OL_Angel_LP
+[2020.03.17-15.18.36:231][346]LogMeshUtilities: Finished distance field build in 0.5s - 13x12x31 distance field, 38440 triangles, Range [-0.1, 0.6], OL_Angel_LP
+[2020.03.17-15.18.36:231][346]LogStaticMesh: Building static mesh brazier01_low...
+[2020.03.17-15.18.36:386][346]LogStaticMesh: Built static mesh [0.16s] /Game/SynthvaniaContent/ART/Bruce/Models/brazier01_low.brazier01_low
+[2020.03.17-15.18.36:427][346]LogStaticMesh: Building static mesh WallBasic...
+[2020.03.17-15.18.36:429][346]LogStaticMesh: Built static mesh [0.00s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/WallBasic.WallBasic
+[2020.03.17-15.18.36:466][346]LogStaticMesh: Building static mesh chain02_low...
+[2020.03.17-15.18.36:787][346]LogStaticMesh: Built static mesh [0.32s] /Game/SynthvaniaContent/ART/Bruce/chain02_low.chain02_low
+[2020.03.17-15.18.37:119][346]LogTexture: Display: Building textures: brazier01_low_blinn1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.17-15.18.37:119][346]LogStaticMesh: Building static mesh chains01_low...
+[2020.03.17-15.18.37:371][346]LogMeshUtilities: Finished distance field build in 0.7s - 20x19x15 distance field, 3628 triangles, Range [-0.1, 1.0], brazier01_low
+[2020.03.17-15.18.37:371][346]LogStaticMesh: Built static mesh [0.25s] /Game/SynthvaniaContent/ART/Bruce/chains01_low.chains01_low
+[2020.03.17-15.18.37:906][346]LogTexture: Display: Building textures: brazier01_low_blinn1_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.37:906][346]LogStaticMesh: Building static mesh doors02_lowpoly...
+[2020.03.17-15.18.38:015][346]LogMeshUtilities: Finished distance field build in 0.5s - 38x8x17 distance field, 4556 triangles, Range [-0.0, 0.6], chains01_low
+[2020.03.17-15.18.38:015][346]LogStaticMesh: Built static mesh [0.11s] /Game/SynthvaniaContent/ART/Bruce/Models/doors02_lowpoly.doors02_lowpoly
+[2020.03.17-15.18.38:273][346]LogTexture: Display: Building textures: brazier01_low_blinn1_BaseColor (AutoDXT, 1024X1024)
+[2020.03.17-15.18.38:273][346]LogStaticMesh: Building static mesh gate_lowpoly...
+[2020.03.17-15.18.39:657][346]LogTexture: Display: Building textures: TB_Stone1_Normal (BC5, 1024X1024)
+[2020.03.17-15.18.39:657][346]LogTexture: Display: Building textures: TB_Stone1_BaseColour (AutoDXT, 1024X1024)
+[2020.03.17-15.18.39:657][346]LogMeshUtilities: Finished distance field build in 0.8s - 21x8x35 distance field, 2892 triangles, Range [-0.0, 0.5], doors02_lowpoly
+[2020.03.17-15.18.39:657][346]LogStaticMesh: Built static mesh [1.38s] /Game/SynthvaniaContent/ART/Bruce/Models/gate_lowpoly.gate_lowpoly
+[2020.03.17-15.18.39:955][346]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.03.17-15.18.39:955][346]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.03.17-15.18.39:955][346]LogStaticMesh: Building static mesh Pile1...
+[2020.03.17-15.18.40:628][346]LogMeshUtilities: Finished distance field build in 0.6s - 19x8x50 distance field, 16804 triangles, Range [-0.0, 0.6], gate_lowpoly
+[2020.03.17-15.18.40:628][346]LogStaticMesh: Built static mesh [0.67s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/Pile1.Pile1
+[2020.03.17-15.18.40:770][346]LogStaticMesh: Building static mesh Pile2...
+[2020.03.17-15.18.40:966][346]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x8 distance field, 11702 triangles, Range [-0.2, 1.0], Pile1
+[2020.03.17-15.18.40:966][346]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2020.03.17-15.18.40:966][346]LogStaticMesh: Built static mesh [0.20s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/Pile2.Pile2
+[2020.03.17-15.18.41:115][346]LogStaticMesh: Building static mesh sarcophagus01_low...
+[2020.03.17-15.18.41:595][346]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x8 distance field, 4436 triangles, Range [-0.2, 0.9], Pile2
+[2020.03.17-15.18.41:595][346]LogShaderCompilers: Display: Shaders left to compile 180
+[2020.03.17-15.18.41:595][346]LogStaticMesh: Built static mesh [0.48s] /Game/SynthvaniaContent/ART/Bruce/Models/sarcophagus01_low.sarcophagus01_low
+[2020.03.17-15.18.41:715][346]LogStaticMesh: Building static mesh sarcophagus02_LP...
+[2020.03.17-15.18.41:870][346]LogStaticMesh: Built static mesh [0.15s] /Game/SynthvaniaContent/ART/Bruce/Models/sarcophagus02_LP.sarcophagus02_LP
+[2020.03.17-15.18.41:943][346]LogStaticMesh: Building static mesh skull_lp...
+[2020.03.17-15.18.42:218][346]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.03.17-15.18.42:219][346]LogStaticMesh: Built static mesh [0.28s] /Game/SynthvaniaContent/ART/Bruce/Models/skull_lp.skull_lp
+[2020.03.17-15.18.42:309][346]LogStaticMesh: Building static mesh SM__TreeRoot_4_JS...
+[2020.03.17-15.18.42:325][346]LogStaticMesh: Built static mesh [0.02s] /Game/SynthvaniaContent/ART/Blockout_GraveyardAssets/Trees/SM__TreeRoot_4_JS.SM__TreeRoot_4_JS
+[2020.03.17-15.18.42:345][346]LogStaticMesh: Building static mesh SM__TreeRoot_5_JS...
+[2020.03.17-15.18.42:378][346]LogStaticMesh: Built static mesh [0.03s] /Game/SynthvaniaContent/ART/Blockout_GraveyardAssets/Trees/SM__TreeRoot_5_JS.SM__TreeRoot_5_JS
+[2020.03.17-15.18.42:429][346]LogStaticMesh: Building static mesh Sm_GothicArcheModular_TH...
+[2020.03.17-15.18.42:616][346]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.03.17-15.18.42:616][346]LogStaticMesh: Built static mesh [0.19s] /Game/SynthvaniaContent/ART/Tyler_Hartshorne/Models/Sm_GothicArcheModular_TH.Sm_GothicArcheModular_TH
+[2020.03.17-15.18.42:640][346]LogStaticMesh: Building static mesh Sm_GothicPillar_TH...
+[2020.03.17-15.18.42:736][346]LogStaticMesh: Built static mesh [0.10s] /Game/SynthvaniaContent/ART/Tyler_Hartshorne/Models/Sm_GothicPillar_TH.Sm_GothicPillar_TH
+[2020.03.17-15.18.42:807][346]LogStaticMesh: Building static mesh Sm_Mausoleum_TH...
+[2020.03.17-15.18.43:205][346]LogStaticMesh: Built static mesh [0.40s] /Game/SynthvaniaContent/ART/Tyler_Hartshorne/Models/Sm_Mausoleum_TH.Sm_Mausoleum_TH
+[2020.03.17-15.18.43:276][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_BeamConnector_Low...
+[2020.03.17-15.18.43:279][346]LogStaticMesh: Built static mesh [0.00s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_BeamConnector_Low.SM_TB_Wall_Wood_and_Skirting_BeamConnector_Low
+[2020.03.17-15.18.43:281][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_BeamHorizontal_Low...
+[2020.03.17-15.18.43:287][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_BeamHorizontal_Low.SM_TB_Wall_Wood_and_Skirting_BeamHorizontal_Low
+[2020.03.17-15.18.43:289][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_BeamVertical_Low...
+[2020.03.17-15.18.43:291][346]LogStaticMesh: Built static mesh [0.00s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_BeamVertical_Low.SM_TB_Wall_Wood_and_Skirting_BeamVertical_Low
+[2020.03.17-15.18.43:295][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_BeamBendRight_Low...
+[2020.03.17-15.18.43:307][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_BeamBendRight_Low.SM_TB_Wall_Wood_and_Skirting_BeamBendRight_Low
+[2020.03.17-15.18.43:340][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_BeamBendLeft_Low...
+[2020.03.17-15.18.43:352][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_BeamBendLeft_Low.SM_TB_Wall_Wood_and_Skirting_BeamBendLeft_Low
+[2020.03.17-15.18.43:365][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_SkirtingFlatNormal...
+[2020.03.17-15.18.43:373][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_SkirtingFlatNormal.SM_TB_Wall_Wood_and_Skirting_SkirtingFlatNormal
+[2020.03.17-15.18.43:377][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_SkirtingSharpLeft...
+[2020.03.17-15.18.43:414][346]LogStaticMesh: Built static mesh [0.04s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_SkirtingSharpLeft.SM_TB_Wall_Wood_and_Skirting_SkirtingSharpLeft
+[2020.03.17-15.18.43:421][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_SkirtingSharpRight...
+[2020.03.17-15.18.43:431][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_SkirtingSharpRight.SM_TB_Wall_Wood_and_Skirting_SkirtingSharpRight
+[2020.03.17-15.18.43:439][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowLeft...
+[2020.03.17-15.18.43:486][346]LogStaticMesh: Built static mesh [0.05s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowLeft.SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowLeft
+[2020.03.17-15.18.43:497][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowRight...
+[2020.03.17-15.18.43:545][346]LogStaticMesh: Built static mesh [0.05s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowRight.SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowRight
+[2020.03.17-15.18.43:553][346]LogStaticMesh: Building static mesh SM_TB_Wall_Wood_and_Skirting_SkirtingFlatShort...
+[2020.03.17-15.18.43:560][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Wall_Wood_and_Skirting_SkirtingFlatShort.SM_TB_Wall_Wood_and_Skirting_SkirtingFlatShort
+[2020.03.17-15.18.43:591][346]LogStaticMesh: Building static mesh SM_TB_Walls_WallBendRight...
+[2020.03.17-15.18.43:595][346]LogStaticMesh: Built static mesh [0.00s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Walls_WallBendRight.SM_TB_Walls_WallBendRight
+[2020.03.17-15.18.43:597][346]LogStaticMesh: Building static mesh SM_TB_WallsShelves_...
+[2020.03.17-15.18.43:607][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_WallsShelves_.SM_TB_WallsShelves_
+[2020.03.17-15.18.43:615][346]LogStaticMesh: Building static mesh SM_TB_Walls_WallShelves...
+[2020.03.17-15.18.43:626][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Walls_WallShelves.SM_TB_Walls_WallShelves
+[2020.03.17-15.18.44:281][346]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.03.17-15.18.46:183][346]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 64X64)
+[2020.03.17-15.18.46:183][346]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 64X64)
+[2020.03.17-15.18.46:183][346]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.03.17-15.18.46:407][346]LogStaticMesh: Building static mesh SM_TB_Walls_WallBendLeft...
+[2020.03.17-15.18.46:415][346]LogStaticMesh: Built static mesh [0.01s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Walls_WallBendLeft.SM_TB_Walls_WallBendLeft
+[2020.03.17-15.18.46:426][346]LogStaticMesh: Building static mesh SM_TB_Walls_WallStatueHole2...
+[2020.03.17-15.18.47:762][346]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.03.17-15.18.47:762][346]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.03.17-15.18.47:762][346]LogStaticMesh: Built static mesh [1.34s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Walls_WallStatueHole2.SM_TB_Walls_WallStatueHole2
+[2020.03.17-15.18.47:778][346]LogStaticMesh: Building static mesh SM_TB_Walls_WallDoorWay...
+[2020.03.17-15.18.48:581][346]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.03.17-15.18.48:581][346]LogMeshUtilities: Finished distance field build in 6.5s - 34x21x37 distance field, 6474 triangles, Range [-0.1, 1.0], sarcophagus01_low
+[2020.03.17-15.18.48:581][346]LogStaticMesh: Built static mesh [0.80s] /Game/SynthvaniaContent/ART/Tom_Boiston/Final/Models/SM_TB_Walls_WallDoorWay.SM_TB_Walls_WallDoorWay
+[2020.03.17-15.18.48:654][346]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.03.17-15.18.49:100][346]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.03.17-15.18.49:226][346]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.03.17-15.18.49:226][346]LogMaterial: Display: Missing cached shader map for material Translucent, compiling. 
+[2020.03.17-15.18.49:470][346]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2020.03.17-15.18.49:583][346]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.17-15.18.49:678][346]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.03.17-15.18.49:678][346]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.03.17-15.18.53:617][346]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.03.17-15.18.53:617][346]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 64X64)
+[2020.03.17-15.18.53:617][346]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 64X64)
+[2020.03.17-15.18.53:617][346]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.03.17-15.18.53:617][346]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.03.17-15.18.53:617][346]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.03.17-15.18.54:086][346]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.03.17-15.18.54:087][346]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 64X32)
+[2020.03.17-15.18.55:866][346]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 64X32)
+[2020.03.17-15.18.55:866][346]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.03.17-15.18.55:866][346]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.03.17-15.18.55:866][346]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.03.17-15.18.56:217][346]LogMeshUtilities: Finished distance field build in 7.3s - 60x11x60 distance field, 188 triangles, Range [-0.1, 0.5], SM_TB_Walls_WallDoorWay
+[2020.03.17-15.18.56:217][346]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.03.17-15.18.57:886][346]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.03.17-15.18.58:157][346]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.03.17-15.18.58:527][346]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART
+[2020.03.17-15.18.58:641][346]Cmd: MAP LOAD FILE="../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.17-15.18.58:642][346]LightingResults: New page: Lighting Build
+[2020.03.17-15.18.58:643][346]LoadErrors: New page: Loading map: Graveyard-Catacomb_FINALART.umap
+[2020.03.17-15.18.58:689][346]MapCheck: New page: Map Check
+[2020.03.17-15.18.58:689][346]LightingResults: New page: Lighting Build
+[2020.03.17-15.18.58:764][346]LogShaderCompilers: Display: Shaders left to compile 362
+[2020.03.17-15.18.58:969][346]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.17-15.18.59:200][346]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.17-15.18.59:205][346]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.303ms to complete.
+[2020.03.17-15.18.59:205][346]LogFileHelpers: Loading map 'Graveyard-Catacomb_FINALART' took 0.567
+[2020.03.17-15.18.59:348][346]LogShaderCompilers: Display: Shaders left to compile 352
+[2020.03.17-15.18.59:520][346]LogShaderCompilers: Display: Shaders left to compile 342
+[2020.03.17-15.19.05:584][781]LogMeshUtilities: Finished distance field build in 6.1s - 60x32x60 distance field, 60 triangles, Range [-0.2, 0.6], SM_TB_Walls_WallStatueHole2
+[2020.03.17-15.19.08:187][987]LogShaderCompilers: Display: Shaders left to compile 332
+[2020.03.17-15.19.08:580][  4]LogMeshUtilities: Finished distance field build in 2.9s - 48x20x60 distance field, 108 triangles, Range [-0.1, 0.6], SM_TB_Walls_WallBendLeft
+[2020.03.17-15.19.08:643][  7]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform3)
+[2020.03.17-15.19.13:077][295]LogShaderCompilers: Display: Shaders left to compile 322
+[2020.03.17-15.19.14:869][386]LogShaderCompilers: Display: Shaders left to compile 312
+[2020.03.17-15.19.15:480][421]LogMeshUtilities: Finished distance field build in 6.8s - 60x32x60 distance field, 84 triangles, Range [-0.1, 0.5], SM_TB_Walls_WallShelves
+[2020.03.17-15.19.21:235][593]LogShaderCompilers: Display: Shaders left to compile 302
+[2020.03.17-15.19.21:556][593]LogMeshUtilities: Finished distance field build in 6.0s - 60x32x60 distance field, 84 triangles, Range [-0.1, 0.5], SM_TB_WallsShelves_
+[2020.03.17-15.19.21:666][593]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.138 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.17-15.19.24:511][783]LogShaderCompilers: Display: Shaders left to compile 292
+[2020.03.17-15.19.24:727][799]LogShaderCompilers: Display: Shaders left to compile 282
+[2020.03.17-15.19.24:932][813]LogMeshUtilities: Finished distance field build in 3.2s - 48x20x60 distance field, 108 triangles, Range [-0.1, 0.6], SM_TB_Walls_WallBendRight
+[2020.03.17-15.19.25:072][817]LogMeshUtilities: Discarded distance field for SM_TB_Wall_Wood_and_Skirting_SkirtingFlatShort as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.17-15.19.25:072][817]LogMeshUtilities: Finished distance field build in 0.1s - 19x8x8 distance field, 160 triangles, Range [-0.2, 0.5], SM_TB_Wall_Wood_and_Skirting_SkirtingFlatShort
+[2020.03.17-15.19.25:489][827]LogMeshUtilities: Finished distance field build in 0.3s - 35x25x10 distance field, 896 triangles, Range [-0.1, 1.0], SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowRight
+[2020.03.17-15.19.25:932][846]LogMeshUtilities: Finished distance field build in 0.3s - 35x25x10 distance field, 896 triangles, Range [-0.1, 1.0], SM_TB_Wall_Wood_and_Skirting_SkirtingCurveSlowLeft
+[2020.03.17-15.19.26:101][855]LogMeshUtilities: Discarded distance field for SM_TB_Wall_Wood_and_Skirting_SkirtingSharpRight as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.17-15.19.26:101][855]LogMeshUtilities: Finished distance field build in 0.0s - 12x10x8 distance field, 352 triangles, Range [-0.4, 0.9], SM_TB_Wall_Wood_and_Skirting_SkirtingSharpRight
+[2020.03.17-15.19.26:241][862]LogMeshUtilities: Discarded distance field for SM_TB_Wall_Wood_and_Skirting_SkirtingSharpLeft as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.17-15.19.26:241][862]LogMeshUtilities: Finished distance field build in 0.0s - 12x10x8 distance field, 352 triangles, Range [-0.5, 1.0], SM_TB_Wall_Wood_and_Skirting_SkirtingSharpLeft
+[2020.03.17-15.19.26:389][871]LogMeshUtilities: Discarded distance field for SM_TB_Wall_Wood_and_Skirting_SkirtingFlatNormal as mesh was not closed!  Assign a two-sided material to fix.
+[2020.03.17-15.19.26:389][871]LogMeshUtilities: Finished distance field build in 0.1s - 20x8x8 distance field, 160 triangles, Range [-0.2, 0.5], SM_TB_Wall_Wood_and_Skirting_SkirtingFlatNormal
+[2020.03.17-15.19.26:599][881]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform2)
+[2020.03.17-15.19.26:798][890]LogMeshUtilities: Finished distance field build in 0.3s - 50x20x10 distance field, 280 triangles, Range [-0.0, 0.7], SM_TB_Wall_Wood_and_Skirting_BeamBendLeft_Low
+[2020.03.17-15.19.27:240][918]LogMeshUtilities: Finished distance field build in 0.4s - 50x20x10 distance field, 280 triangles, Range [-0.0, 0.7], SM_TB_Wall_Wood_and_Skirting_BeamBendRight_Low
+[2020.03.17-15.19.27:467][932]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x50 distance field, 28 triangles, Range [0.0, 1.0], SM_TB_Wall_Wood_and_Skirting_BeamVertical_Low
+[2020.03.17-15.19.27:736][948]LogMeshUtilities: Finished distance field build in 0.2s - 60x9x11 distance field, 56 triangles, Range [-0.0, 0.6], SM_TB_Wall_Wood_and_Skirting_BeamHorizontal_Low
+[2020.03.17-15.19.27:873][954]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 100 triangles, Range [-0.2, 0.3], SM_TB_Wall_Wood_and_Skirting_BeamConnector_Low
+[2020.03.17-15.19.28:670][  6]LogShaderCompilers: Display: Shaders left to compile 272
+[2020.03.17-15.19.35:474][460]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform3)
+[2020.03.17-15.19.37:289][577]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform6)
+[2020.03.17-15.19.41:026][826]LogMeshUtilities: Finished distance field build in 13.0s - 64x64x64 distance field, 3915 triangles, Range [-0.2, 1.0], Sm_Mausoleum_TH
+[2020.03.17-15.19.41:255][839]LogMeshUtilities: Finished distance field build in 0.1s - 9x9x36 distance field, 1444 triangles, Range [-0.1, 0.4], Sm_GothicPillar_TH
+[2020.03.17-15.19.41:324][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-15.19.41:806][875]LogShaderCompilers: Display: Shaders left to compile 262
+[2020.03.17-15.19.41:851][878]LogMeshUtilities: Finished distance field build in 0.5s - 48x10x23 distance field, 2558 triangles, Range [-0.1, 0.8], Sm_GothicArcheModular_TH
+[2020.03.17-15.19.41:992][886]LogMeshUtilities: Finished distance field build in 0.0s - 8x17x8 distance field, 890 triangles, Range [-0.0, 0.7], SM__TreeRoot_5_JS
+[2020.03.17-15.19.42:133][893]LogMeshUtilities: Finished distance field build in 0.1s - 8x20x8 distance field, 1070 triangles, Range [-0.0, 1.0], SM__TreeRoot_4_JS
+[2020.03.17-15.19.42:266][901]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 4440 triangles, Range [-0.1, 0.8], skull_lp
+[2020.03.17-15.19.42:599][917]LogMeshUtilities: Finished distance field build in 0.2s - 25x14x14 distance field, 3260 triangles, Range [-0.1, 0.6], sarcophagus02_LP
+[2020.03.17-15.19.42:778][928]LogMeshUtilities: Finished distance field build in 0.1s - 34x8x8 distance field, 4376 triangles, Range [0.0, 1.0], chain02_low
+[2020.03.17-15.19.45:245][ 96]LogMeshUtilities: Finished distance field build in 2.4s - 60x11x60 distance field, 12 triangles, Range [-0.1, 0.5], WallBasic
+[2020.03.17-15.19.46:436][171]LogShaderCompilers: Display: Shaders left to compile 252
+[2020.03.17-15.19.46:719][190]LogShaderCompilers: Display: Shaders left to compile 242
+[2020.03.17-15.19.47:828][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cata_floor29)
+[2020.03.17-15.19.48:291][284]Cmd: TRANSACTION UNDO
+[2020.03.17-15.19.48:291][284]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.17-15.19.48:695][299]Cmd: TRANSACTION UNDO
+[2020.03.17-15.19.48:695][299]LogEditorTransaction: Undo Set Scale
+[2020.03.17-15.19.48:855][302]LogShaderCompilers: Display: Shaders left to compile 232
+[2020.03.17-15.19.49:519][346]LogShaderCompilers: Display: Shaders left to compile 222
+[2020.03.17-15.19.50:034][374]LogShaderCompilers: Display: Shaders left to compile 212
+[2020.03.17-15.19.52:200][500]LogShaderCompilers: Display: Shaders left to compile 202
+[2020.03.17-15.19.52:919][543]LogShaderCompilers: Display: Shaders left to compile 192
+[2020.03.17-15.19.54:039][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-15.19.54:264][626]LogShaderCompilers: Display: Shaders left to compile 182
+[2020.03.17-15.19.55:333][699]LogShaderCompilers: Display: Shaders left to compile 172
+[2020.03.17-15.19.56:619][784]LogShaderCompilers: Display: Shaders left to compile 162
+[2020.03.17-15.19.57:606][846]LogShaderCompilers: Display: Shaders left to compile 152
+[2020.03.17-15.20.00:333][ 25]LogShaderCompilers: Display: Shaders left to compile 142
+[2020.03.17-15.20.01:066][ 72]LogShaderCompilers: Display: Shaders left to compile 132
+[2020.03.17-15.20.01:309][ 87]LogShaderCompilers: Display: Shaders left to compile 122
+[2020.03.17-15.20.01:868][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cata_floor27)
+[2020.03.17-15.20.02:240][141]Cmd: TRANSACTION UNDO
+[2020.03.17-15.20.02:240][141]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.17-15.20.03:487][210]Cmd: TRANSACTION UNDO
+[2020.03.17-15.20.03:487][210]LogEditorTransaction: Undo Set Scale
+[2020.03.17-15.20.03:629][213]LogShaderCompilers: Display: Shaders left to compile 112
+[2020.03.17-15.20.04:860][289]LogShaderCompilers: Display: Shaders left to compile 102
+[2020.03.17-15.20.05:762][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-15.20.06:104][368]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.03.17-15.20.07:140][428]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.03.17-15.20.09:790][602]LogShaderCompilers: Display: Shaders left to compile 72
+[2020.03.17-15.20.10:244][632]LogShaderCompilers: Display: Shaders left to compile 62
+[2020.03.17-15.20.12:073][753]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.03.17-15.20.12:730][793]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.03.17-15.20.15:016][937]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.03.17-15.20.17:521][103]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.17-15.20.17:758][119]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.17-15.20.18:930][175]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.17-15.20.19:370][196]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform3)
+[2020.03.17-15.20.21:447][346]LogEditorViewport: Clicking on Actor (context menu): Moving_Platform_C (Moving_Platform3)
+[2020.03.17-15.20.21:484][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.21.38:133][ 55]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform6)
+[2020.03.17-15.21.40:823][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-15.21.47:481][719]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform3)
+[2020.03.17-15.24.20:002][592]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform6)
+[2020.03.17-15.24.24:439][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-15.24.34:009][618]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform6)
+[2020.03.17-15.24.34:307][633]LogEditorViewport: Clicking on Actor (context menu): Moving_Platform_C (Moving_Platform6)
+[2020.03.17-15.24.34:337][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.25.23:121][643]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.03.17-15.25.23:438][643]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.03.17-15.25.24:831][734]LogEditorViewport: Clicking on Actor (LMB): Moving_Platform_C (Moving_Platform3)
+[2020.03.17-15.25.46:691][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.26.05:294][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.28.08:502][730]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_Auto1C56930648F42976B84A038CC0E5BBBD.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_Auto6.umap'
+[2020.03.17-15.28.08:506][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 4.077
+[2020.03.17-15.28.08:506][730]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.077
+[2020.03.17-15.31.21:138][627]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.888 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.17-15.35.32:235][598]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.17-15.35.32:257][598]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/WensLevel.WensLevel
+[2020.03.17-15.35.39:072][598]LogSlate: Window 'Save Content' being destroyed
+[2020.03.17-15.35.39:080][598]Cmd: MAP LOAD FILE="../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/WensLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.17-15.35.39:083][598]LightingResults: New page: Lighting Build
+[2020.03.17-15.35.39:084][598]LoadErrors: New page: Loading map: WensLevel.umap
+[2020.03.17-15.35.39:159][598]MapCheck: New page: Map Check
+[2020.03.17-15.35.39:159][598]LightingResults: New page: Lighting Build
+[2020.03.17-15.35.39:392][598]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.17-15.35.39:592][598]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.17-15.35.39:601][598]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.756ms to complete.
+[2020.03.17-15.35.39:602][598]LogFileHelpers: Loading map 'WensLevel' took 0.522
+[2020.03.17-15.35.52:288][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement414)
+[2020.03.17-15.35.53:322][352]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement413)
+[2020.03.17-15.35.54:146][398]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement417)
+[2020.03.17-15.35.55:809][494]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement416)
+[2020.03.17-15.35.56:903][556]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement418)
+[2020.03.17-15.35.58:234][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement419)
+[2020.03.17-15.35.59:647][708]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Ent_GrandHall)
+[2020.03.17-15.36.43:965][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Ent_Hallway)
+[2020.03.17-15.36.47:356][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.36.57:962][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Ent_GrandHall)
+[2020.03.17-15.40.25:002][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.41.51:880][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.41.55:803][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Cabinet_2)
+[2020.03.17-15.42.00:483][149]Cmd: TRANSACTION UNDO
+[2020.03.17-15.42.00:483][149]LogEditorTransaction: Undo Move Actors
+[2020.03.17-15.42.01:556][189]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Kegs_1)
+[2020.03.17-15.42.02:224][225]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Chest_1)
+[2020.03.17-15.42.18:745][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement374)
+[2020.03.17-15.42.19:707][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement375)
+[2020.03.17-15.42.20:323][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement380)
+[2020.03.17-15.42.21:101][961]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement381)
+[2020.03.17-15.42.22:114][ 18]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement382)
+[2020.03.17-15.42.23:703][101]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement383)
+[2020.03.17-15.42.24:198][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement384)
+[2020.03.17-15.42.25:553][192]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement385)
+[2020.03.17-15.42.26:472][233]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement386)
+[2020.03.17-15.42.28:113][291]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement387)
+[2020.03.17-15.42.28:825][330]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement388)
+[2020.03.17-15.42.31:619][483]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement389)
+[2020.03.17-15.42.33:338][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement440)
+[2020.03.17-15.42.34:121][623]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement441)
+[2020.03.17-15.42.35:979][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Ent_TrapRoom)
+[2020.03.17-15.42.42:005][ 60]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.43.29:649][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement442)
+[2020.03.17-15.43.37:207][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Kegs_1)
+[2020.03.17-15.43.37:886][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Chest_1)
+[2020.03.17-15.43.38:768][434]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Cabinet_2)
+[2020.03.17-15.45.29:360][465]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2020.03.17-15.45.30:703][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1553)
+[2020.03.17-15.45.32:749][647]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2020.03.17-15.45.37:274][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.46.12:790][865]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2020.03.17-15.46.15:423][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.46.43:558][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1730)
+[2020.03.17-15.46.44:136][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1729)
+[2020.03.17-15.46.44:642][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1404)
+[2020.03.17-15.46.46:010][822]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1728)
+[2020.03.17-15.46.46:542][841]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1727)
+[2020.03.17-15.46.47:388][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1403)
+[2020.03.17-15.46.48:048][924]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1402)
+[2020.03.17-15.46.51:910][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1726)
+[2020.03.17-15.46.56:954][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.47.45:239][ 44]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto757FF5F554439EB5B1916E5A0E316A242.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto7.umap'
+[2020.03.17-15.47.45:243][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 1.382
+[2020.03.17-15.47.45:244][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.382
+[2020.03.17-15.52.14:713][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement527)
+[2020.03.17-15.52.15:423][ 88]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement538)
+[2020.03.17-15.52.16:268][134]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement539)
+[2020.03.17-15.52.17:560][208]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement540)
+[2020.03.17-15.52.20:084][354]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement541)
+[2020.03.17-15.52.21:526][430]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement542)
+[2020.03.17-15.52.22:407][475]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement543)
+[2020.03.17-15.57.00:332][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_2)
+[2020.03.17-15.57.02:962][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement612)
+[2020.03.17-15.57.20:489][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.57.38:627][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_2)
+[2020.03.17-15.57.40:047][740]Cmd: DELETE
+[2020.03.17-15.57.40:047][740]Cmd: ACTOR DELETE
+[2020.03.17-15.57.40:788][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.17-15.57.40:811][740]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2020.03.17-15.57.41:879][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement613)
+[2020.03.17-15.57.51:777][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement613)
+[2020.03.17-15.57.52:386][ 20]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement614)
+[2020.03.17-15.57.53:592][153]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement615)
+[2020.03.17-15.58.04:287][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-15.58.29:547][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement610)
+[2020.03.17-15.58.30:264][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_3)
+[2020.03.17-15.58.32:201][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_1)
+[2020.03.17-15.58.41:108][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement2169)
+[2020.03.17-15.58.42:841][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_3)
+[2020.03.17-15.58.46:713][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement610)
+[2020.03.17-15.58.48:167][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_3)
+[2020.03.17-15.58.52:294][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Balcony_1)
+[2020.03.17-15.59.00:617][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-15.59.04:594][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Bookshelf_3)
+[2020.03.17-15.59.10:476][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Bookshelf_Fallen_1)
+[2020.03.17-15.59.17:146][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-16.00.01:133][887]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh)
+[2020.03.17-16.00.01:932][956]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh)
+[2020.03.17-16.00.02:728][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Stairs_7)
+[2020.03.17-16.00.18:056][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement615)
+[2020.03.17-16.00.19:349][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement614)
+[2020.03.17-16.00.20:659][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement613)
+[2020.03.17-16.00.21:460][900]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement612)
+[2020.03.17-16.00.22:184][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement611)
+[2020.03.17-16.00.22:866][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement610)
+[2020.03.17-16.00.23:815][156]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement609)
+[2020.03.17-16.00.24:497][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement608)
+[2020.03.17-16.01.20:692][840]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto8ADF32EBE48AD1B4BF3971586DF151B16.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto8.umap'
+[2020.03.17-16.01.20:696][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 2.376
+[2020.03.17-16.01.20:696][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.376
+[2020.03.17-16.01.34:824][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement66)
+[2020.03.17-16.01.35:313][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement616)
+[2020.03.17-16.01.35:799][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement617)
+[2020.03.17-16.01.36:296][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Suit_1)
+[2020.03.17-16.01.43:106][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement621)
+[2020.03.17-16.01.43:863][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement622)
+[2020.03.17-16.01.44:660][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement623)
+[2020.03.17-16.01.45:260][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement624)
+[2020.03.17-16.01.48:592][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1457)
+[2020.03.17-16.01.49:080][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1459)
+[2020.03.17-16.01.49:497][811]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1546)
+[2020.03.17-16.01.51:334][ 12]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1547)
+[2020.03.17-16.01.51:834][ 65]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1548)
+[2020.03.17-16.01.56:221][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-16.01.57:806][711]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.17-16.01.57:933][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.17-16.01.57:957][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.17-16.01.58:019][711]PIE: New page: PIE session: WensLevel (17 Mar 2020 16:01:57)
+[2020.03.17-16.01.58:112][711]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel
+[2020.03.17-16.01.58:177][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064178s)
+[2020.03.17-16.01.58:177][711]LogAIModule: Creating AISystem for world WensLevel
+[2020.03.17-16.01.58:186][711]LogPlayLevel: PIE: World Init took: (0.009492s)
+[2020.03.17-16.01.58:186][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/WensLevel.WensLevel to /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel (0.074523s)
+[2020.03.17-16.01.58:245][711]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.17-16.01.58:257][711]LogInit: FAudioDevice initialized.
+[2020.03.17-16.01.58:345][711]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.17-16.01.58:573][711]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel.WensLevel up for play (max tick rate 0) at 2020.03.17-16.01.58
+[2020.03.17-16.01.58:673][711]LogWorld: Bringing up level for play took: 0.215341
+[2020.03.17-16.01.58:834][711]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2020.03.17-16.01.58:982][711]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_WensLevel 1.265
+[2020.03.17-16.01.58:982][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.17-16.01.59:249][711]LogSlate: Took 0.097678 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.03.17-16.02.10:691][ 53]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] CD RDY
+[2020.03.17-16.02.27:738][ 98]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] CD RDY
+[2020.03.17-16.04.38:023][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.17-16.04.38:035][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-16.04.38:085][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.17-16.04.38:086][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel' with GeneratedClass '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/WensLevel.WensLevel:PersistentLevel.WensLevel'
+[2020.03.17-16.04.38:111][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-16.04.38:158][700]Cmd: SELECT NONE
+[2020.03.17-16.04.38:182][700]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.17-16.04.40:478][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement621)
+[2020.03.17-16.05.06:714][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Broken_Beam)
+[2020.03.17-16.05.14:866][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement428)
+[2020.03.17-16.05.15:983][116]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement429)
+[2020.03.17-16.05.20:913][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1707)
+[2020.03.17-16.05.25:480][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1703)
+[2020.03.17-16.05.32:983][112]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1705)
+[2020.03.17-16.05.33:553][144]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1707)
+[2020.03.17-16.05.34:253][184]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1709)
+[2020.03.17-16.05.34:905][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1711)
+[2020.03.17-16.05.35:459][252]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1713)
+[2020.03.17-16.05.36:262][298]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1715)
+[2020.03.17-16.05.38:672][436]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1721)
+[2020.03.17-16.05.40:861][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1717)
+[2020.03.17-16.05.41:732][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1719)
+[2020.03.17-16.05.42:870][680]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1723)
+[2020.03.17-16.05.43:640][724]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1725)
+[2020.03.17-16.05.48:679][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1727)
+[2020.03.17-16.07.41:772][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement503)
+[2020.03.17-16.07.42:944][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement504)
+[2020.03.17-16.07.43:601][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1848)
+[2020.03.17-16.07.44:238][961]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1926)
+[2020.03.17-16.07.46:160][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Measurement1926)
+[2020.03.17-16.07.47:079][127]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement504)
+[2020.03.17-16.07.47:665][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement505)
+[2020.03.17-16.07.48:199][190]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1927)
+[2020.03.17-16.07.49:537][268]Cmd: DELETE
+[2020.03.17-16.07.49:537][268]Cmd: ACTOR DELETE
+[2020.03.17-16.07.49:558][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.17-16.07.49:558][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.17-16.07.49:558][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.17-16.07.49:558][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.17-16.07.49:580][268]LogEditorActor: Deleted 4 Actors (0.042 secs)
+[2020.03.17-16.07.53:893][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement520)
+[2020.03.17-16.07.54:501][560]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement519)
+[2020.03.17-16.07.56:119][655]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement516)
+[2020.03.17-16.08.08:945][411]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement2106)
+[2020.03.17-16.08.11:657][567]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement2105)
+[2020.03.17-16.08.12:325][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement2107)
+[2020.03.17-16.08.12:996][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement2108)
+[2020.03.17-16.08.13:730][687]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement2109)
+[2020.03.17-16.08.14:403][726]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-16.08.15:434][786]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1951)
+[2020.03.17-16.08.15:928][814]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement570)
+[2020.03.17-16.08.16:426][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement512)
+[2020.03.17-16.08.17:433][901]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1952)
+[2020.03.17-16.08.18:567][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1946)
+[2020.03.17-16.08.19:160][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1934)
+[2020.03.17-16.08.20:429][ 75]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1820)
+[2020.03.17-16.08.21:844][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1821)
+[2020.03.17-16.08.23:110][233]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1822)
+[2020.03.17-16.08.24:201][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1823)
+[2020.03.17-16.08.25:438][369]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1928)
+[2020.03.17-16.08.26:137][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Measurement1936)
+[2020.03.17-16.08.27:110][466]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement507)
+[2020.03.17-16.08.28:059][521]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement506)
+[2020.03.17-16.08.30:133][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-16.08.31:595][728]Cmd: TRANSACTION UNDO
+[2020.03.17-16.08.31:595][728]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.17-16.08.37:749][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-16.08.43:107][395]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-16.09.17:072][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Ent_EnemyRoom)
+[2020.03.17-16.09.38:820][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-16.10.12:878][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement503)
+[2020.03.17-16.10.13:665][374]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement506)
+[2020.03.17-16.10.14:419][417]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement507)
+[2020.03.17-16.10.15:538][482]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement570)
+[2020.03.17-16.10.16:067][511]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement512)
+[2020.03.17-16.10.16:757][550]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement513)
+[2020.03.17-16.10.17:291][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement514)
+[2020.03.17-16.10.18:161][630]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement515)
+[2020.03.17-16.10.18:813][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement516)
+[2020.03.17-16.10.19:718][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement519)
+[2020.03.17-16.10.20:344][753]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement520)
+[2020.03.17-16.10.22:139][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-16.11.12:935][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Ent_EnemyRoom2)
+[2020.03.17-16.11.30:772][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement507)
+[2020.03.17-16.11.32:577][282]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-16.11.33:550][338]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement512)
+[2020.03.17-16.11.34:770][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement570)
+[2020.03.17-16.11.37:247][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-16.11.43:097][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement507)
+[2020.03.17-16.11.46:612][108]Cmd: EDIT CUT
+[2020.03.17-16.11.46:679][108]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.17-16.11.46:700][108]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.03.17-16.11.46:994][126]Cmd: TRANSACTION UNDO
+[2020.03.17-16.11.46:994][126]LogEditorTransaction: Undo Cut
+[2020.03.17-16.11.47:836][174]Cmd: TRANSACTION UNDO
+[2020.03.17-16.11.47:836][174]LogEditorTransaction: Undo Move Actors
+[2020.03.17-16.11.48:686][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Ent_EnemyRoom2)
+[2020.03.17-16.11.57:598][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-16.12.19:532][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Measurement570)
+[2020.03.17-16.12.20:168][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement512)
+[2020.03.17-16.12.21:236][169]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement513)
+[2020.03.17-16.12.21:902][207]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement514)
+[2020.03.17-16.12.22:684][252]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement515)
+[2020.03.17-16.12.23:359][290]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement516)
+[2020.03.17-16.12.24:476][355]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement519)
+[2020.03.17-16.12.25:258][400]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_Measurement520)
+[2020.03.17-16.12.27:342][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-16.12.30:961][736]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Asset_Stairs_8)
+[2020.03.17-16.14.01:662][360]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevel_Auto9409AC4A24208E7EB4A68E2B1E329A890.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/WensLevel_Auto9.umap'
+[2020.03.17-16.14.01:664][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/WensLevel' took 0.637
+[2020.03.17-16.14.01:664][360]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.637
+[2020.03.17-16.14.29:753][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.03.17-16.23.14:694][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-16.23.15:518][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-16.23.17:857][384]LogSavePackage: Moving '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Saved/WensLevelED642DCE4972C3A79BCC9F84805D5B44.tmp' to '../../../../../Uni19-20/Journeyman/Github/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/WensLevel.umap'
+[2020.03.17-16.23.17:930][384]LogFileHelpers: Saving map 'WensLevel' took 2.399
+[2020.03.17-16.23.30:171][108]LogRenderer: Reallocating scene render targets to support 860x460 Format 10 NumSamples 1 (Frame:60171).
+[2020.03.17-16.23.35:644][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-16.23.35:914][262]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.03.17-16.23.36:165][263]Cmd: QUIT_EDITOR
+[2020.03.17-16.23.36:607][263]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.17-16.23.36:619][263]LogExit: Preparing to exit.
+[2020.03.17-16.23.37:451][263]LogExit: Editor shut down
+[2020.03.17-16.23.37:452][263]LogExit: Transaction tracking system shut down
+[2020.03.17-16.23.37:832][263]LogExit: Object subsystem successfully closed.
+[2020.03.17-16.23.37:859][263]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.17-16.23.37:866][263]LogD3D11RHI: Shutdown
+[2020.03.17-16.23.37:866][263]LogD3D11RHI: CleanupD3DDevice
+[2020.03.17-16.23.37:889][263]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.17-16.23.37:906][263]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2020.03.17-16.23.37:906][263]LogModuleManager: Shutting down and abandoning module Voice (630)
+[2020.03.17-16.23.37:907][263]LogModuleManager: Shutting down and abandoning module MeshBuilder (628)
+[2020.03.17-16.23.37:907][263]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2020.03.17-16.23.37:907][263]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2020.03.17-16.23.37:907][263]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2020.03.17-16.23.37:909][263]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2020.03.17-16.23.37:909][263]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2020.03.17-16.23.37:909][263]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2020.03.17-16.23.37:909][263]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2020.03.17-16.23.37:909][263]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2020.03.17-16.23.37:909][263]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2020.03.17-16.23.37:910][263]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2020.03.17-16.23.37:911][263]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2020.03.17-16.23.38:701][263]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2020.03.17-16.23.38:702][263]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2020.03.17-16.23.38:764][263]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2020.03.17-16.23.38:764][263]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2020.03.17-16.23.38:764][263]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2020.03.17-16.23.38:764][263]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2020.03.17-16.23.38:764][263]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2020.03.17-16.23.38:765][263]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2020.03.17-16.23.38:765][263]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2020.03.17-16.23.38:765][263]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2020.03.17-16.23.38:765][263]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2020.03.17-16.23.38:765][263]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2020.03.17-16.23.38:766][263]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2020.03.17-16.23.38:766][263]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2020.03.17-16.23.38:766][263]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2020.03.17-16.23.38:766][263]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2020.03.17-16.23.38:766][263]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.03.17-16.23.38:767][263]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.03.17-16.23.38:770][263]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.17-16.23.38:873][263]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.03.17-16.23.38:877][263]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.17-16.23.38:878][263]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.17-16.23.38:979][263]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.03.17-16.23.39:079][263]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.03.17-16.23.39:080][263]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.03.17-16.23.39:080][263]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.03.17-16.23.39:081][263]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.03.17-16.23.39:081][263]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.03.17-16.23.39:081][263]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.03.17-16.23.39:083][263]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.03.17-16.23.39:084][263]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.03.17-16.23.39:090][263]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.03.17-16.23.39:091][263]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.03.17-16.23.39:093][263]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.03.17-16.23.39:094][263]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.03.17-16.23.39:121][263]LogDerivedDataCache: Shutdown
+[2020.03.17-16.23.39:121][263]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.03.17-16.23.39:122][263]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.03.17-16.23.39:130][263]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.03.17-16.23.39:130][263]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.17-16.23.39:130][263]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.03.17-16.23.39:130][263]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.03.17-16.23.39:130][263]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.03.17-16.23.39:134][263]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.03.17-16.23.39:134][263]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.03.17-16.23.39:137][263]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.03.17-16.23.39:137][263]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.03.17-16.23.39:164][263]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.03.17-16.23.39:164][263]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.03.17-16.23.39:165][263]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.03.17-16.23.39:165][263]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.03.17-16.23.39:173][263]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.03.17-16.23.39:173][263]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.17-16.23.39:173][263]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAB343664-4926-B8DC-8EBD-06AA6D00E914%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=c500555a416cc5e4731d0c9a303f4f81%7C2af2bda2ce43427d88aa5cc3ae4aea00%7C3f5a8dbb-b72f-477d-8505-9d7abda4eb3a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.17-16.23.39:199][263]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.03.17-16.23.39:199][263]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.03.17-16.23.39:200][263]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.17-16.23.39:200][263]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.17-16.23.39:201][263]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.17-16.23.39:201][263]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.17-16.23.39:202][263]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.17-16.23.39:209][263]LogExit: Exiting.
+[2020.03.17-16.23.39:246][263]Log file closed, 03/17/20 16:23:39
