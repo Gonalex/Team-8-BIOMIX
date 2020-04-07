@@ -1,0 +1,1517 @@
+﻿Log file open, 04/07/20 00:19:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.436466
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.707s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=RestInPieces_OA -epicuserid=674008105e2c46018e799e951aa7eaa7 -epiclocale=en
+LogInit: Base Directory: E:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.06-23.19.47:788][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.06-23.19.47:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:789][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:798][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:798][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.06-23.19.47:799][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.06-23.19.47:800][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.06-23.19.47:800][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.06-23.19.47:800][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.06-23.19.47:907][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.04.06-23.19.47:908][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.06-23.19.47:908][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.06-23.19.47:908][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.06-23.19.47:908][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.06-23.19.47:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.06-23.19.47:909][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.06-23.19.47:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.06-23.19.47:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.06-23.19.47:912][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.06-23.19.47:913][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-23.19.47:913][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.06-23.19.47:913][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.06-23.19.47:913][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.06-23.19.47:913][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.06-23.19.47:914][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.04.06-23.19.47:914][  0]LogInit: Computer: NIALL
+[2020.04.06-23.19.47:914][  0]LogInit: User: niall
+[2020.04.06-23.19.47:914][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.06-23.19.47:914][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.06-23.19.47:914][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.06-23.19.47:914][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.06-23.19.47:914][  0]LogMemory: Process Physical Memory: 104.57 MB used, 104.57 MB peak
+[2020.04.06-23.19.47:914][  0]LogMemory: Process Virtual Memory: 97.87 MB used, 97.87 MB peak
+[2020.04.06-23.19.47:914][  0]LogMemory: Physical Memory: 6496.18 MB used,  9771.41 MB free, 16267.60 MB total
+[2020.04.06-23.19.47:914][  0]LogMemory: Virtual Memory: 4642.27 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.04.06-23.19.47:951][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.06-23.19.47:951][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.06-23.19.47:952][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.06-23.19.48:715][  0]LogStreaming: Display: Took  0.763s to InitEngineTextLocalization.
+[2020.04.06-23.19.48:715][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.06-23.19.48:790][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.06-23.19.48:790][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.06-23.19.49:263][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.06-23.19.49:263][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.06-23.19.49:411][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.04.06-23.19.49:411][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.06-23.19.49:428][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.04.06-23.19.49:429][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.06-23.19.49:432][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.06-23.19.49:432][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.06-23.19.49:432][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.06-23.19.49:493][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.06-23.19.49:494][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.06-23.19.49:494][  0]LogWindows: EnumDisplayDevices:
+[2020.04.06-23.19.49:494][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.04.06-23.19.49:494][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.06-23.19.49:495][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.06-23.19.49:495][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2020.04.06-23.19.49:495][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.04.06-23.19.49:496][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.04.06-23.19.49:496][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.04.06-23.19.49:496][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.06-23.19.49:496][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.04.06-23.19.49:496][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.04.06-23.19.49:496][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.04.06-23.19.49:496][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.06-23.19.49:566][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.06-23.19.49:621][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.06-23.19.50:246][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.06-23.19.50:264][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.06-23.19.50:282][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.06-23.19.50:298][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.06-23.19.50:316][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.06-23.19.50:332][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.06-23.19.50:354][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.06-23.19.50:375][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.06-23.19.50:389][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.06-23.19.50:529][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.06-23.19.50:618][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.06-23.19.50:618][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.06-23.19.50:664][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.06-23.19.50:664][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.06-23.19.50:682][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.06-23.19.50:707][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.06-23.19.50:729][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.06-23.19.50:754][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.06-23.19.50:840][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.06-23.19.50:840][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.06-23.19.50:840][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.06-23.19.50:921][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../Journeyman/Team-8-BIOMIX/Intermediate/Shaders/WorkingDirectory/14872/).
+[2020.04.06-23.19.50:921][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/niall/AppData/Local/Temp/UnrealShaderWorkingDir/82F4C89843635C78447CFCAB36DAC480/'.
+[2020.04.06-23.19.50:926][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.06-23.19.50:927][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.06-23.19.50:927][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.06-23.19.51:933][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.06-23.19.52:074][  0]LogDerivedDataCache: Loaded boot cache 0.14s 71MB C:/Users/niall/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.04.06-23.19.52:075][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/niall/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.04.06-23.19.52:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Journeyman/Team-8-BIOMIX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.06-23.19.52:076][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.06-23.19.52:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Journeyman/Team-8-BIOMIX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.06-23.19.52:077][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.06-23.19.52:106][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.06-23.19.52:106][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.06-23.19.52:106][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.06-23.19.52:120][  0]LogDerivedDataCache: Using Local data cache path C:/Users/niall/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.06-23.19.52:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.06-23.19.52:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.06-23.19.52:153][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.06-23.19.52:156][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.06-23.19.52:157][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.06-23.19.52:274][  0]LogAssetRegistry: FAssetRegistry took 0.0437 seconds to start up
+[2020.04.06-23.19.52:891][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.06-23.19.53:170][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.06-23.19.53:181][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.06-23.19.53:181][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.06-23.19.53:181][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.06-23.19.53:181][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.06-23.19.53:286][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2020.04.06-23.19.56:561][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 2.102039 seconds
+[2020.04.06-23.19.56:584][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.04.06-23.19.56:584][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.04.06-23.19.56:584][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.06-23.19.58:107][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.06-23.19.58:122][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.06-23.19.59:916][  0]SourceControl: Source control is disabled
+[2020.04.06-23.19.59:916][  0]SourceControl: Source control is disabled
+[2020.04.06-23.19.59:917][  0]SourceControl: Source control is disabled
+[2020.04.06-23.19.59:921][  0]SourceControl: Source control is disabled
+[2020.04.06-23.20.00:156][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.06-23.20.00:585][  0]LogOcInput: OculusInput pre-init called
+[2020.04.06-23.20.00:622][  0]LogPython: Python Scripts search path: ../../../../Journeyman/Team-8-BIOMIX/Content/Scripts
+[2020.04.06-23.20.00:623][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2020.04.06-23.20.00:623][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2020.04.06-23.20.00:900][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2020.04.06-23.20.00:900][  0]LogPython: 
+
+[2020.04.06-23.20.00:900][  0]LogPython: E:\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2020.04.06-23.20.00:900][  0]LogPython: 
+
+[2020.04.06-23.20.01:016][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2020.04.06-23.20.01:016][  0]LogPython: 
+
+[2020.04.06-23.20.01:017][  0]LogPython: ue_site Python module successfully imported
+[2020.04.06-23.20.01:206][  0]LogEngine: Initializing Engine...
+[2020.04.06-23.20.06:703][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.06-23.20.06:711][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.06-23.20.06:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.06-23.20.06:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.06-23.20.06:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.06-23.20.07:192][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.06-23.20.07:215][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.06-23.20.07:395][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.20.07:457][  0]LogInit: FAudioDevice initialized.
+[2020.04.06-23.20.07:458][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.06-23.20.07:600][  0]LogDerivedDataCache: Saved boot cache 0.14s 72MB C:/Users/niall/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.04.06-23.20.07:620][  0]LogInit: Texture streaming: Enabled
+[2020.04.06-23.20.07:663][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.06-23.20.07:699][  0]LogInit: Transaction tracking system initialized
+[2020.04.06-23.20.07:745][  0]BlueprintLog: New page: Editor Load
+[2020.04.06-23.20.08:247][  0]LocalizationService: Localization service is disabled
+[2020.04.06-23.20.09:341][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.06-23.20.09:341][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.06-23.20.09:341][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.06-23.20.09:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.06-23.20.09:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.06-23.20.09:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.06-23.20.09:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.06-23.20.09:580][  0]LogFileCache: Scanning file cache for directory 'E:/Journeyman/Team-8-BIOMIX/Content/' took 0.03s
+[2020.04.06-23.20.09:580][  0]SourceControl: Source control is disabled
+[2020.04.06-23.20.09:580][  0]Cmd: MAP LOAD FILE="../../../../Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.06-23.20.09:724][  0]LightingResults: New page: Lighting Build
+[2020.04.06-23.20.09:732][  0]MapCheck: New page: Map Check
+[2020.04.06-23.20.09:732][  0]LightingResults: New page: Lighting Build
+[2020.04.06-23.20.19:908][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.04.06-23.20.20:136][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.06-23.20.20:178][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.06-23.20.20:179][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2020.04.06-23.20.20:179][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 10.599
+[2020.04.06-23.20.20:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.20.20:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.20.20:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.20.20:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.20.20:420][  0]LogCollectionManager: Loaded 0 collections in 0.001709 seconds
+[2020.04.06-23.20.20:441][  0]LogFileCache: Scanning file cache for directory 'E:/Journeyman/Team-8-BIOMIX/Saved/Collections/' took 0.01s
+[2020.04.06-23.20.20:441][  0]LogFileCache: Scanning file cache for directory 'E:/Journeyman/Team-8-BIOMIX/Content/Developers/niall/Collections/' took 0.00s
+[2020.04.06-23.20.20:441][  0]LogFileCache: Scanning file cache for directory 'E:/Journeyman/Team-8-BIOMIX/Content/Collections/' took 0.00s
+[2020.04.06-23.20.20:441][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.06-23.20.20:451][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2679 classes and 632 folders.
+[2020.04.06-23.20.20:458][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.06-23.20.20:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-23.20.20:946][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.06-23.20.21:006][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.06-23.20.21:172][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.06-23.20.21:176][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.06-23.20.21:201][  0]LogSlate: Took 0.014215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.06-23.20.21:461][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.06-23.20.21:636][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.06-23.20.21:637][  0]LogLoad: (Engine Initialization) Total time: 38.44 seconds
+[2020.04.06-23.20.21:637][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.06-23.20.21:738][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.06-23.20.21:790][  0]LogSlate: Took 0.004414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.06-23.20.21:839][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Journeyman/Team-8-BIOMIX/Content/' took 0.17s
+[2020.04.06-23.20.22:080][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2020.04.06-23.20.22:473][  6]LogAssetRegistry: Asset discovery search completed in 30.2233 seconds
+[2020.04.06-23.20.22:475][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.06-23.20.22:475][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2020.04.06-23.20.26:833][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.20.30:270][157]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.06-23.20.44:074][157]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.20.44:153][157]LogAssetEditorManager: Opening Asset editor for World /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART
+[2020.04.06-23.20.44:215][157]Cmd: MAP LOAD FILE="../../../../Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.06-23.20.44:215][157]LightingResults: New page: Lighting Build
+[2020.04.06-23.20.44:216][157]LoadErrors: New page: Loading map: Graveyard-Catacomb_FINALART.umap
+[2020.04.06-23.20.44:241][157]MapCheck: New page: Map Check
+[2020.04.06-23.20.44:241][157]LightingResults: New page: Lighting Build
+[2020.04.06-23.20.44:723][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.06-23.20.44:888][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.06-23.20.44:888][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2020.04.06-23.20.44:888][157]LogFileHelpers: Loading map 'Graveyard-Catacomb_FINALART' took 0.674
+[2020.04.06-23.20.58:576][393]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/Scoreboard.Scoreboard
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator0' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator1' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator2' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator3' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::Enum_MAX' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator0' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator1' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator2' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:351][393]LogEnum: Warning: Enum name collision: 'Enum_Elements::NewEnumerator3' is in both '/Game/SideScrollerBP/Blueprints/Enum_Elements.Enum_Elements' and '/Game/SynthvaniaContent/Blueprints/Enums/Enum_Elements.Enum_Elements'
+[2020.04.06-23.20.59:442][393]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2020.04.06-23.21.00:412][393]LogSlate: Took 0.004845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.06-23.21.02:881][514]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SynthvaniaContent/Blueprints/Widgets/ScoreboardLine.ScoreboardLine
+[2020.04.06-23.21.06:832][682]LogSlate: Took 0.006971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.06-23.21.11:553][888]LogSlate: Took 0.004139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.06-23.21.52:446][ 97]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.21.52:838][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.21.54:034][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.21.54:034][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.21.54:035][147]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:21:54)
+[2020.04.06-23.21.54:054][147]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.21.54:175][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121874s)
+[2020.04.06-23.21.54:176][147]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.21.54:176][147]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2020.04.06-23.21.54:176][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.123214s)
+[2020.04.06-23.21.54:312][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.21.54:344][147]LogInit: FAudioDevice initialized.
+[2020.04.06-23.21.54:344][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.21.54:390][147]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.21.54:429][147]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.21.54
+[2020.04.06-23.21.54:543][147]LogWorld: Bringing up level for play took: 0.152427
+[2020.04.06-23.21.54:559][147]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.06-23.21.54:603][147]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 1.478
+[2020.04.06-23.21.54:603][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.21.54:610][147]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.54:848][147]LogSlate: Took 0.167680 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.04.06-23.21.54:892][148]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.54:940][149]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.54:966][150]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.54:996][151]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:017][152]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:042][153]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:065][154]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:090][155]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:154][156]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:176][157]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:199][158]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:223][159]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:245][160]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:265][161]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:286][162]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:309][163]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:333][164]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:356][165]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:380][166]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:400][167]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:425][168]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:447][169]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:465][170]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:492][171]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:514][172]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:534][173]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.55:598][174]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.21.55:599][174]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.21.56:846][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.22.00:791][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.22.00:792][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.22.00:844][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.22.00:845][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.22.00:881][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.22.00:920][432]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.06-23.23.15:465][213]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.23.16:724][249]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.23.16:781][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.23.18:031][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.23.18:032][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.23.18:032][294]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:23:18)
+[2020.04.06-23.23.18:032][294]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.23.18:155][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122721s)
+[2020.04.06-23.23.18:156][294]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.23.18:156][294]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2020.04.06-23.23.18:156][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.124063s)
+[2020.04.06-23.23.18:288][294]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.23.18:308][294]LogInit: FAudioDevice initialized.
+[2020.04.06-23.23.18:308][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.23.18:344][294]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.23.18:382][294]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.23.18
+[2020.04.06-23.23.18:389][294]LogWorld: Bringing up level for play took: 0.043580
+[2020.04.06-23.23.18:411][294]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 1.286
+[2020.04.06-23.23.18:411][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.23.18:413][294]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:460][295]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:487][296]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:509][297]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:533][298]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:554][299]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:573][300]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:594][301]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:616][302]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:635][303]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:656][304]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:675][305]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:703][306]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:725][307]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:750][308]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:769][309]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:790][310]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:808][311]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:832][312]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:854][313]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:872][314]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:893][315]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:913][316]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:933][317]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:952][318]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:973][319]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.18:992][320]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.19:014][321]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.19:032][322]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.19:055][323]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.19:077][324]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.19:110][325]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.23.19:113][325]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.23.20:022][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.23.23:404][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.23.23:404][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.23.23:454][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.23.23:455][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.23.23:493][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.23.23:530][569]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.06-23.23.51:934][228]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.23.55:365][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.23.58:259][476]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2020.04.06-23.24.34:680][493]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.24.56:291][730]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.24.56:859][730]LogBlueprint: Warning: [Compiler SideScrollerGameMode] Could not find a variable named "Index Value" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Get Index Value
+[2020.04.06-23.24.56:859][730]LogBlueprint: Warning: [Compiler SideScrollerGameMode] Could not find a variable named "Initial 1" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Get Initial 1
+[2020.04.06-23.24.56:860][730]LogBlueprint: Warning: [Compiler SideScrollerGameMode] Could not find a variable named "Initial 2" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Get Initial 2
+[2020.04.06-23.24.56:860][730]LogBlueprint: Warning: [Compiler SideScrollerGameMode] Could not find a variable named "Initial 3" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Get Initial 3
+[2020.04.06-23.24.56:860][730]LogBlueprint: Warning: [Compiler SideScrollerGameMode] Could not find a variable named "Player Score Name" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set Player Score Name
+[2020.04.06-23.24.56:862][730]LogBlueprint: Error: [Compiler SideScrollerGameMode] The property associated with  Initial 3  could not be found in '/Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.04.06-23.24.56:862][730]LogBlueprint: Error: [Compiler SideScrollerGameMode] The property associated with  Initial 2  could not be found in '/Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.04.06-23.24.56:863][730]LogBlueprint: Error: [Compiler SideScrollerGameMode] The property associated with  Initial 1  could not be found in '/Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.04.06-23.24.56:863][730]LogBlueprint: Error: [Compiler SideScrollerGameMode] The property associated with  Index Value  could not be found in '/Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.04.06-23.24.56:863][730]LogBlueprint: Error: [Compiler SideScrollerGameMode] The property associated with  Player Score Name  could not be found in '/Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.04.06-23.24.57:129][730]LogBlueprint: Warning: [Compiler SideScrollerGameMode] [0313.93] Compile of SideScrollerGameMode failed. 5 Fatal Issue(s) 5 Warning(s) [in 837 ms] (/Game/SynthvaniaContent/Blueprints/SideScrollerGameMode.SideScrollerGameMode)
+[2020.04.06-23.25.16:514][832]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.26.29:470][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.27.40:316][876]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.28.17:627][969]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.28.57:882][233]LogSlate: Took 0.032433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.06-23.29.00:616][384]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.29.14:135][ 78]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.29.19:171][345]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.29.22:010][491]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.29.22:068][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.29.22:876][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.22:877][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.29.22:877][525]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:29:22)
+[2020.04.06-23.29.22:877][525]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.29.22:996][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119706s)
+[2020.04.06-23.29.22:997][525]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.29.22:997][525]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2020.04.06-23.29.22:998][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.120947s)
+[2020.04.06-23.29.23:144][525]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.29.23:165][525]LogInit: FAudioDevice initialized.
+[2020.04.06-23.29.23:165][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.29.23:198][525]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.29.23:239][525]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.29.23
+[2020.04.06-23.29.23:246][525]LogWorld: Bringing up level for play took: 0.046141
+[2020.04.06-23.29.23:268][525]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 0.143
+[2020.04.06-23.29.23:269][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.23:270][525]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:317][526]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:344][527]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:365][528]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:385][529]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:403][530]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:421][531]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:440][532]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:456][533]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:476][534]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:491][535]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:510][536]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:528][537]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:547][538]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:564][539]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:583][540]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:602][541]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:622][542]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:640][543]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:658][544]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:676][545]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:693][546]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:713][547]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:734][548]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:754][549]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:772][550]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:791][551]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:808][552]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:826][553]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:845][554]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:863][555]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:883][556]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:900][557]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:918][558]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:935][559]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.23:972][560]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.29.23:974][560]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.24:644][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.29.34:573][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.34:574][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.29.34:623][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.29.34:623][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.34:660][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.29.34:698][189]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.06-23.29.48:557][973]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.29.49:813][ 23]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.29.49:863][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.29.50:765][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.50:765][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.29.50:765][ 56]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:29:50)
+[2020.04.06-23.29.50:765][ 56]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.29.50:884][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117954s)
+[2020.04.06-23.29.50:884][ 56]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.29.50:884][ 56]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2020.04.06-23.29.50:885][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.119083s)
+[2020.04.06-23.29.51:017][ 56]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.29.51:042][ 56]LogInit: FAudioDevice initialized.
+[2020.04.06-23.29.51:042][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.29.51:073][ 56]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.29.51:112][ 56]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.29.51
+[2020.04.06-23.29.51:119][ 56]LogWorld: Bringing up level for play took: 0.044707
+[2020.04.06-23.29.51:142][ 56]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 0.017
+[2020.04.06-23.29.51:142][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.51:143][ 56]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:186][ 57]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:213][ 58]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:235][ 59]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:255][ 60]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:273][ 61]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:294][ 62]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:315][ 63]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:334][ 64]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:354][ 65]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:371][ 66]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:388][ 67]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:406][ 68]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:427][ 69]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:446][ 70]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:463][ 71]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:482][ 72]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:499][ 73]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:517][ 74]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:535][ 75]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:552][ 76]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:572][ 77]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:590][ 78]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:610][ 79]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:629][ 80]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:651][ 81]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:670][ 82]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:687][ 83]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:706][ 84]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:723][ 85]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:743][ 86]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.51:773][ 87]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.29.51:774][ 87]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.29.52:697][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.29.55:805][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.55:807][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.29.55:859][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.29.55:860][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.29.55:896][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.29.55:941][325]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.06-23.30.10:556][122]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.30.10:614][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.30.11:539][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.11:539][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.30.11:539][154]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:30:11)
+[2020.04.06-23.30.11:539][154]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.30.11:662][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122423s)
+[2020.04.06-23.30.11:662][154]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.30.11:662][154]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2020.04.06-23.30.11:663][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.123637s)
+[2020.04.06-23.30.11:801][154]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.30.11:822][154]LogInit: FAudioDevice initialized.
+[2020.04.06-23.30.11:822][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.30.11:859][154]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.30.11:900][154]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.30.11
+[2020.04.06-23.30.11:906][154]LogWorld: Bringing up level for play took: 0.045853
+[2020.04.06-23.30.11:929][154]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 0.804
+[2020.04.06-23.30.11:930][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.11:931][154]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.11:974][155]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:000][156]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:023][157]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:043][158]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:062][159]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:082][160]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:102][161]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:120][162]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:142][163]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:162][164]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:181][165]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:202][166]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:224][167]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:246][168]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:266][169]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:286][170]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:306][171]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:330][172]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:352][173]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:372][174]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:392][175]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:414][176]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:434][177]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:454][178]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:476][179]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:497][180]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:519][181]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:539][182]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:560][183]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:581][184]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:601][185]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:620][186]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:642][187]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:662][188]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:692][189]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:716][190]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:739][191]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:760][192]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:782][193]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:803][194]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:822][195]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:844][196]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:866][197]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:885][198]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:905][199]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.12:925][200]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:718][245]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:738][246]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:759][247]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:782][248]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:806][249]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:830][250]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:853][251]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:875][252]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:895][253]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:919][254]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:938][255]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:958][256]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.13:979][257]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:008][258]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:027][259]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:049][260]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:070][261]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:092][262]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:115][263]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:136][264]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:154][265]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:177][266]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:198][267]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:219][268]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:239][269]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:263][270]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:286][271]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:305][272]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:326][273]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:347][274]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:367][275]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:386][276]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:409][277]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:428][278]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:449][279]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:469][280]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:489][281]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:516][282]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:535][283]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:555][284]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:578][285]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:598][286]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:617][287]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:636][288]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:656][289]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:678][290]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:703][291]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:727][292]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:751][293]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:781][294]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:806][295]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:827][296]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:848][297]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:869][298]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:885][299]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:907][300]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:926][301]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:946][302]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:966][303]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.14:984][304]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:005][305]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:025][306]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:046][307]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:066][308]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:083][309]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:102][310]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:119][311]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:141][312]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:161][313]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:181][314]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:199][315]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:216][316]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:236][317]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.15:269][318]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.30.15:270][318]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.20:002][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.20:003][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.30.20:069][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.30.20:069][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.20:112][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.30.20:201][591]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.06-23.30.21:686][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.30.23:915][772]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.30.23:973][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.30.24:931][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.24:931][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.30.24:931][799]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:30:24)
+[2020.04.06-23.30.24:932][799]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.30.25:057][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124900s)
+[2020.04.06-23.30.25:057][799]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.30.25:058][799]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2020.04.06-23.30.25:058][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.125974s)
+[2020.04.06-23.30.25:185][799]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.30.25:206][799]LogInit: FAudioDevice initialized.
+[2020.04.06-23.30.25:206][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.30.25:240][799]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.30.25:278][799]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.30.25
+[2020.04.06-23.30.25:284][799]LogWorld: Bringing up level for play took: 0.043389
+[2020.04.06-23.30.25:306][799]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 0.181
+[2020.04.06-23.30.25:307][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.25:307][799]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:353][800]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:382][801]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:408][802]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:429][803]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:451][804]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:473][805]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:496][806]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:524][807]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:553][808]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:576][809]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:599][810]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:622][811]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:647][812]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:670][813]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:693][814]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:716][815]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:741][816]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:767][817]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:788][818]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:814][819]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:836][820]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.25:855][821]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:778][869]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:800][870]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:824][871]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:848][872]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:873][873]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:896][874]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:918][875]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:951][876]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.26:980][877]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:003][878]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:026][879]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:049][880]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:073][881]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:097][882]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:118][883]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:140][884]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:165][885]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:187][886]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:211][887]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:234][888]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:256][889]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:281][890]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:304][891]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:328][892]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:351][893]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:373][894]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:395][895]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:417][896]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:439][897]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:462][898]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:484][899]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:512][900]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:536][901]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:559][902]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:581][903]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:601][904]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:623][905]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:646][906]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:671][907]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:693][908]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:715][909]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:736][910]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:758][911]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:780][912]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:801][913]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:823][914]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:844][915]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:865][916]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:884][917]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:909][918]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:932][919]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:952][920]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:974][921]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.27:996][922]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:016][923]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:036][924]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:057][925]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:082][926]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:102][927]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:123][928]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:145][929]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:165][930]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:184][931]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:207][932]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:229][933]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:248][934]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:268][935]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:289][936]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:312][937]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:333][938]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:351][939]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:374][940]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:394][941]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:416][942]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:435][943]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:458][944]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:480][945]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:502][946]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:520][947]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:599][948]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:618][949]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:640][950]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:662][951]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:682][952]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:707][953]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:728][954]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:748][955]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:768][956]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:790][957]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.28:827][958]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.30.28:829][958]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.30.35:432][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.35:433][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.30.35:500][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.30.35:500][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.30.35:543][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.30.35:643][298]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.06-23.30.40:092][515]LogEditorViewport: Clicking on Actor (LMB): BP_LevelEnder_C (BP_LevelEnder)
+[2020.04.06-23.30.41:433][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.30.41:524][582]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SynthvaniaContent/Blueprints/Interactive/BP_LevelEnder.BP_LevelEnder
+[2020.04.06-23.30.53:115][183]BlueprintLog: New page: Compile BP_LevelEnder
+[2020.04.06-23.31.13:892][297]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.31.13:998][297]LogBlueprint: Error: [Compiler Scoreboard] Could not find a function named "Name" in 'Scoreboard_C'.
+Make sure 'Scoreboard_C' has been compiled for  Name
+[2020.04.06-23.31.14:338][297]LogBlueprint: Warning: [Compiler Scoreboard] [0691.14] Compile of Scoreboard failed. 1 Fatal Issue(s) 0 Warning(s) [in 445 ms] (/Game/SynthvaniaContent/Blueprints/Widgets/Scoreboard.Scoreboard)
+[2020.04.06-23.31.23:923][802]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.32.10:961][ 43]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.32.23:187][678]BlueprintLog: New page: Compile Scoreboard
+[2020.04.06-23.32.25:342][778]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.32.25:393][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.32.26:428][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.32.26:428][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.32.26:428][823]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:32:26)
+[2020.04.06-23.32.26:428][823]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.32.26:559][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131102s)
+[2020.04.06-23.32.26:560][823]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.32.26:560][823]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2020.04.06-23.32.26:560][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.132345s)
+[2020.04.06-23.32.26:700][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.32.26:721][823]LogInit: FAudioDevice initialized.
+[2020.04.06-23.32.26:722][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.32.26:758][823]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.32.26:798][823]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.32.26
+[2020.04.06-23.32.26:804][823]LogWorld: Bringing up level for play took: 0.043920
+[2020.04.06-23.32.26:827][823]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART -0.298
+[2020.04.06-23.32.26:827][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.32.26:828][823]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:872][824]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:898][825]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:921][826]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:939][827]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:959][828]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:978][829]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.26:997][830]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:016][831]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:034][832]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:052][833]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:074][834]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:093][835]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:110][836]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:130][837]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:148][838]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:167][839]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:185][840]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:205][841]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:224][842]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:242][843]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:262][844]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:280][845]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:300][846]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:318][847]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:338][848]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:359][849]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:378][850]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:398][851]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:414][852]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:433][853]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:451][854]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.27:477][855]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.32.27:479][855]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.28:249][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.32.29:224][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.32.34:647][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.32.34:647][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.32.34:702][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.32.34:702][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.32.34:751][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.32.34:792][258]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.06-23.32.41:034][597]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.32.41:086][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.32.42:060][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.32.42:060][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.32.42:060][633]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:32:42)
+[2020.04.06-23.32.42:061][633]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.32.42:192][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130914s)
+[2020.04.06-23.32.42:192][633]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.32.42:192][633]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2020.04.06-23.32.42:193][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.131914s)
+[2020.04.06-23.32.42:328][633]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.32.42:351][633]LogInit: FAudioDevice initialized.
+[2020.04.06-23.32.42:351][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.32.42:382][633]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.32.42:421][633]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.32.42
+[2020.04.06-23.32.42:427][633]LogWorld: Bringing up level for play took: 0.043675
+[2020.04.06-23.32.42:448][633]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 1.323
+[2020.04.06-23.32.42:449][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.32.42:449][633]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:491][634]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:520][635]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:544][636]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:566][637]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:585][638]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:608][639]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:627][640]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:647][641]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:665][642]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:685][643]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:707][644]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:726][645]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:747][646]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:766][647]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:789][648]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:815][649]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:839][650]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:859][651]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:882][652]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:902][653]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:923][654]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:944][655]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:966][656]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.42:984][657]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:004][658]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:023][659]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:044][660]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:066][661]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:083][662]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:106][663]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:125][664]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:146][665]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:167][666]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:185][667]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:207][668]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:226][669]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:249][670]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:269][671]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:287][672]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:308][673]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:325][674]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:345][675]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:364][676]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:382][677]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:402][678]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:423][679]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:445][680]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:464][681]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:483][682]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:507][683]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:525][684]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:550][685]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:572][686]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:591][687]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:614][688]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:635][689]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:655][690]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:678][691]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:698][692]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:718][693]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:743][694]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:774][695]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:793][696]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:815][697]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:834][698]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:868][699]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:895][700]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:918][701]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:939][702]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:958][703]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.43:980][704]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:001][705]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:022][706]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:043][707]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:063][708]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:083][709]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:102][710]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:122][711]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:143][712]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:163][713]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:182][714]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:206][715]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:225][716]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:245][717]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:265][718]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:283][719]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:304][720]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:323][721]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:344][722]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:364][723]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:381][724]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:400][725]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:419][726]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:441][727]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:460][728]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:480][729]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:498][730]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:516][731]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:535][732]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:557][733]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:580][734]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:598][735]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:616][736]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:636][737]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:656][738]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:676][739]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:698][740]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:717][741]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:738][742]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:757][743]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:777][744]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:798][745]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:815][746]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:835][747]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:853][748]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:875][749]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:893][750]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:913][751]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:935][752]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:955][753]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:975][754]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.44:996][755]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:014][756]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:032][757]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:050][758]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:071][759]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:089][760]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:110][761]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:130][762]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:148][763]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:172][764]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:191][765]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:210][766]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:231][767]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:249][768]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:270][769]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:291][770]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:312][771]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:331][772]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:348][773]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:368][774]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.45:392][775]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.32.45:393][775]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.32.46:773][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.33.09:860][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.09:861][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.33.09:921][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.33.09:922][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.09:966][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.33.10:064][106]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.06-23.33.10:979][155]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.33.11:030][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.33.11:866][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.11:867][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.33.11:867][189]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:33:11)
+[2020.04.06-23.33.11:867][189]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.33.11:984][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116690s)
+[2020.04.06-23.33.11:985][189]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.33.11:985][189]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2020.04.06-23.33.11:985][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.117730s)
+[2020.04.06-23.33.12:118][189]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.33.12:139][189]LogInit: FAudioDevice initialized.
+[2020.04.06-23.33.12:139][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.33.12:173][189]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.33.12:210][189]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.33.12
+[2020.04.06-23.33.12:217][189]LogWorld: Bringing up level for play took: 0.042788
+[2020.04.06-23.33.12:239][189]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 1.114
+[2020.04.06-23.33.12:240][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.12:241][189]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:285][190]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:311][191]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:331][192]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:352][193]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:372][194]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:391][195]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:411][196]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:429][197]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:448][198]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:469][199]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:489][200]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:510][201]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:527][202]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:547][203]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:569][204]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:589][205]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:609][206]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:628][207]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:646][208]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:666][209]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:690][210]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:710][211]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:728][212]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:746][213]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:763][214]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:783][215]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:802][216]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:821][217]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.12:844][218]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.33.12:846][218]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.14:133][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.33.29:750][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.29:750][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.33.29:815][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-23.33.29:816][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.29:860][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-23.33.29:952][127]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.06-23.33.36:489][482]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.04.06-23.33.37:832][535]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_Measurement74)
+[2020.04.06-23.33.37:887][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.33.38:827][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.38:827][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-23.33.38:827][572]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (7 Apr 2020 01:33:38)
+[2020.04.06-23.33.38:827][572]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.04.06-23.33.38:945][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117698s)
+[2020.04.06-23.33.38:946][572]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.04.06-23.33.38:946][572]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2020.04.06-23.33.38:947][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.119198s)
+[2020.04.06-23.33.39:089][572]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.06-23.33.39:109][572]LogInit: FAudioDevice initialized.
+[2020.04.06-23.33.39:109][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-23.33.39:141][572]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.04.06-23.33.39:180][572]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 60) at 2020.04.07-00.33.39
+[2020.04.06-23.33.39:187][572]LogWorld: Bringing up level for play took: 0.044342
+[2020.04.06-23.33.39:208][572]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 0.083
+[2020.04.06-23.33.39:209][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.04.06-23.33.39:210][572]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:251][573]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:278][574]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:302][575]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:323][576]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:341][577]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:362][578]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:383][579]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:401][580]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:422][581]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:439][582]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:458][583]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:475][584]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:498][585]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:517][586]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:536][587]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:556][588]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:574][589]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:596][590]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:616][591]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:636][592]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:654][593]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:671][594]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:689][595]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:706][596]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:726][597]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:744][598]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:765][599]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:783][600]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.39:806][601]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.04.06-23.33.39:807][601]LogBlueprintUserMessages: [Death_2] 20.0
+[2020.04.06-23.33.40:971][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-23.36.30:652][929]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.06-23.36.30:653][929]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.06-23.37.21:664][852]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.012 sec). This should never happen. Something is wrong with the timer delegate!
