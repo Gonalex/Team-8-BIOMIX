@@ -1,0 +1,1630 @@
+﻿Log file open, 05/16/20 20:13:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.087017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.467s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames_GamesList/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.013s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.16-19.13.05:345][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.16-19.13.05:345][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.16-19.13.05:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:345][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.16-19.13.05:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.16-19.13.05:346][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.16-19.13.05:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:347][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:432][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.13.05:432][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.13.05:433][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.13.05:434][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.13.05:435][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.13.05:440][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.16-19.13.05:440][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.16-19.13.05:492][  0]LogHAL: Display: Platform has ~ 16 GB [17074946048 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.16-19.13.05:495][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.16-19.13.05:495][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.16-19.13.05:496][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-19.13.05:496][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-19.13.05:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.13.05:498][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.13.05:499][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.13.05:499][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.16-19.13.05:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.16-19.13.05:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Engine.ini]
+[2020.05.16-19.13.05:552][  0]LogInit: Computer: DESKTOP-MFH1QTS
+[2020.05.16-19.13.05:552][  0]LogInit: User: johns
+[2020.05.16-19.13.05:552][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.16-19.13.05:552][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.16-19.13.05:553][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.16-19.13.05:553][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.16-19.13.05:553][  0]LogMemory: Process Physical Memory: 107.12 MB used, 107.13 MB peak
+[2020.05.16-19.13.05:554][  0]LogMemory: Process Virtual Memory: 89.20 MB used, 89.20 MB peak
+[2020.05.16-19.13.05:554][  0]LogMemory: Physical Memory: 4305.46 MB used,  11978.48 MB free, 16283.94 MB total
+[2020.05.16-19.13.05:554][  0]LogMemory: Virtual Memory: 4606.28 MB used,  134213120.00 MB free, 134217728.00 MB total
+[2020.05.16-19.13.06:389][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.16-19.13.06:389][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.16-19.13.06:415][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.16-19.13.07:107][  0]LogStreaming: Display: Took  0.728s to InitEngineTextLocalization.
+[2020.05.16-19.13.07:139][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.16-19.13.07:588][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.16-19.13.07:588][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.16-19.13.08:940][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.16-19.13.08:940][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.16-19.13.09:060][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.05.16-19.13.09:060][  0]LogD3D11RHI:       8079/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.16-19.13.09:070][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.05.16-19.13.09:070][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.05.16-19.13.09:074][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.16-19.13.09:074][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.16-19.13.09:074][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.16-19.13.09:086][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.16-19.13.09:086][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.16-19.13.09:086][  0]LogWindows: EnumDisplayDevices:
+[2020.05.16-19.13.09:086][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.05.16-19.13.09:123][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.16-19.13.09:124][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.16-19.13.09:125][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.16-19.13.09:125][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2020.05.16-19.13.09:126][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.05.16-19.13.09:127][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.05.16-19.13.09:127][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.16-19.13.09:127][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.05.16-19.13.09:128][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.05.16-19.13.09:128][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.05.16-19.13.09:129][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.05.16-19.13.09:196][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.16-19.13.09:507][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.16-19.13.10:741][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.16-19.13.10:773][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.16-19.13.10:790][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.16-19.13.10:808][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.16-19.13.10:834][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.16-19.13.10:875][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.16-19.13.10:909][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.16-19.13.10:933][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.16-19.13.10:943][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.16-19.13.11:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.16-19.13.11:066][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.16-19.13.11:161][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.16-19.13.11:161][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.16-19.13.11:189][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.16-19.13.11:189][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.16-19.13.11:212][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.16-19.13.11:229][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.16-19.13.11:246][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.16-19.13.11:265][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.16-19.13.11:327][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.16-19.13.11:327][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.16-19.13.11:327][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.16-19.13.11:786][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Intermediate/Shaders/WorkingDirectory/10032/).
+[2020.05.16-19.13.11:786][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/johns/AppData/Local/Temp/UnrealShaderWorkingDir/557BAA604C66A822A91B848B9F2C971C/'.
+[2020.05.16-19.13.11:810][  0]LogXGEController: Cleaning working directory: C:/Users/johns/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.16-19.13.11:811][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.16-19.13.11:811][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.16-19.13.11:811][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.16-19.13.14:073][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.16-19.13.14:427][  0]LogDerivedDataCache: Loaded boot cache 0.35s 71MB C:/Users/johns/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.16-19.13.14:427][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/johns/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.16-19.13.14:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.16-19.13.14:427][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.16-19.13.14:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.16-19.13.14:428][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.16-19.13.14:528][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.16-19.13.14:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.16-19.13.14:528][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.16-19.13.14:543][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johns/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.16-19.13.14:543][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.16-19.13.14:543][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.16-19.13.14:661][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.16-19.13.14:757][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.16-19.13.14:802][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.16-19.13.15:506][  0]LogAssetRegistry: FAssetRegistry took 0.0510 seconds to start up
+[2020.05.16-19.13.21:214][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.16-19.13.22:765][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.16-19.13.22:874][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.16-19.13.22:874][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.16-19.13.22:875][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.16-19.13.22:875][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.16-19.13.23:413][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2020.05.16-19.13.28:178][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.231413 seconds
+[2020.05.16-19.13.28:213][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.16-19.13.28:213][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.05.16-19.13.28:213][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.16-19.13.37:341][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.16-19.13.37:367][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.16-19.13.39:979][  0]SourceControl: Source control is disabled
+[2020.05.16-19.13.39:980][  0]SourceControl: Source control is disabled
+[2020.05.16-19.13.40:062][  0]SourceControl: Source control is disabled
+[2020.05.16-19.13.40:073][  0]SourceControl: Source control is disabled
+[2020.05.16-19.13.41:095][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.16-19.13.41:633][  0]LogOcInput: OculusInput pre-init called
+[2020.05.16-19.13.43:373][  0]LogEngine: Initializing Engine...
+[2020.05.16-19.13.43:430][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.16-19.13.43:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.16-19.13.43:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.16-19.13.43:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2020.05.16-19.13.43:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.16-19.13.44:170][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.16-19.13.44:922][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.16-19.13.45:363][  0]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.05.16-19.13.45:443][  0]LogInit: FAudioDevice initialized.
+[2020.05.16-19.13.45:456][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.16-19.13.45:578][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/johns/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.16-19.13.45:596][  0]LogInit: Texture streaming: Enabled
+[2020.05.16-19.13.45:765][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.16-19.13.46:021][  0]LogInit: Transaction tracking system initialized
+[2020.05.16-19.13.46:362][  0]BlueprintLog: New page: Editor Load
+[2020.05.16-19.13.47:663][  0]LocalizationService: Localization service is disabled
+[2020.05.16-19.13.49:911][  0]LogFileCache: Scanning file cache for directory 'D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/' took 0.09s
+[2020.05.16-19.13.49:911][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.16-19.13.49:912][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.16-19.13.49:914][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.16-19.13.49:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.16-19.13.49:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.16-19.13.49:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.16-19.13.49:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.16-19.13.51:685][  0]SourceControl: Source control is disabled
+[2020.05.16-19.13.51:742][  0]LightingResults: New page: Lighting Build
+[2020.05.16-19.13.51:980][  0]MapCheck: New page: Map Check
+[2020.05.16-19.13.51:980][  0]LightingResults: New page: Lighting Build
+[2020.05.16-19.14.18:209][  0]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.05.16-19.14.19:850][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.16-19.14.20:253][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.16-19.14.20:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.319ms to complete.
+[2020.05.16-19.14.20:263][  0]LogFileHelpers: Loading map 'Graveyard-Catacomb_FINALART' took 28.578
+[2020.05.16-19.14.22:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.14.22:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.14.22:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.14.22:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.14.22:607][  0]LogCollectionManager: Loaded 0 collections in 0.003790 seconds
+[2020.05.16-19.14.22:760][  0]LogFileCache: Scanning file cache for directory 'D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Collections/' took 0.01s
+[2020.05.16-19.14.22:760][  0]LogFileCache: Scanning file cache for directory 'D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/Developers/johns/Collections/' took 0.01s
+[2020.05.16-19.14.22:760][  0]LogFileCache: Scanning file cache for directory 'D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/Collections/' took 0.01s
+[2020.05.16-19.14.22:760][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.16-19.14.22:793][  0]LogContentBrowser: Native class hierarchy populated in 0.0290 seconds. Added 2660 classes and 625 folders.
+[2020.05.16-19.14.22:971][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.05.16-19.14.23:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:082][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.23:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.16-19.14.24:077][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.16-19.14.24:131][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.05.16-19.14.25:257][  0]LogSlate: Took 0.011479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.16-19.14.25:304][  0]LogSlate: Took 0.016139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.16-19.14.25:355][  0]LogSlate: Took 0.010684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.16-19.14.26:160][  0]LogRenderer: Reallocating scene render targets to support 944x580 Format 10 NumSamples 1 (Frame:1).
+[2020.05.16-19.14.27:318][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.16-19.14.27:318][  0]LogLoad: (Engine Initialization) Total time: 107.03 seconds
+[2020.05.16-19.14.27:318][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.16-19.14.27:980][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.16-19.14.28:527][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/' took 0.84s
+[2020.05.16-19.14.29:747][ 10]LogAssetRegistry: Asset discovery search completed in 74.2667 seconds
+[2020.05.16-19.14.29:768][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.16-19.14.29:768][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009786 seconds (updated 0 objects)
+[2020.05.16-19.14.33:154][ 20]LogSlate: Took 0.009975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.16-19.17.08:090][249]LogEditorViewport: Clicking on Actor (LMB): CameraActor (Joe's Camera_01)
+[2020.05.16-19.17.09:800][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.17.15:769][686]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.16-19.17.15:801][686]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/SynthvaniaContent/ART/JoeJohnson_ART/Sequencer/Shot01.Shot01
+[2020.05.16-19.17.17:536][704]LogSlate: Took 0.009555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.16-19.17.35:118][723]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.16-19.17.53:179][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.18.02:833][686]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/SynthvaniaContent/ART/JoeJohnson_ART/Sequencer/Shot01.Shot01
+[2020.05.16-19.18.33:330][873]LogEditorViewport: Clicking on Actor (LMB): CameraActor (Joe's Camera_01)
+[2020.05.16-19.18.42:456][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.18.57:387][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.19.02:700][698]Cmd: TRANSACTION UNDO
+[2020.05.16-19.19.02:700][698]LogEditorTransaction: Undo Move Actors
+[2020.05.16-19.19.04:452][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.19.20:965][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.19.34:339][940]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.05.16-19.19.49:664][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.19.57:435][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.20.09:453][ 25]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.05.16-19.20.17:998][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.20.25:473][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.20.48:537][674]LogEditorViewport: Clicking on Actor (LMB): CameraActor (Joe's Camera_01)
+[2020.05.16-19.21.04:010][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.21.10:757][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.21.22:294][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.24.27:489][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-19.24.30:660][622]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_AutoF47431F2470F10CF7834C7BF2A48DDB9.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_Auto1.umap'
+[2020.05.16-19.24.30:712][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 3.202
+[2020.05.16-19.24.30:712][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.202
+[2020.05.16-19.24.30:716][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Sequencer/Shot01] ([1] browsable assets)...
+[2020.05.16-19.24.30:716][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Sequencer/Shot01]
+[2020.05.16-19.24.30:742][622]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Shot01_Auto1F202EDA145F4ABC9C4028FBC5C05A4BA.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/JoeJohnson_ART/Sequencer/Shot01_Auto1.uasset'
+[2020.05.16-19.24.30:747][622]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.05.16-19.28.47:367][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.29.05:872][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.29.29:477][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.29.36:167][906]LogSlate: Window 'Save Content' being destroyed
+[2020.05.16-19.29.36:218][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-19.29.36:258][906]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Shot0144D42CF94C63791742B85E9FF64CA55A.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/ART/JoeJohnson_ART/Sequencer/Shot01.uasset'
+[2020.05.16-19.29.38:821][906]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART1E0E4A29452182397F414CB1AF6E4BD6.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.umap'
+[2020.05.16-19.29.38:924][906]LogFileHelpers: Saving map 'Graveyard-Catacomb_FINALART' took 2.656
+[2020.05.16-19.29.38:981][906]LogTemp: Starting movie scene capture...
+[2020.05.16-19.29.39:067][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.29.39:087][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-19.29.39:206][906]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (16 May 2020 21:29:39)
+[2020.05.16-19.29.39:336][906]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.05.16-19.29.39:601][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.264773s)
+[2020.05.16-19.29.39:602][906]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.05.16-19.29.39:617][906]LogPlayLevel: PIE: World Init took: (0.015436s)
+[2020.05.16-19.29.39:617][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.281542s)
+[2020.05.16-19.29.39:748][906]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-19.29.39:861][906]LogInit: FAudioDevice initialized.
+[2020.05.16-19.29.39:865][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.29.40:001][906]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.05.16-19.29.40:001][906]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.05.16-19.29.40:001][906]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.29.40:001][906]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.29.40:001][906]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.29.40:002][906]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.29.40:003][906]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.05.16-19.29.40:003][906]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.29.40:003][906]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.29.40:004][906]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.29.40:004][906]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.29.40:004][906]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.29.40:041][906]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.05.16-19.29.40:243][906]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 0) at 2020.05.16-20.29.40
+[2020.05.16-19.29.40:452][906]LogWorld: Bringing up level for play took: 0.293402
+[2020.05.16-19.29.40:616][906]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2020.05.16-19.29.40:801][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-19.29.40:806][906]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART 1.785
+[2020.05.16-19.29.40:807][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.29.41:074][906]LogSlate: Took 0.049937 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.05.16-19.29.41:628][908]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.05.16-19.29.42:791][910]LogContentStreaming: Texture pool size now 5655 MB
+[2020.05.16-19.29.45:232][936]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (26 other events since notify)
+[2020.05.16-19.29.45:233][936]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (26 other events since notify)
+[2020.05.16-19.29.48:258][967]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.48:258][967]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.51:173][998]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.51:173][998]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.54:384][ 29]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.54:385][ 29]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.57:268][ 60]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.29.57:268][ 60]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.30.00:131][ 91]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (27 other events since notify)
+[2020.05.16-19.30.00:131][ 91]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (27 other events since notify)
+[2020.05.16-19.30.02:916][122]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.30.02:916][122]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.30.05:635][152]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.05:635][152]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.08:345][182]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.08:345][182]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.11:099][212]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-68.27 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (26 other events since notify)
+[2020.05.16-19.30.11:100][212]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=68.27 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (26 other events since notify)
+[2020.05.16-19.30.13:763][242]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.13:764][242]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.16:609][272]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.16:610][272]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.19:403][302]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.19:403][302]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.22:303][332]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.22:304][332]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.30.25:030][360]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:030][360]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-19.30.25:031][360]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-19.30.25:031][360]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.30.25:031][360]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.30.25:031][360]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.30.25:032][360]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.30.25:032][360]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-19.30.25:032][360]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.30.25:033][360]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.30.25:033][360]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.30.25:033][360]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.30.25:351][360]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-19.30.25:351][360]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-19.30.25:351][360]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.30.25:351][360]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.30.25:352][360]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.30.25:352][360]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.30.25:352][360]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-19.30.25:353][360]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.30.25:353][360]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.30.25:353][360]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.30.25:353][360]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.30.25:387][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.30.25:399][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.30.25:493][360]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2020.05.16-19.30.25:588][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-19.30.25:589][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.30.25:937][360]LogTemp: Movie Capture finished. Success: 1
+[2020.05.16-19.30.25:957][362]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:91273).
+[2020.05.16-19.30.26:054][363]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.05.16-19.30.26:115][365]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.16-19.30.40:636][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.30.48:059][110]LogTemp: Starting movie scene capture...
+[2020.05.16-19.30.48:065][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.30.48:065][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-19.30.48:065][110]PIE: New page: PIE session: Graveyard-Catacomb_FINALART (16 May 2020 21:30:48)
+[2020.05.16-19.30.48:065][110]LogPlayLevel: Creating play world package: /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART
+[2020.05.16-19.30.48:228][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163433s)
+[2020.05.16-19.30.48:229][110]LogAIModule: Creating AISystem for world Graveyard-Catacomb_FINALART
+[2020.05.16-19.30.48:229][110]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2020.05.16-19.30.48:229][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART to /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART (0.164996s)
+[2020.05.16-19.30.48:333][110]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-19.30.48:401][110]LogInit: FAudioDevice initialized.
+[2020.05.16-19.30.48:401][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.30.48:523][110]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:523][110]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.30.48:523][110]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.05.16-19.30.48:523][110]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.05.16-19.30.48:524][110]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.30.48:524][110]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.30.48:524][110]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.05.16-19.30.48:525][110]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.30.48:526][110]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.05.16-19.30.48:526][110]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.30.48:526][110]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.30.48:526][110]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.30.48:530][110]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.05.16-19.30.48:594][110]LogWorld: Bringing World /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART up for play (max tick rate 0) at 2020.05.16-20.30.48
+[2020.05.16-19.30.48:603][110]LogWorld: Bringing up level for play took: 0.071913
+[2020.05.16-19.30.48:637][110]PIE: Play in editor start time for /Game/SynthvaniaContent/Levels/UEDPIE_0_Graveyard-Catacomb_FINALART -0.383
+[2020.05.16-19.30.48:653][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.30.48:777][111]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:93001).
+[2020.05.16-19.30.49:234][115]LogContentStreaming: Texture pool size now 5655 MB
+[2020.05.16-19.30.51:436][140]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (27 other events since notify)
+[2020.05.16-19.30.51:436][140]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (27 other events since notify)
+[2020.05.16-19.30.54:383][171]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.30.54:384][171]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.30.57:224][202]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.30.57:224][202]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.00:084][233]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.00:084][233]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.02:902][264]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.02:903][264]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.05:749][295]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (27 other events since notify)
+[2020.05.16-19.31.05:749][295]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (27 other events since notify)
+[2020.05.16-19.31.08:482][326]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.08:482][326]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (30 other events since notify)
+[2020.05.16-19.31.11:269][356]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.11:270][356]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.13:966][386]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.13:966][386]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.16:716][416]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (26 other events since notify)
+[2020.05.16-19.31.16:716][416]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (26 other events since notify)
+[2020.05.16-19.31.19:394][446]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.19:394][446]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.22:210][476]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.22:210][476]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.25:051][506]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.25:051][506]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.27:905][536]LogCharacterMovement: Enemy_Character10 is stuck and failed to move! Velocity: X=0.00 Y=-125.00 Z=0.00 Location: X=1213.00 Y=1314.74 Z=-2635.36 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character12 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.27:905][536]LogCharacterMovement: Enemy_Character12 is stuck and failed to move! Velocity: X=0.00 Y=125.00 Z=0.00 Location: X=1213.00 Y=918.65 Z=-2635.36 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:33.505 Actor:Enemy_Character10 Component:Widget BoneName:None (29 other events since notify)
+[2020.05.16-19.31.30:496][563]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:496][563]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.31.30:496][563]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-19.31.30:496][563]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:496][563]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-19.31.30:496][563]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.31.30:497][563]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.31.30:498][563]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-19.31.30:498][563]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2020.05.16-19.31.30:498][563]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.31.30:498][563]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.31.30:499][563]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.31.30:499][563]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.31.30:739][563]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:739][563]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-19.31.30:740][563]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-19.31.30:740][563]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-19.31.30:740][563]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-19.31.30:741][563]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-19.31.30:742][563]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-19.31.30:742][563]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-19.31.30:743][563]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-19.31.30:744][563]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-19.31.30:745][563]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-19.31.30:745][563]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2020.05.16-19.31.30:745][563]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-19.31.30:746][563]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-19.31.30:746][563]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-19.31.30:747][563]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-19.31.30:747][563]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-19.31.30:747][563]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-19.31.30:747][563]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-19.31.30:747][563]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-19.31.30:747][563]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-19.31.30:748][563]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.16-19.31.30:750][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.31.30:751][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-19.31.30:824][563]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2020.05.16-19.31.30:847][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-19.31.30:848][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel' has LevelScriptBlueprint '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART' with GeneratedClass '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART_C' with ClassGeneratedBy '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard-Catacomb_FINALART'
+[2020.05.16-19.31.30:938][563]LogTemp: Movie Capture finished. Success: 1
+[2020.05.16-19.31.31:004][565]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:93003).
+[2020.05.16-19.31.31:112][566]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.16-19.35.06:405][587]LogSlate: Window 'Sequencer' being destroyed
+[2020.05.16-19.35.06:409][587]LogSlate: Window 'Sequencer' being destroyed
+[2020.05.16-19.35.07:199][589]LogSlate: Window 'Render Movie Settings' being destroyed
+[2020.05.16-19.35.14:914][880]LogEditorViewport: Clicking on Actor (context menu): BP_FogSheet_C (BP_FogSheet4)
+[2020.05.16-19.35.15:630][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-19.35.16:830][994]Cmd: SELECT NONE
+[2020.05.16-19.35.18:877][148]LogEditorViewport: Clicking on Actor (LMB): BP_FogSheet_C (BP_FogSheet7)
+[2020.05.16-19.35.24:697][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.35.32:210][299]Cmd: SELECT NONE
+[2020.05.16-19.35.34:844][482]LogEditorViewport: Clicking on Actor (LMB): BP_FogSheet_C (BP_FogSheet7)
+[2020.05.16-19.35.36:106][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.35.38:912][858]Cmd: SELECT NONE
+[2020.05.16-19.35.43:957][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.35.49:109][736]LogAssetEditorManager: Opening Asset editor for Material /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER.M_jj_MASTER
+[2020.05.16-19.35.49:166][736]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.35.49:635][736]LogShaderCompilers: Display: Shaders left to compile 98
+[2020.05.16-19.35.49:635][736]LogShaderCompilers: Display: Shaders left to compile 97
+[2020.05.16-19.35.49:636][736]LogShaderCompilers: Display: Shaders left to compile 96
+[2020.05.16-19.35.51:291][736]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.35.51:473][736]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.35.51:621][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.05.16-19.35.51:629][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.05.16-19.35.51:638][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.05.16-19.35.51:645][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.16-19.35.51:654][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.05.16-19.35.51:662][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.05.16-19.35.51:671][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.05.16-19.35.51:679][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.05.16-19.35.51:687][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.05.16-19.35.51:694][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.05.16-19.35.51:881][736]LogSlate: Took 0.018068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.16-19.35.52:902][756]LogShaderCompilers: Display: Shaders left to compile 118
+[2020.05.16-19.35.52:902][756]LogShaderCompilers: Display: Shaders left to compile 117
+[2020.05.16-19.35.53:030][763]LogShaderCompilers: Display: Shaders left to compile 116
+[2020.05.16-19.35.53:174][764]LogShaderCompilers: Display: Shaders left to compile 115
+[2020.05.16-19.35.53:295][769]LogShaderCompilers: Display: Shaders left to compile 114
+[2020.05.16-19.35.53:607][791]LogShaderCompilers: Display: Shaders left to compile 113
+[2020.05.16-19.35.53:646][794]LogShaderCompilers: Display: Shaders left to compile 112
+[2020.05.16-19.35.53:726][800]LogShaderCompilers: Display: Shaders left to compile 111
+[2020.05.16-19.35.54:112][820]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.05.16-19.35.54:525][838]LogShaderCompilers: Display: Shaders left to compile 109
+[2020.05.16-19.35.54:564][840]LogShaderCompilers: Display: Shaders left to compile 108
+[2020.05.16-19.35.54:696][847]LogShaderCompilers: Display: Shaders left to compile 107
+[2020.05.16-19.35.54:905][858]LogShaderCompilers: Display: Shaders left to compile 106
+[2020.05.16-19.35.55:217][872]LogShaderCompilers: Display: Shaders left to compile 105
+[2020.05.16-19.35.55:550][886]LogShaderCompilers: Display: Shaders left to compile 104
+[2020.05.16-19.35.55:662][891]LogShaderCompilers: Display: Shaders left to compile 103
+[2020.05.16-19.35.55:971][906]LogShaderCompilers: Display: Shaders left to compile 102
+[2020.05.16-19.35.55:971][906]LogShaderCompilers: Display: Shaders left to compile 101
+[2020.05.16-19.35.56:421][929]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.05.16-19.35.56:421][929]LogShaderCompilers: Display: Shaders left to compile 99
+[2020.05.16-19.35.56:441][930]LogShaderCompilers: Display: Shaders left to compile 98
+[2020.05.16-19.35.56:894][954]LogShaderCompilers: Display: Shaders left to compile 97
+[2020.05.16-19.35.56:913][955]LogShaderCompilers: Display: Shaders left to compile 96
+[2020.05.16-19.35.57:128][967]LogShaderCompilers: Display: Shaders left to compile 95
+[2020.05.16-19.35.57:244][973]LogShaderCompilers: Display: Shaders left to compile 94
+[2020.05.16-19.35.57:395][980]LogShaderCompilers: Display: Shaders left to compile 93
+[2020.05.16-19.35.58:178][ 19]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.05.16-19.35.58:305][ 25]LogShaderCompilers: Display: Shaders left to compile 91
+[2020.05.16-19.35.58:575][ 41]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.05.16-19.35.58:708][ 50]LogShaderCompilers: Display: Shaders left to compile 89
+[2020.05.16-19.35.59:001][ 71]LogShaderCompilers: Display: Shaders left to compile 88
+[2020.05.16-19.35.59:081][ 77]LogShaderCompilers: Display: Shaders left to compile 87
+[2020.05.16-19.35.59:082][ 77]LogShaderCompilers: Display: Shaders left to compile 86
+[2020.05.16-19.35.59:695][116]LogShaderCompilers: Display: Shaders left to compile 85
+[2020.05.16-19.35.59:948][131]LogShaderCompilers: Display: Shaders left to compile 84
+[2020.05.16-19.36.00:826][184]LogShaderCompilers: Display: Shaders left to compile 83
+[2020.05.16-19.36.00:997][193]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.05.16-19.36.01:048][195]LogShaderCompilers: Display: Shaders left to compile 81
+[2020.05.16-19.36.01:535][218]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.05.16-19.36.01:625][223]LogShaderCompilers: Display: Shaders left to compile 79
+[2020.05.16-19.36.02:129][249]LogShaderCompilers: Display: Shaders left to compile 78
+[2020.05.16-19.36.02:174][251]LogShaderCompilers: Display: Shaders left to compile 77
+[2020.05.16-19.36.02:327][259]LogShaderCompilers: Display: Shaders left to compile 76
+[2020.05.16-19.36.02:525][269]LogShaderCompilers: Display: Shaders left to compile 75
+[2020.05.16-19.36.02:757][281]LogShaderCompilers: Display: Shaders left to compile 74
+[2020.05.16-19.36.02:815][284]LogShaderCompilers: Display: Shaders left to compile 73
+[2020.05.16-19.36.02:926][290]LogShaderCompilers: Display: Shaders left to compile 72
+[2020.05.16-19.36.03:268][307]LogShaderCompilers: Display: Shaders left to compile 71
+[2020.05.16-19.36.03:379][313]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.05.16-19.36.03:490][319]LogShaderCompilers: Display: Shaders left to compile 69
+[2020.05.16-19.36.03:812][335]LogShaderCompilers: Display: Shaders left to compile 68
+[2020.05.16-19.36.03:812][335]LogShaderCompilers: Display: Shaders left to compile 67
+[2020.05.16-19.36.04:591][371]LogShaderCompilers: Display: Shaders left to compile 66
+[2020.05.16-19.36.04:591][371]LogShaderCompilers: Display: Shaders left to compile 65
+[2020.05.16-19.36.04:785][380]LogShaderCompilers: Display: Shaders left to compile 64
+[2020.05.16-19.36.05:538][414]LogShaderCompilers: Display: Shaders left to compile 63
+[2020.05.16-19.36.05:706][422]LogShaderCompilers: Display: Shaders left to compile 62
+[2020.05.16-19.36.05:707][422]LogShaderCompilers: Display: Shaders left to compile 61
+[2020.05.16-19.36.06:309][450]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.16-19.36.06:611][464]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.05.16-19.36.06:911][478]LogShaderCompilers: Display: Shaders left to compile 58
+[2020.05.16-19.36.07:138][488]LogShaderCompilers: Display: Shaders left to compile 57
+[2020.05.16-19.36.08:304][541]LogShaderCompilers: Display: Shaders left to compile 56
+[2020.05.16-19.36.08:638][555]LogShaderCompilers: Display: Shaders left to compile 55
+[2020.05.16-19.36.09:369][588]LogShaderCompilers: Display: Shaders left to compile 54
+[2020.05.16-19.36.09:832][609]LogShaderCompilers: Display: Shaders left to compile 53
+[2020.05.16-19.36.10:421][635]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.05.16-19.36.10:971][657]LogSlate: Window 'M_jj_MASTER' being destroyed
+[2020.05.16-19.36.11:173][657]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.05.16-19.36.11:173][657]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.16-19.36.11:326][657]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.05.16-19.36.11:922][690]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.05.16-19.36.11:956][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.36.12:279][706]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.05.16-19.36.12:303][706]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst.M_jj_MASTER_Inst
+[2020.05.16-19.36.12:698][706]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.05.16-19.36.12:736][706]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.05.16-19.36.12:941][715]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.05.16-19.36.14:519][818]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.05.16-19.36.14:973][846]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.05.16-19.36.15:455][873]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.05.16-19.36.16:153][917]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.16-19.36.17:019][973]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.05.16-19.36.17:451][  2]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.05.16-19.36.17:495][  5]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.05.16-19.36.18:780][ 87]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.05.16-19.36.19:250][108]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.05.16-19.36.19:383][114]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.05.16-19.36.20:554][192]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.05.16-19.36.20:568][193]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.05.16-19.36.21:300][231]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.05.16-19.36.21:459][238]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.16-19.36.22:069][263]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.05.16-19.36.22:171][269]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.05.16-19.36.22:795][309]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.05.16-19.36.23:904][370]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.05.16-19.36.24:023][377]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.05.16-19.36.24:115][381]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.05.16-19.36.24:582][402]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.05.16-19.36.24:811][413]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.05.16-19.36.25:090][425]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.05.16-19.36.31:331][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.36.33:883][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.36.46:154][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.36.49:224][885]LogSlate: Window 'Platform Stats' being destroyed
+[2020.05.16-19.36.49:231][885]LogSlate: Window 'Platform Stats' being destroyed
+[2020.05.16-19.37.13:170][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.37.26:985][144]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.16-19.37.37:727][833]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.16-19.37.43:365][177]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.16-19.38.06:304][645]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.38.06:476][645]LogShaderCompilers: Display: Shaders left to compile 189
+[2020.05.16-19.38.06:476][645]LogShaderCompilers: Display: Shaders left to compile 179
+[2020.05.16-19.38.06:476][645]LogShaderCompilers: Display: Shaders left to compile 169
+[2020.05.16-19.38.16:135][282]LogShaderCompilers: Display: Shaders left to compile 159
+[2020.05.16-19.38.16:428][302]LogShaderCompilers: Display: Shaders left to compile 149
+[2020.05.16-19.38.25:128][879]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.38.26:026][922]LogShaderCompilers: Display: Shaders left to compile 328
+[2020.05.16-19.38.27:670][ 26]LogShaderCompilers: Display: Shaders left to compile 318
+[2020.05.16-19.38.34:398][431]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.38.35:529][490]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.38.37:614][614]LogShaderCompilers: Display: Shaders left to compile 686
+[2020.05.16-19.38.46:408][169]LogShaderCompilers: Display: Shaders left to compile 676
+[2020.05.16-19.38.47:510][260]LogShaderCompilers: Display: Shaders left to compile 666
+[2020.05.16-19.38.55:726][759]LogShaderCompilers: Display: Shaders left to compile 656
+[2020.05.16-19.38.57:523][798]LogShaderCompilers: Display: Shaders left to compile 646
+[2020.05.16-19.38.58:071][819]LogShaderCompilers: Display: Shaders left to compile 636
+[2020.05.16-19.38.59:267][857]LogShaderCompilers: Display: Shaders left to compile 626
+[2020.05.16-19.39.01:077][909]LogShaderCompilers: Display: Shaders left to compile 616
+[2020.05.16-19.39.01:666][926]LogShaderCompilers: Display: Shaders left to compile 606
+[2020.05.16-19.39.02:362][940]LogShaderCompilers: Display: Shaders left to compile 596
+[2020.05.16-19.39.03:976][979]LogShaderCompilers: Display: Shaders left to compile 586
+[2020.05.16-19.39.06:355][ 32]LogShaderCompilers: Display: Shaders left to compile 576
+[2020.05.16-19.39.07:576][ 60]LogShaderCompilers: Display: Shaders left to compile 566
+[2020.05.16-19.39.09:248][100]LogShaderCompilers: Display: Shaders left to compile 556
+[2020.05.16-19.39.10:148][120]LogShaderCompilers: Display: Shaders left to compile 546
+[2020.05.16-19.39.10:469][127]LogShaderCompilers: Display: Shaders left to compile 536
+[2020.05.16-19.39.11:965][162]LogShaderCompilers: Display: Shaders left to compile 526
+[2020.05.16-19.39.12:879][181]LogShaderCompilers: Display: Shaders left to compile 516
+[2020.05.16-19.39.13:046][186]LogShaderCompilers: Display: Shaders left to compile 506
+[2020.05.16-19.39.14:800][237]LogShaderCompilers: Display: Shaders left to compile 496
+[2020.05.16-19.39.16:669][290]LogShaderCompilers: Display: Shaders left to compile 486
+[2020.05.16-19.39.21:921][541]LogShaderCompilers: Display: Shaders left to compile 476
+[2020.05.16-19.39.22:384][568]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.39.28:541][957]LogShaderCompilers: Display: Shaders left to compile 655
+[2020.05.16-19.39.36:457][480]LogShaderCompilers: Display: Shaders left to compile 645
+[2020.05.16-19.39.36:885][509]LogShaderCompilers: Display: Shaders left to compile 635
+[2020.05.16-19.39.42:069][839]LogShaderCompilers: Display: Shaders left to compile 625
+[2020.05.16-19.39.47:416][163]LogShaderCompilers: Display: Shaders left to compile 615
+[2020.05.16-19.39.49:288][283]LogShaderCompilers: Display: Shaders left to compile 605
+[2020.05.16-19.39.54:366][603]LogShaderCompilers: Display: Shaders left to compile 595
+[2020.05.16-19.39.59:504][923]LogShaderCompilers: Display: Shaders left to compile 585
+[2020.05.16-19.40.09:968][579]LogShaderCompilers: Display: Shaders left to compile 575
+[2020.05.16-19.40.17:600][ 55]LogShaderCompilers: Display: Shaders left to compile 565
+[2020.05.16-19.40.23:089][400]LogShaderCompilers: Display: Shaders left to compile 555
+[2020.05.16-19.40.27:770][695]LogShaderCompilers: Display: Shaders left to compile 545
+[2020.05.16-19.40.29:820][822]LogShaderCompilers: Display: Shaders left to compile 535
+[2020.05.16-19.40.34:423][111]LogShaderCompilers: Display: Shaders left to compile 525
+[2020.05.16-19.40.38:880][392]LogShaderCompilers: Display: Shaders left to compile 515
+[2020.05.16-19.40.40:721][510]LogShaderCompilers: Display: Shaders left to compile 505
+[2020.05.16-19.40.44:204][736]LogShaderCompilers: Display: Shaders left to compile 495
+[2020.05.16-19.40.49:312][ 73]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-19.40.52:046][235]LogShaderCompilers: Display: Shaders left to compile 674
+[2020.05.16-19.40.59:179][708]LogShaderCompilers: Display: Shaders left to compile 664
+[2020.05.16-19.41.01:812][887]LogShaderCompilers: Display: Shaders left to compile 654
+[2020.05.16-19.41.11:008][512]LogShaderCompilers: Display: Shaders left to compile 644
+[2020.05.16-19.41.12:231][595]LogShaderCompilers: Display: Shaders left to compile 634
+[2020.05.16-19.41.13:857][704]LogShaderCompilers: Display: Shaders left to compile 624
+[2020.05.16-19.41.21:701][235]LogShaderCompilers: Display: Shaders left to compile 614
+[2020.05.16-19.41.24:793][443]LogShaderCompilers: Display: Shaders left to compile 604
+[2020.05.16-19.41.25:408][486]LogShaderCompilers: Display: Shaders left to compile 594
+[2020.05.16-19.41.31:921][925]LogShaderCompilers: Display: Shaders left to compile 584
+[2020.05.16-19.41.45:078][812]LogShaderCompilers: Display: Shaders left to compile 574
+[2020.05.16-19.41.45:471][839]LogShaderCompilers: Display: Shaders left to compile 564
+[2020.05.16-19.41.53:269][350]LogShaderCompilers: Display: Shaders left to compile 554
+[2020.05.16-19.41.55:391][458]LogShaderCompilers: Display: Shaders left to compile 544
+[2020.05.16-19.41.59:875][761]LogShaderCompilers: Display: Shaders left to compile 534
+[2020.05.16-19.42.02:797][954]LogShaderCompilers: Display: Shaders left to compile 524
+[2020.05.16-19.42.07:295][261]LogShaderCompilers: Display: Shaders left to compile 514
+[2020.05.16-19.42.10:818][501]LogShaderCompilers: Display: Shaders left to compile 504
+[2020.05.16-19.42.12:942][646]LogShaderCompilers: Display: Shaders left to compile 494
+[2020.05.16-19.42.20:611][167]LogShaderCompilers: Display: Shaders left to compile 484
+[2020.05.16-19.42.29:635][775]LogShaderCompilers: Display: Shaders left to compile 474
+[2020.05.16-19.42.31:579][906]LogShaderCompilers: Display: Shaders left to compile 464
+[2020.05.16-19.42.39:524][443]LogShaderCompilers: Display: Shaders left to compile 454
+[2020.05.16-19.42.40:820][531]LogShaderCompilers: Display: Shaders left to compile 444
+[2020.05.16-19.42.42:425][638]LogShaderCompilers: Display: Shaders left to compile 434
+[2020.05.16-19.42.51:357][244]LogShaderCompilers: Display: Shaders left to compile 424
+[2020.05.16-19.42.53:189][369]LogShaderCompilers: Display: Shaders left to compile 414
+[2020.05.16-19.42.54:823][480]LogShaderCompilers: Display: Shaders left to compile 404
+[2020.05.16-19.43.02:083][971]LogShaderCompilers: Display: Shaders left to compile 394
+[2020.05.16-19.43.12:814][700]LogShaderCompilers: Display: Shaders left to compile 384
+[2020.05.16-19.43.14:766][832]LogShaderCompilers: Display: Shaders left to compile 374
+[2020.05.16-19.43.22:053][324]LogShaderCompilers: Display: Shaders left to compile 364
+[2020.05.16-19.43.24:357][479]LogShaderCompilers: Display: Shaders left to compile 354
+[2020.05.16-19.43.27:091][662]LogShaderCompilers: Display: Shaders left to compile 344
+[2020.05.16-19.43.31:918][990]LogShaderCompilers: Display: Shaders left to compile 334
+[2020.05.16-19.43.34:935][195]LogShaderCompilers: Display: Shaders left to compile 324
+[2020.05.16-19.43.36:745][319]LogShaderCompilers: Display: Shaders left to compile 314
+[2020.05.16-19.43.42:012][678]LogShaderCompilers: Display: Shaders left to compile 304
+[2020.05.16-19.43.49:571][190]LogShaderCompilers: Display: Shaders left to compile 294
+[2020.05.16-19.44.04:836][201]LogShaderCompilers: Display: Shaders left to compile 284
+[2020.05.16-19.44.09:935][547]LogShaderCompilers: Display: Shaders left to compile 274
+[2020.05.16-19.44.16:824][ 13]LogShaderCompilers: Display: Shaders left to compile 264
+[2020.05.16-19.44.17:800][ 79]LogShaderCompilers: Display: Shaders left to compile 254
+[2020.05.16-19.44.21:478][331]LogShaderCompilers: Display: Shaders left to compile 244
+[2020.05.16-19.44.28:882][833]LogShaderCompilers: Display: Shaders left to compile 234
+[2020.05.16-19.44.31:540][ 12]LogShaderCompilers: Display: Shaders left to compile 224
+[2020.05.16-19.44.33:617][153]LogShaderCompilers: Display: Shaders left to compile 214
+[2020.05.16-19.44.40:238][600]LogShaderCompilers: Display: Shaders left to compile 204
+[2020.05.16-19.44.51:320][360]LogShaderCompilers: Display: Shaders left to compile 194
+[2020.05.16-19.44.53:613][514]LogShaderCompilers: Display: Shaders left to compile 184
+[2020.05.16-19.45.00:745][996]LogShaderCompilers: Display: Shaders left to compile 174
+[2020.05.16-19.45.04:025][219]LogShaderCompilers: Display: Shaders left to compile 164
+[2020.05.16-19.45.04:175][227]LogShaderCompilers: Display: Shaders left to compile 154
+[2020.05.16-19.45.11:392][714]LogShaderCompilers: Display: Shaders left to compile 144
+[2020.05.16-19.45.14:615][933]LogShaderCompilers: Display: Shaders left to compile 134
+[2020.05.16-19.45.15:032][961]LogShaderCompilers: Display: Shaders left to compile 124
+[2020.05.16-19.45.22:240][447]LogShaderCompilers: Display: Shaders left to compile 114
+[2020.05.16-19.45.31:341][ 63]LogShaderCompilers: Display: Shaders left to compile 104
+[2020.05.16-19.45.35:027][312]LogShaderCompilers: Display: Shaders left to compile 94
+[2020.05.16-19.45.41:553][752]LogShaderCompilers: Display: Shaders left to compile 84
+[2020.05.16-19.45.46:275][ 71]LogShaderCompilers: Display: Shaders left to compile 74
+[2020.05.16-19.45.48:935][250]LogShaderCompilers: Display: Shaders left to compile 64
+[2020.05.16-19.45.53:018][525]LogShaderCompilers: Display: Shaders left to compile 54
+[2020.05.16-19.46.01:476][ 91]LogShaderCompilers: Display: Shaders left to compile 44
+[2020.05.16-19.46.01:580][ 98]LogShaderCompilers: Display: Shaders left to compile 34
+[2020.05.16-19.46.06:850][453]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.05.16-19.46.19:515][301]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.05.16-19.46.26:031][740]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.05.16-19.46.51:258][278]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_Auto5B0330F641894115450E47A419190E42.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_Auto2.umap'
+[2020.05.16-19.46.51:265][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 2.722
+[2020.05.16-19.46.51:265][278]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.722
+[2020.05.16-19.46.51:270][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst] ([1] browsable assets)...
+[2020.05.16-19.46.51:312][278]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst.M_jj_MASTER_Inst]
+[2020.05.16-19.46.51:312][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst]
+[2020.05.16-19.46.51:376][278]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_jj_MASTER_Inst, compiling. 
+[2020.05.16-19.46.51:706][278]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.05.16-19.46.51:724][278]TextureStreamingBuild: Display: Compiling optional shaders took 0.352 seconds.
+[2020.05.16-19.46.51:838][278]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_jj_MASTER_Inst_Auto232075F0449162609E50ACABDCDE8B082.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst_Auto2.uasset'
+[2020.05.16-19.46.51:842][278]LogFileHelpers: Auto-saving content packages took 0.573
+[2020.05.16-19.48.30:810][606]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-19.48.33:617][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.48.47:299][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.48.52:033][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-19.56.51:928][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 0.032
+[2020.05.16-19.56.51:930][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst] ([1] browsable assets)...
+[2020.05.16-19.56.51:945][535]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst.M_jj_MASTER_Inst]
+[2020.05.16-19.56.51:945][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst]
+[2020.05.16-19.56.51:988][535]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_jj_MASTER_Inst, compiling. 
+[2020.05.16-19.56.52:645][535]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.05.16-19.56.52:647][535]TextureStreamingBuild: Display: Compiling optional shaders took 0.673 seconds.
+[2020.05.16-19.56.52:717][535]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_jj_MASTER_Inst_Auto3E7B583B446CA30BB2A08D7BC1CAE1DE8.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst_Auto3.uasset'
+[2020.05.16-19.56.52:719][535]LogFileHelpers: Auto-saving content packages took 0.791
+[2020.05.16-20.03.29:362][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.03.39:873][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.03.47:761][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.03.57:326][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.04.22:692][653]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.16-20.04.24:034][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.04.52:408][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.04.57:835][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.04.57:939][569]LogMaterial: Display: Missing cached shader map for material M_jj_MASTER, compiling. 
+[2020.05.16-20.04.58:074][569]LogShaderCompilers: Display: Shaders left to compile 189
+[2020.05.16-20.04.58:075][569]LogShaderCompilers: Display: Shaders left to compile 179
+[2020.05.16-20.04.58:075][569]LogShaderCompilers: Display: Shaders left to compile 169
+[2020.05.16-20.05.08:607][237]LogShaderCompilers: Display: Shaders left to compile 159
+[2020.05.16-20.05.09:012][244]LogShaderCompilers: Display: Shaders left to compile 149
+[2020.05.16-20.05.09:057][245]LogShaderCompilers: Display: Shaders left to compile 139
+[2020.05.16-20.05.12:439][302]LogShaderCompilers: Display: Shaders left to compile 129
+[2020.05.16-20.05.12:927][315]LogShaderCompilers: Display: Shaders left to compile 119
+[2020.05.16-20.05.13:044][317]LogShaderCompilers: Display: Shaders left to compile 109
+[2020.05.16-20.05.17:695][447]LogShaderCompilers: Display: Shaders left to compile 99
+[2020.05.16-20.05.18:179][462]LogShaderCompilers: Display: Shaders left to compile 89
+[2020.05.16-20.05.18:604][474]LogShaderCompilers: Display: Shaders left to compile 79
+[2020.05.16-20.05.21:082][540]LogShaderCompilers: Display: Shaders left to compile 69
+[2020.05.16-20.05.21:548][560]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.05.16-20.05.21:730][567]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.05.16-20.05.21:842][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.05.30:958][231]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.05.16-20.05.31:980][305]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.05.16-20.05.32:611][350]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.05.16-20.05.53:744][861]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.05.16-20.06.17:400][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.06.27:474][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.07.04:337][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.07.14:040][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.07.20:307][543]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.16-20.07.27:784][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.08.02:136][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 0.042
+[2020.05.16-20.08.02:138][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst] ([1] browsable assets)...
+[2020.05.16-20.08.02:161][844]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst.M_jj_MASTER_Inst]
+[2020.05.16-20.08.02:161][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst]
+[2020.05.16-20.08.02:201][844]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_jj_MASTER_Inst, compiling. 
+[2020.05.16-20.08.02:717][844]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.05.16-20.08.02:720][844]TextureStreamingBuild: Display: Compiling optional shaders took 0.526 seconds.
+[2020.05.16-20.08.02:779][844]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_jj_MASTER_Inst_Auto4485DF9CE415B4058598AFE899D67FCD3.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/M_jj_MASTER_Inst_Auto4.uasset'
+[2020.05.16-20.08.02:783][844]LogFileHelpers: Auto-saving content packages took 0.646
+[2020.05.16-20.16.49:810][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.16.49:908][584]LogSlate: Window 'M_jj_MASTER_Inst*' being destroyed
+[2020.05.16-20.16.49:915][584]LogSlate: Window 'M_jj_MASTER_Inst*' being destroyed
+[2020.05.16-20.17.05:725][877]LogEditorViewport: Clicking on Actor (LMB): BP_FogSheet_C (BP_FogSheet7)
+[2020.05.16-20.17.07:546][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.17.08:916][ 77]Cmd: SELECT NONE
+[2020.05.16-20.17.09:988][139]LogEditorViewport: Clicking on Actor (LMB): BP_FogSheet_C (BP_FogSheet7)
+[2020.05.16-20.18.06:830][843]Cmd: SELECT NONE
+[2020.05.16-20.18.07:892][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.19.03:444][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.19.19:374][508]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_LOWRES_Inst9C89CDE84467BC2B227CFEAE8E6CC907.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_LOWRES_Inst.uasset'
+[2020.05.16-20.19.19:424][508]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_LOWRES819EB3AE4606B19A95739E8D99564D7A.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_LOWRES.uasset'
+[2020.05.16-20.19.48:469][813]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_AutoDDBFD6BE46DBDD11045100947DB81E57.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_Auto5.umap'
+[2020.05.16-20.19.48:476][813]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 2.849
+[2020.05.16-20.19.48:476][813]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.849
+[2020.05.16-20.20.22:610][ 53]LogAssetEditorManager: Opening Asset editor for Material /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP.M_CelShade_PP
+[2020.05.16-20.20.22:628][ 53]LogMaterial: Display: Missing cached shader map for material M_CelShade_PP, compiling. 
+[2020.05.16-20.20.22:881][ 53]LogMaterial: Display: Missing cached shader map for material M_CelShade_PP, compiling. 
+[2020.05.16-20.20.22:895][ 53]LogMaterial: Display: Missing cached shader map for material M_CelShade_PP, compiling. 
+[2020.05.16-20.20.22:917][ 53]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.05.16-20.20.22:917][ 53]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.05.16-20.20.22:917][ 53]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.05.16-20.20.22:947][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.05.16-20.20.22:955][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.05.16-20.20.24:465][125]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.05.16-20.20.24:483][126]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.05.16-20.20.24:888][146]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.05.16-20.20.25:248][165]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.05.16-20.20.25:386][173]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.05.16-20.20.25:499][180]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.05.16-20.20.25:618][187]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.05.16-20.20.25:683][188]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.05.16-20.20.25:683][188]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2020.05.16-20.20.25:683][188]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.16-20.20.25:684][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(13)
+[2020.05.16-20.20.25:684][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.16-20.20.26:227][211]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.05.16-20.20.26:593][229]LogMaterialEditor: Saving and Compiling material M_CelShade_PP
+[2020.05.16-20.20.26:671][229]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_CelShade_PP8EA6D19C48144F254D12CEB5F2C095CA.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Content/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP.uasset'
+[2020.05.16-20.20.27:033][248]LogSlate: Window 'M_CelShade_PP' being destroyed
+[2020.05.16-20.20.37:302][330]LogAssetEditorManager: Opening Asset editor for LightPropagationVolumeBlendable /Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART.Graveyard-Catacomb_FINALART:PersistentLevel.Graveyard_PP.LightPropagationVolumeBlendable_0
+[2020.05.16-20.20.38:334][407]LogSlate: Window 'LightPropagationVolumeBlendable_0* - Generic Asset Editor' being destroyed
+[2020.05.16-20.20.38:340][407]LogSlate: Window 'LightPropagationVolumeBlendable_0* - Generic Asset Editor' being destroyed
+[2020.05.16-20.20.56:266][235]Cmd: SELECT NONE
+[2020.05.16-20.20.58:653][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.21.08:642][384]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP_Inst.M_CelShade_PP_Inst
+[2020.05.16-20.21.30:206][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.21.50:659][776]Cmd: SELECT NONE
+[2020.05.16-20.21.58:230][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.22.15:379][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.22.21:664][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.22.22:702][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.22.24:818][306]LogClient: High resolution screenshot saved as D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Screenshots/Windows/HighresScreenshot00017.png
+[2020.05.16-20.22.24:828][306]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:235785).
+[2020.05.16-20.22.25:860][382]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.05.16-20.23.19:834][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.23.21:025][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.23.22:523][828]LogClient: High resolution screenshot saved as D:/Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Screenshots/Windows/HighresScreenshot00018.png
+[2020.05.16-20.23.22:535][828]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:236019).
+[2020.05.16-20.27.35:291][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.27.35:390][783]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.05.16-20.27.36:183][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.16-20.27.37:085][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-20.29.54:284][850]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Graveyard-Catacomb_FINALART_AutoA78F6F3D418BA47CCB069884193E89EC.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART_Auto6.umap'
+[2020.05.16-20.29.54:292][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SynthvaniaContent/Levels/Graveyard-Catacomb_FINALART' took 5.601
+[2020.05.16-20.29.54:292][850]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.601
+[2020.05.16-20.29.54:298][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP_Inst] ([1] browsable assets)...
+[2020.05.16-20.29.54:313][850]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP_Inst.M_CelShade_PP_Inst]
+[2020.05.16-20.29.54:313][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP_Inst]
+[2020.05.16-20.29.54:374][850]TextureStreamingBuild: Display: Compiling optional shaders took 0.025 seconds.
+[2020.05.16-20.29.54:445][850]LogSavePackage: Moving '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/M_CelShade_PP_Inst_Auto658476A214C5BA4D0C60D00A2E1381DEE.tmp' to '../../../../../Teesside University/Year 2 - Teesside/Journeyman/Team-8-BIOMIX/Saved/Autosaves/Game/SynthvaniaContent/ART/JoeJohnson_ART/Materials/PostPro/M_CelShade_PP_Inst_Auto6.uasset'
+[2020.05.16-20.29.54:449][850]LogFileHelpers: Auto-saving content packages took 0.153
+[2020.05.16-20.47.04:356][910]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-20.47.05:271][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-20.47.07:324][913]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-20.47.09:469][915]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-20.47.12:447][920]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.16-21.19.09:841][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.16-21.19.12:450][666]LogSlate: Window 'Save Content' being destroyed
